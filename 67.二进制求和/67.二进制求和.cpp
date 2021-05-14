@@ -1,3 +1,10 @@
+/*
+ * @Descroption: LeetCode 67. 二进制求和
+ * @Author: EmoryHuang
+ * @Date: 2021-05-10 10:53:36
+ * @解题思路: 模拟二进制加法，维护 carry，表示进位
+ */
+
 class Solution {
    public:
     string addBinary(string a, string b) {

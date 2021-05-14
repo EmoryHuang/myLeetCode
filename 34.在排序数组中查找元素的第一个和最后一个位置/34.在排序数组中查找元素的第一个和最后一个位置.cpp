@@ -1,3 +1,12 @@
+/*
+ * @Descroption: LeetCode 34. 在排序数组中查找元素的第一个和最后一个位置
+ * @Author: EmoryHuang
+ * @Date: 2021-05-10 11:43:36
+ * @解题思路: 采用二分的方法，分别寻找左右边界
+ * 二分思想很简单，二分细节是魔鬼
+ * 更多有关二分查找的探究可以看：[二分查找学习笔记](https://emoryhuang.github.io/blog/158595231.html)
+ */
+
 class Solution {
    public:
     vector<int> searchRange(vector<int>& nums, int target) {

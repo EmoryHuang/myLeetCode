@@ -1,3 +1,12 @@
+/*
+ * @Descroption: LeetCode 77. 组合
+ * @Author: EmoryHuang
+ * @Date: 2021-05-12 16:17:36
+ * @解题思路: 回溯 + 剪枝
+ * 从 `1` 开始，如果 `p.size() < k`，那么就将元素依次放入 p，
+ * 如果 `p.size() == k` 那么就将 `p` 放入 `ans`
+ */
+
 class Solution {
    public:
     void dfs(vector<vector<int>>& ans, vector<int>& p, int n, int k, int st) {
