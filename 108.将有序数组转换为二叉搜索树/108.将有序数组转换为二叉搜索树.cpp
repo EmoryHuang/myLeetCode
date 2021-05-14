@@ -1,3 +1,12 @@
+/*
+ * @Descroption: LeetCode 108. 将有序数组转换为二叉搜索树
+ * @Author: EmoryHuang
+ * @Date: 2021-05-09 16:00:36
+ * @解题思路:
+ * 以升序序列中的任一个元素作为根节点，以该元素左边的升序序列构建左子树，以该元素右边的升序序列构建右子树，这样得到的树就是一棵二叉搜索树
+ * 又因为本题要求高度平衡，因此我们需要选择升序序列的中间元素作为根节点
+ */
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {

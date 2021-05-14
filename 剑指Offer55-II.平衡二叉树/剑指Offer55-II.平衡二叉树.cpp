@@ -1,3 +1,10 @@
+/*
+ * @Descroption: LeetCode 110. 平衡二叉树
+ * @Author: EmoryHuang
+ * @Date: 2021-05-09 16:14:36
+ * @解题思路: 递归计算子树高度，-1 表示不平衡
+ */
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {

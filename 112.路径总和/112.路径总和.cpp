@@ -1,3 +1,10 @@
+/*
+ * @Descroption: LeetCode 112. 路径总和
+ * @Author: EmoryHuang
+ * @Date: 2021-05-09 15:47:36
+ * @解题思路: 深度优先，若为叶子结点，则判断 `targetSum - root->val == 0` ，否则递归的遍历左右子树。
+ */
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {

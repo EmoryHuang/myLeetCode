@@ -1,3 +1,13 @@
+/*
+ * @Descroption: LeetCode 134. 加油站
+ * @Author: EmoryHuang
+ * @Date: 2021-05-13 14:47:36
+ * @解题思路:
+ * 如果起始站的收益如果小于 0，那么不能作为起点
+ * 多个站可以等效为一个站，如果不能到达，那么下一站作为起点
+ * 最后总和必须大于等于 0
+ */
+
 class Solution {
    public:
     int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
