@@ -1,9 +1,9 @@
 /*
- * @Descroption:LC 12. ����ת��������
+ * @Descroption: LeetCode 12. 整数转罗马数字
  * @Author: EmoryHuang
  * @Date: 2021-05-08 15:48:05
- * @����˼·:̰��˼�룬������һ·��������ƥ���Ӧ���ַ�����
- *          ע�⽫��Щ�������`CM`,`CD`,`XC`,`XL`,`IX`,`IV`һ����Ϊ����ֵ
+ * @解题思路: 贪心思想，从最大的一路减下来，匹配对应的字符即可
+ *          注意将那些特殊情况`CM`,`CD`,`XC`,`XL`,`IX`,`IV`一起考虑为特殊值
  */
 
 class Solution {
