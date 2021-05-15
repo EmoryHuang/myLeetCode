@@ -1,3 +1,14 @@
+/*
+ * @Descroption: LeetCode 1269. 停在原地的方案数
+ * @Author: EmoryHuang
+ * @Date: 2021-05-13 14:20:36
+ * @解题思路: 动态规划
+ * `dp[j]` 表示在下标 `j` 处的方案数，`next`为下一步操作后的 dp
+ * 不动：`next[j] = dp[j]`
+ * 向右：`next[j] = dp[j - 1] + next[j]`
+ * 向左：`next[j] = dp[j + 1] + next[j]`
+ */
+
 class Solution {
    public:
     const int M = 1000000007;

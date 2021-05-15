@@ -1,3 +1,15 @@
+/*
+ * @Descroption: LeetCode 1482. 制作 m 束花所需的最少天数
+ * @Author: EmoryHuang
+ * @Date: 2021-05-09 14:58:36
+ * @解题思路:
+ * 建立一个辅助函数 `makeBloom`，判断在第 `i` 天能不能制作出 `m` 朵花束，
+ * 之后通过二分的方法，寻找最小的 `i` 值
+ * 对于 `makeBloom` 来说，维护两个值，一个是花的数量 `bloom`，另一个是花束的数量 `num`，
+ * 遍历 `bloomDay`，如果第 `i` 朵花开，那么记录，直到制成花束 `bloom` 清零；
+ * 如果第 `i` 朵花没开，那么 `bloom` 清零
+ */
+
 class Solution {
    public:
     bool makeBloom(vector<int>& bloomDay, int day, int m, int k) {

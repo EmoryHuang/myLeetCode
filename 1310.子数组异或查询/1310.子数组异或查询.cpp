@@ -1,3 +1,12 @@
+/*
+ * @Descroption: LeetCode 1310. 子数组异或查询
+ * @Author: EmoryHuang
+ * @Date: 2021-05-12 15:41:36
+ * @解题思路:
+ * `nums[i]` 为从 `arr[0]` 到 `arr[i-1]` 的异或结果
+ * 对于查询 `[left,right]`，只需要计算 `nums[left] ^ nums[right + 1]`
+ */
+
 class Solution {
    public:
     vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
