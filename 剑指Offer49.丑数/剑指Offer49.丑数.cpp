@@ -1,18 +1,28 @@
 /*
- * @Descroption: LeetCode 263. 丑数
+ * @Descroption: 剑指 Offer 49. 丑数
  * @Author: EmoryHuang
- * @Date: 2021-03-21 15:54:36
+ * @Date: 2021-07-04 15:02:36
  * @解题思路:
- * 题目很简单，不断对 2，3，5 整除即可
+ * 通过遍历判断丑数会超时
+ *
+ * 使用动态规划方法，设置三个指针`p2`，`p3`，`p5`，令`dp[0]=1`
+ * `p2`，`p3`，`p5`分别指向`dp[i]`的 2 倍，3 倍，5 倍数，
+ * 若遍历到则跳过，`dp[n-1]`即为所求
  */
 
 class Solution {
    public:
-    bool isUgly(int n) {
-        if (n < 1) return false;
-        while (n % 2 == 0) n /= 2;
-        while (n % 3 == 0) n /= 3;
-        while (n % 5 == 0) n /= 5;
-        return n == 1;
+    int nthUglyNumber(int n) {
+        vector<int> dp(n);
+        dp[0] = 1;
+        int p2 = 0, p3 = 0, p5 = 0;
+        for (int i = 1; i < n; i++) {
+            int num2 = dp[p2] * 2, num3 = dp[p3] * 3, num5 = dp[p5] * 5;
+            dp[i] = min(min(num2, num3), num5);
+            if (dp[i] == num2) p2++;  // 跳过
+            if (dp[i] == num3) p3++;
+            if (dp[i] == num5) p5++;
+        }
+        return dp[n - 1];
     }
 };
