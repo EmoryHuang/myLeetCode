@@ -1,0 +1,27 @@
+'''
+Descroption: 面试题 02.08. 环路检测
+Author: EmoryHuang
+Date: 2021-07-16 19:52:33
+解题思路:
+快慢指针寻找入口
+'''
+
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def detectCycle(self, head: ListNode) -> ListNode:
+        slow = fast = head
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+            if slow == fast:
+                fast = head
+                while slow != fast:
+                    slow = slow.next
+                    fast = fast.next
+                return fast
