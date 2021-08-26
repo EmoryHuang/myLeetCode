@@ -1,30 +1,24 @@
 /*
  * @Descroption: LeetCode 881. 救生艇
  * @Author: EmoryHuang
- * @Date: 2021-07-21 20:18:39
- * @解题思路:
- * 双指针 + 贪心
- * 如果最左边和最右边的人能上船，那么这两个人就走
- * 如果最左边和最右边的人不能上船，最右边的人单独走
+ * @Date: 2021-08-26 15:56:33
+ * @Method:
+ * 双指针 + 排序
+ * 首先对数组进行排序，维护两个指针l和r，分别指向头尾
+ * 若 people[l] + people[r] <= limit 说明能够载2人，指针分别向右，向左更新
+ * 否则，people[r] 需要单独安排船，右指针向左移动
  */
 
 class Solution {
    public:
     int numRescueBoats(vector<int>& people, int limit) {
         sort(people.begin(), people.end());
-        int cnt = 0, l = 0, r = people.size() - 1;
+        int ans = 0, l = 0, r = people.size() - 1;
         while (l <= r) {
-            if (people[l] + people[r] <= limit) {
-                // 如果最左边和最右边的人能上船
-                l++;
-                r--;
-                cnt++;
-            } else {
-                // 如果最左边和最右边的人不能上船，最右边的人单独走
-                r--;
-                cnt++;
-            }
+            if (people[l] + people[r] <= limit) l++;
+            r--;
+            ans++;
         }
-        return cnt;
+        return ans;
     }
 };
