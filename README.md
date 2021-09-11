@@ -6,14 +6,14 @@
 ![](https://img.shields.io/badge/Solved-43-red)
 
 
-🧡最近一次更新:  2021-09-11 09:25:16
+🧡最近一次更新:  2021-09-11 09:29:08
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
 
 <hr>
 
-|  题号  |     题目     |   难度  |   标签   |   题解   | 
+|  题号  |     题目     |   <div style="width:50px">难度</div>  |   标签   |   <div style="width:50px">题解</div>   | 
 | :----: | :--------: | :----: | :------: | :------: | 
 |1|[两数之和](https://leetcode-cn.com/problems/two-sum)|<span style="color: #2db55d;">简单</span>|数组、哈希表|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1.两数之和/1.两数之和.cpp)|
 |2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers)|<span style="color: #ffb800;">中等</span>|递归、链表、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/2.两数相加/2.两数相加.cpp)|
