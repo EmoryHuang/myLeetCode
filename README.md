@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
 ![](https://img.shields.io/badge/Solved-717/2342-blue)
-![](https://img.shields.io/badge/Solved-315-brightgreen)
-![](https://img.shields.io/badge/Solved-359-yellow)
-![](https://img.shields.io/badge/Solved-43-red)
+![](https://img.shields.io/badge/easy-315-brightgreen)
+![](https://img.shields.io/badge/medium-359-yellow)
+![](https://img.shields.io/badge/hard-43-red)
 
 
-🧡最近一次更新:  2021-09-11 09:37:23
+🧡最近一次更新:  2021-09-11 09:39:45
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
