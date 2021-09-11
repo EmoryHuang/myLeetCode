@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-717/2342-blue)
-![](https://img.shields.io/badge/easy-315-brightgreen)
-![](https://img.shields.io/badge/medium-359-yellow)
-![](https://img.shields.io/badge/hard-43-red)
+![](https://img.shields.io/badge/Solved-720/2347-blue)
+![](https://img.shields.io/badge/easy-316-brightgreen)
+![](https://img.shields.io/badge/medium-360-yellow)
+![](https://img.shields.io/badge/hard-44-red)
 
 
-🧡最近一次更新:  2021-09-11 09:39:45
+🧡最近一次更新:  2021-09-11 20:54:38
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -614,7 +614,7 @@
 |597|好友申请 I：总体通过率 🔒|<span style="color: #2db55d;">简单</span>|数据库|To Do|
 |598|[范围求和 II](https://leetcode-cn.com/problems/range-addition-ii)|<span style="color: #2db55d;">简单</span>|数组、数学|To Do|
 |599|[两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists)|<span style="color: #2db55d;">简单</span>|数组、哈希表、字符串|To Do|
-|600|[不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones)|<span style="color: #ef4743;">困难</span>|动态规划|To Do|
+|600|[不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones)|<span style="color: #ef4743;">困难</span>|动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/600.不含连续1的非负整数/600.不含连续1的非负整数.cpp)|
 |601|[体育馆的人流量](https://leetcode-cn.com/problems/human-traffic-of-stadium)|<span style="color: #ef4743;">困难</span>|数据库|To Do|
 |602|好友申请 II ：谁有最多的好友 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
 |603|连续空余座位 🔒|<span style="color: #2db55d;">简单</span>|数据库|To Do|
@@ -1231,7 +1231,7 @@
 |1214|查找两棵二叉搜索树之和 🔒|<span style="color: #ffb800;">中等</span>|栈、树、深度优先搜索、二叉搜索树、双指针、二分查找、二叉树|To Do|
 |1215|步进数 🔒|<span style="color: #ffb800;">中等</span>|广度优先搜索、回溯|To Do|
 |1216|验证回文字符串 III 🔒|<span style="color: #ef4743;">困难</span>|字符串、动态规划|To Do|
-|1217|[玩筹码](https://leetcode-cn.com/problems/minimum-cost-to-move-chips-to-the-same-position)|<span style="color: #2db55d;">简单</span>|贪心、数组、数学|To Do|
+|1217|[玩筹码](https://leetcode-cn.com/problems/minimum-cost-to-move-chips-to-the-same-position)|<span style="color: #2db55d;">简单</span>|贪心、数组、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1217.玩筹码/1217.玩筹码.cpp)|
 |1218|[最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference)|<span style="color: #ffb800;">中等</span>|数组、哈希表、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1218.最长定差子序列/1218.最长定差子序列.cpp)|
 |1219|[黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold)|<span style="color: #ffb800;">中等</span>|数组、回溯、矩阵|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1219.黄金矿工/1219.黄金矿工.cpp)|
 |1220|[统计元音字母序列的数目](https://leetcode-cn.com/problems/count-vowels-permutation)|<span style="color: #ef4743;">困难</span>|动态规划|To Do|
@@ -1848,7 +1848,7 @@
 |1831|每天的最大交易 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
 |1832|[判断句子是否为全字母句](https://leetcode-cn.com/problems/check-if-the-sentence-is-pangram)|<span style="color: #2db55d;">简单</span>|哈希表、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1832.判断句子是否为全字母句/1832.判断句子是否为全字母句.cpp)|
 |1833|[雪糕的最大数量](https://leetcode-cn.com/problems/maximum-ice-cream-bars)|<span style="color: #ffb800;">中等</span>|贪心、数组、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1833.雪糕的最大数量/1833.雪糕的最大数量.cpp)|
-|1834|[单线程 CPU](https://leetcode-cn.com/problems/single-threaded-cpu)|<span style="color: #ffb800;">中等</span>|数组、排序、堆（优先队列）|To Do|
+|1834|[单线程 CPU](https://leetcode-cn.com/problems/single-threaded-cpu)|<span style="color: #ffb800;">中等</span>|数组、排序、堆（优先队列）|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1834.单线程CPU/1834.单线程CPU.cpp)|
 |1835|[所有数对按位与结果的异或和](https://leetcode-cn.com/problems/find-xor-sum-of-all-pairs-bitwise-and)|<span style="color: #ef4743;">困难</span>|位运算、数组、数学|To Do|
 |1836|从未排序的链表中移除重复元素 🔒|<span style="color: #ffb800;">中等</span>|哈希表、链表|To Do|
 |1837|[K 进制表示下的各位数字总和](https://leetcode-cn.com/problems/sum-of-digits-in-base-k)|<span style="color: #2db55d;">简单</span>|数学|To Do|
@@ -2051,6 +2051,11 @@
 |LCP36|[最多牌组数](https://leetcode-cn.com/problems/Up5XYM)|<span style="color: #ef4743;">困难</span>|数组、动态规划、排序|To Do|
 |LCP37|[最小矩形面积](https://leetcode-cn.com/problems/zui-xiao-ju-xing-mian-ji)|<span style="color: #ef4743;">困难</span>|贪心、几何、数组、数学、组合数学、排序|To Do|
 |LCP38|[守卫城堡](https://leetcode-cn.com/problems/7rLGCR)|<span style="color: #ef4743;">困难</span>|数组、动态规划、矩阵|To Do|
+|LCP39|[无人机方阵](https://leetcode-cn.com/problems/0jQkd0)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|LCP40|[心算挑战](https://leetcode-cn.com/problems/uOAnQW)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|LCP41|[黑白翻转棋](https://leetcode-cn.com/problems/fHi6rV)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|LCP42|[玩具套圈](https://leetcode-cn.com/problems/vFjcfV)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|LCP43|[十字路口的交通](https://leetcode-cn.com/problems/Y1VbOX)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCS01|[下载插件](https://leetcode-cn.com/problems/Ju9Xwi)|<span style="color: #2db55d;">简单</span>|数学、动态规划|To Do|
 |LCS02|[完成一半题目](https://leetcode-cn.com/problems/WqXACV)|<span style="color: #2db55d;">简单</span>|贪心、数组、哈希表、排序|To Do|
 |LCS03|[主题空间](https://leetcode-cn.com/problems/YesdPw)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、并查集、数组、矩阵|To Do|
