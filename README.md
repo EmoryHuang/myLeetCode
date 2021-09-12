@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-720/2347-blue)
+![](https://img.shields.io/badge/Solved-721/2351-blue)
 ![](https://img.shields.io/badge/easy-316-brightgreen)
-![](https://img.shields.io/badge/medium-360-yellow)
+![](https://img.shields.io/badge/medium-361-yellow)
 ![](https://img.shields.io/badge/hard-44-red)
 
 
-🧡最近一次更新:  2021-09-11 20:54:38
+🧡最近一次更新:  2021-09-12 18:36:52
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -692,7 +692,7 @@
 |675|[为高尔夫比赛砍树](https://leetcode-cn.com/problems/cut-off-trees-for-golf-event)|<span style="color: #ef4743;">困难</span>|广度优先搜索、数组、矩阵、堆（优先队列）|To Do|
 |676|[实现一个魔法字典](https://leetcode-cn.com/problems/implement-magic-dictionary)|<span style="color: #ffb800;">中等</span>|设计、字典树、哈希表、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/676.实现一个魔法字典/676.实现一个魔法字典.cpp)|
 |677|[键值映射](https://leetcode-cn.com/problems/map-sum-pairs)|<span style="color: #ffb800;">中等</span>|设计、字典树、哈希表、字符串|To Do|
-|678|[有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string)|<span style="color: #ffb800;">中等</span>|栈、贪心、字符串、动态规划|To Do|
+|678|[有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string)|<span style="color: #ffb800;">中等</span>|栈、贪心、字符串、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/678.有效的括号字符串/678.有效的括号字符串.cpp)|
 |679|[24 点游戏](https://leetcode-cn.com/problems/24-game)|<span style="color: #ef4743;">困难</span>|数组、数学、回溯|To Do|
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii)|<span style="color: #2db55d;">简单</span>|贪心、双指针、字符串|To Do|
 |681|最近时刻 🔒|<span style="color: #ffb800;">中等</span>|字符串、枚举|To Do|
@@ -2013,6 +2013,10 @@
 |1996|[游戏中弱角色的数量](https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game)|<span style="color: #ffb800;">中等</span>|栈、贪心、数组、排序、单调栈|To Do|
 |1997|[访问完所有房间的第一天](https://leetcode-cn.com/problems/first-day-where-you-have-been-in-all-the-rooms)|<span style="color: #ffb800;">中等</span>|数组、动态规划|To Do|
 |1998|[数组的最大公因数排序](https://leetcode-cn.com/problems/gcd-sort-of-an-array)|<span style="color: #ef4743;">困难</span>|并查集、数组、数学、排序|To Do|
+|5867|[反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|5868|[可互换矩形的组数](https://leetcode-cn.com/problems/number-of-pairs-of-interchangeable-rectangles)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5869|[两个回文子序列长度的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5870|[每棵子树内缺失的最小基因值](https://leetcode-cn.com/problems/smallest-missing-genetic-value-in-each-subtree)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
