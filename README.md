@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-721/2351-blue)
-![](https://img.shields.io/badge/easy-316-brightgreen)
-![](https://img.shields.io/badge/medium-361-yellow)
+![](https://img.shields.io/badge/Solved-724/2353-blue)
+![](https://img.shields.io/badge/easy-317-brightgreen)
+![](https://img.shields.io/badge/medium-363-yellow)
 ![](https://img.shields.io/badge/hard-44-red)
 
 
-🧡最近一次更新:  2021-09-12 18:37:41
+🧡最近一次更新:  2021-09-13 20:44:21
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -144,7 +144,7 @@
 |127|[单词接龙](https://leetcode-cn.com/problems/word-ladder)|<span style="color: #ef4743;">困难</span>|广度优先搜索、哈希表、字符串|To Do|
 |128|[最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence)|<span style="color: #ffb800;">中等</span>|并查集、数组、哈希表|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/128.最长连续序列/128.最长连续序列.cpp)|
 |129|[求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/129.求根节点到叶节点数字之和/129.求根节点到叶节点数字之和.cpp)|
-|130|[被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、并查集、数组、矩阵|To Do|
+|130|[被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、并查集、数组、矩阵|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/130.被围绕的区域/130.被围绕的区域.cpp)|
 |131|[分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning)|<span style="color: #ffb800;">中等</span>|字符串、动态规划、回溯|To Do|
 |132|[分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii)|<span style="color: #ef4743;">困难</span>|字符串、动态规划|To Do|
 |133|[克隆图](https://leetcode-cn.com/problems/clone-graph)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、图、哈希表|To Do|
@@ -461,7 +461,7 @@
 |444|序列重建 🔒|<span style="color: #ffb800;">中等</span>|图、拓扑排序、数组|To Do|
 |445|[两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii)|<span style="color: #ffb800;">中等</span>|栈、链表、数学|To Do|
 |446|[等差数列划分 II - 子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence)|<span style="color: #ef4743;">困难</span>|数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/446.等差数列划分II-子序列/446.等差数列划分II-子序列.cpp)|
-|447|[回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs)|<span style="color: #ffb800;">中等</span>|数组、哈希表、数学|To Do|
+|447|[回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs)|<span style="color: #ffb800;">中等</span>|数组、哈希表、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/447.回旋镖的数量/447.回旋镖的数量.cpp)|
 |448|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array)|<span style="color: #2db55d;">简单</span>|数组、哈希表|To Do|
 |449|[序列化和反序列化二叉搜索树](https://leetcode-cn.com/problems/serialize-and-deserialize-bst)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、广度优先搜索、设计、二叉搜索树、字符串、二叉树|To Do|
 |450|[删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst)|<span style="color: #ffb800;">中等</span>|树、二叉搜索树、二叉树|To Do|
@@ -612,7 +612,7 @@
 |595|[大的国家](https://leetcode-cn.com/problems/big-countries)|<span style="color: #2db55d;">简单</span>|数据库|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/595.大的国家/595.大的国家.sql)|
 |596|[超过5名学生的课](https://leetcode-cn.com/problems/classes-more-than-5-students)|<span style="color: #2db55d;">简单</span>|数据库|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/596.超过5名学生的课/596.超过5名学生的课.sql)|
 |597|好友申请 I：总体通过率 🔒|<span style="color: #2db55d;">简单</span>|数据库|To Do|
-|598|[范围求和 II](https://leetcode-cn.com/problems/range-addition-ii)|<span style="color: #2db55d;">简单</span>|数组、数学|To Do|
+|598|[范围求和 II](https://leetcode-cn.com/problems/range-addition-ii)|<span style="color: #2db55d;">简单</span>|数组、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/598.范围求和II/598.范围求和II.cpp)|
 |599|[两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists)|<span style="color: #2db55d;">简单</span>|数组、哈希表、字符串|To Do|
 |600|[不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones)|<span style="color: #ef4743;">困难</span>|动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/600.不含连续1的非负整数/600.不含连续1的非负整数.cpp)|
 |601|[体育馆的人流量](https://leetcode-cn.com/problems/human-traffic-of-stadium)|<span style="color: #ef4743;">困难</span>|数据库|To Do|
@@ -2013,10 +2013,12 @@
 |1996|[游戏中弱角色的数量](https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game)|<span style="color: #ffb800;">中等</span>|栈、贪心、数组、排序、单调栈|To Do|
 |1997|[访问完所有房间的第一天](https://leetcode-cn.com/problems/first-day-where-you-have-been-in-all-the-rooms)|<span style="color: #ffb800;">中等</span>|数组、动态规划|To Do|
 |1998|[数组的最大公因数排序](https://leetcode-cn.com/problems/gcd-sort-of-an-array)|<span style="color: #ef4743;">困难</span>|并查集、数组、数学、排序|To Do|
-|5867|[反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
-|5868|[可互换矩形的组数](https://leetcode-cn.com/problems/number-of-pairs-of-interchangeable-rectangles)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
-|5869|[两个回文子序列长度的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
-|5870|[每棵子树内缺失的最小基因值](https://leetcode-cn.com/problems/smallest-missing-genetic-value-in-each-subtree)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|1999|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2000|[反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2001|[可互换矩形的组数](https://leetcode-cn.com/problems/number-of-pairs-of-interchangeable-rectangles)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2002|[两个回文子序列长度的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2003|[每棵子树内缺失的最小基因值](https://leetcode-cn.com/problems/smallest-missing-genetic-value-in-each-subtree)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|2004|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
