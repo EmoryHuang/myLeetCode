@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-724/2353-blue)
-![](https://img.shields.io/badge/easy-317-brightgreen)
-![](https://img.shields.io/badge/medium-363-yellow)
+![](https://img.shields.io/badge/Solved-727/2353-blue)
+![](https://img.shields.io/badge/easy-318-brightgreen)
+![](https://img.shields.io/badge/medium-365-yellow)
 ![](https://img.shields.io/badge/hard-44-red)
 
 
-🧡最近一次更新:  2021-09-13 20:44:21
+🧡最近一次更新:  2021-09-14 16:42:18
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -538,7 +538,7 @@
 |521|[最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i)|<span style="color: #2db55d;">简单</span>|字符串|To Do|
 |522|[最长特殊序列 II](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii)|<span style="color: #ffb800;">中等</span>|数组、哈希表、双指针、字符串、排序|To Do|
 |523|[连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum)|<span style="color: #ffb800;">中等</span>|数组、哈希表、数学、前缀和|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/523.连续的子数组和/523.连续的子数组和.cpp)|
-|524|[通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting)|<span style="color: #ffb800;">中等</span>|数组、双指针、字符串、排序|To Do|
+|524|[通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting)|<span style="color: #ffb800;">中等</span>|数组、双指针、字符串、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/524.通过删除字母匹配到字典里最长单词/524.通过删除字母匹配到字典里最长单词.cpp)|
 |525|[连续数组](https://leetcode-cn.com/problems/contiguous-array)|<span style="color: #ffb800;">中等</span>|数组、哈希表、前缀和|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/525.连续数组/525.连续数组.cpp)|
 |526|[优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement)|<span style="color: #ffb800;">中等</span>|位运算、数组、动态规划、回溯、状态压缩|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/526.优美的排列/526.优美的排列.cpp)|
 |527|单词缩写 🔒|<span style="color: #ef4743;">困难</span>|贪心、字典树、数组、字符串、排序|To Do|
@@ -1035,7 +1035,7 @@
 |1018|[可被 5 整除的二进制前缀](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5)|<span style="color: #2db55d;">简单</span>|数组|To Do|
 |1019|[链表中的下一个更大节点](https://leetcode-cn.com/problems/next-greater-node-in-linked-list)|<span style="color: #ffb800;">中等</span>|栈、数组、链表、单调栈|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1019.链表中的下一个更大节点/1019.链表中的下一个更大节点.cpp)|
 |1020|[飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、并查集、数组、矩阵|To Do|
-|1021|[删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses)|<span style="color: #2db55d;">简单</span>|栈、字符串|To Do|
+|1021|[删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses)|<span style="color: #2db55d;">简单</span>|栈、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1021.删除最外层的括号/1021.删除最外层的括号.cpp)|
 |1022|[从根到叶的二进制数之和](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers)|<span style="color: #2db55d;">简单</span>|树、深度优先搜索、二叉树|To Do|
 |1023|[驼峰式匹配](https://leetcode-cn.com/problems/camelcase-matching)|<span style="color: #ffb800;">中等</span>|字典树、双指针、字符串、字符串匹配|To Do|
 |1024|[视频拼接](https://leetcode-cn.com/problems/video-stitching)|<span style="color: #ffb800;">中等</span>|贪心、数组、动态规划|To Do|
@@ -1619,7 +1619,7 @@
 |1602|找到二叉树中最近的右侧节点 🔒|<span style="color: #ffb800;">中等</span>|树、广度优先搜索、二叉树|To Do|
 |1603|[设计停车系统](https://leetcode-cn.com/problems/design-parking-system)|<span style="color: #2db55d;">简单</span>|设计、计数、模拟|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1603.设计停车系统/1603.设计停车系统.cpp)|
 |1604|[警告一小时内使用相同员工卡大于等于三次的人](https://leetcode-cn.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period)|<span style="color: #ffb800;">中等</span>|数组、哈希表、字符串、排序|To Do|
-|1605|[给定行和列的和求可行矩阵](https://leetcode-cn.com/problems/find-valid-matrix-given-row-and-column-sums)|<span style="color: #ffb800;">中等</span>|贪心、数组、矩阵|To Do|
+|1605|[给定行和列的和求可行矩阵](https://leetcode-cn.com/problems/find-valid-matrix-given-row-and-column-sums)|<span style="color: #ffb800;">中等</span>|贪心、数组、矩阵|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1605.给定行和列的和求可行矩阵/1605.给定行和列的和求可行矩阵.cpp)|
 |1606|[找到处理最多请求的服务器](https://leetcode-cn.com/problems/find-servers-that-handled-most-number-of-requests)|<span style="color: #ef4743;">困难</span>|贪心、数组、有序集合、堆（优先队列）|To Do|
 |1607|没有卖出的卖家 🔒|<span style="color: #2db55d;">简单</span>|数据库|To Do|
 |1608|[特殊数组的特征值](https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x)|<span style="color: #2db55d;">简单</span>|数组、二分查找、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1608.特殊数组的特征值/1608.特殊数组的特征值.cpp)|
