@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-727/2353-blue)
-![](https://img.shields.io/badge/easy-318-brightgreen)
-![](https://img.shields.io/badge/medium-365-yellow)
-![](https://img.shields.io/badge/hard-44-red)
+![](https://img.shields.io/badge/Solved-731/2354-blue)
+![](https://img.shields.io/badge/easy-319-brightgreen)
+![](https://img.shields.io/badge/medium-367-yellow)
+![](https://img.shields.io/badge/hard-45-red)
 
 
-🧡最近一次更新:  2021-09-14 16:42:18
+🧡最近一次更新:  2021-09-16 21:13:06
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -226,7 +226,7 @@
 |209|[长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum)|<span style="color: #ffb800;">中等</span>|数组、二分查找、前缀和、滑动窗口|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/209.长度最小的子数组/209.长度最小的子数组.cpp)|
 |210|[课程表 II](https://leetcode-cn.com/problems/course-schedule-ii)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、图、拓扑排序|To Do|
 |211|[添加与搜索单词 - 数据结构设计](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure)|<span style="color: #ffb800;">中等</span>|深度优先搜索、设计、字典树、字符串|To Do|
-|212|[单词搜索 II](https://leetcode-cn.com/problems/word-search-ii)|<span style="color: #ef4743;">困难</span>|字典树、数组、字符串、回溯、矩阵|To Do|
+|212|[单词搜索 II](https://leetcode-cn.com/problems/word-search-ii)|<span style="color: #ef4743;">困难</span>|字典树、数组、字符串、回溯、矩阵|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/212.单词搜索II/212.单词搜索II.cpp)|
 |213|[打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii)|<span style="color: #ffb800;">中等</span>|数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/213.打家劫舍II/213.打家劫舍II.cpp)|
 |214|[最短回文串](https://leetcode-cn.com/problems/shortest-palindrome)|<span style="color: #ef4743;">困难</span>|字符串、字符串匹配、哈希函数、滚动哈希|To Do|
 |215|[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array)|<span style="color: #ffb800;">中等</span>|数组、分治、快速选择、排序、堆（优先队列）|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/215.数组中的第K个最大元素/215.数组中的第K个最大元素.cpp)|
@@ -793,7 +793,7 @@
 |776|拆分二叉搜索树 🔒|<span style="color: #ffb800;">中等</span>|树、二叉搜索树、递归、二叉树|To Do|
 |777|[在LR字符串中交换相邻字符](https://leetcode-cn.com/problems/swap-adjacent-in-lr-string)|<span style="color: #ffb800;">中等</span>|双指针、字符串|To Do|
 |778|[水位上升的泳池中游泳](https://leetcode-cn.com/problems/swim-in-rising-water)|<span style="color: #ef4743;">困难</span>|深度优先搜索、广度优先搜索、并查集、数组、二分查找、矩阵、堆（优先队列）|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/778.水位上升的泳池中游泳/778.水位上升的泳池中游泳.cpp)|
-|779|[第K个语法符号](https://leetcode-cn.com/problems/k-th-symbol-in-grammar)|<span style="color: #ffb800;">中等</span>|位运算、递归、数学|To Do|
+|779|[第K个语法符号](https://leetcode-cn.com/problems/k-th-symbol-in-grammar)|<span style="color: #ffb800;">中等</span>|位运算、递归、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/779.第K个语法符号/779.第K个语法符号.cpp)|
 |780|[到达终点](https://leetcode-cn.com/problems/reaching-points)|<span style="color: #ef4743;">困难</span>|数学|To Do|
 |781|[森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest)|<span style="color: #ffb800;">中等</span>|贪心、哈希表、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/781.森林中的兔子/781.森林中的兔子.cpp)|
 |782|[变为棋盘](https://leetcode-cn.com/problems/transform-to-chessboard)|<span style="color: #ef4743;">困难</span>|位运算、数组、数学、矩阵|To Do|
@@ -1302,7 +1302,7 @@
 |1285|找到连续区间的开始和结束数字 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
 |1286|[字母组合迭代器](https://leetcode-cn.com/problems/iterator-for-combination)|<span style="color: #ffb800;">中等</span>|设计、字符串、回溯、迭代器|To Do|
 |1287|[有序数组中出现次数超过25%的元素](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array)|<span style="color: #2db55d;">简单</span>|数组|To Do|
-|1288|[删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals)|<span style="color: #ffb800;">中等</span>|数组、排序|To Do|
+|1288|[删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals)|<span style="color: #ffb800;">中等</span>|数组、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1288.删除被覆盖区间/1288.删除被覆盖区间.cpp)|
 |1289|[下降路径最小和  II](https://leetcode-cn.com/problems/minimum-falling-path-sum-ii)|<span style="color: #ef4743;">困难</span>|数组、动态规划、矩阵|To Do|
 |1290|[二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer)|<span style="color: #2db55d;">简单</span>|链表、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1290.二进制链表转整数/1290.二进制链表转整数.cpp)|
 |1291|[顺次数](https://leetcode-cn.com/problems/sequential-digits)|<span style="color: #ffb800;">中等</span>|枚举|To Do|
@@ -1478,7 +1478,7 @@
 |1461|[检查一个字符串是否包含所有长度为 K 的二进制子串](https://leetcode-cn.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k)|<span style="color: #ffb800;">中等</span>|位运算、哈希表、字符串、哈希函数、滚动哈希|To Do|
 |1462|[课程表 IV](https://leetcode-cn.com/problems/course-schedule-iv)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、图、拓扑排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1462.课程表IV/1462.课程表IV.cpp)|
 |1463|[摘樱桃 II](https://leetcode-cn.com/problems/cherry-pickup-ii)|<span style="color: #ef4743;">困难</span>|数组、动态规划、矩阵|To Do|
-|1464|[数组中两元素的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array)|<span style="color: #2db55d;">简单</span>|数组、排序、堆（优先队列）|To Do|
+|1464|[数组中两元素的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array)|<span style="color: #2db55d;">简单</span>|数组、排序、堆（优先队列）|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1464.数组中两元素的最大乘积/1464.数组中两元素的最大乘积.cpp)|
 |1465|[切割后面积最大的蛋糕](https://leetcode-cn.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)|<span style="color: #ffb800;">中等</span>|贪心、数组、排序|To Do|
 |1466|[重新规划路线](https://leetcode-cn.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、图|To Do|
 |1467|[两个盒子中球的颜色数相同的概率](https://leetcode-cn.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)|<span style="color: #ef4743;">困难</span>|数学、动态规划、回溯、组合数学、概率与统计|To Do|
@@ -2019,6 +2019,7 @@
 |2002|[两个回文子序列长度的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2003|[每棵子树内缺失的最小基因值](https://leetcode-cn.com/problems/smallest-missing-genetic-value-in-each-subtree)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2004|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|2005|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
