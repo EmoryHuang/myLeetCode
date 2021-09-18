@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-735/2354-blue)
-![](https://img.shields.io/badge/easy-320-brightgreen)
-![](https://img.shields.io/badge/medium-370-yellow)
+![](https://img.shields.io/badge/Solved-739/2354-blue)
+![](https://img.shields.io/badge/easy-322-brightgreen)
+![](https://img.shields.io/badge/medium-372-yellow)
 ![](https://img.shields.io/badge/hard-45-red)
 
 
-🧡最近一次更新:  2021-09-17 19:42:25
+🧡最近一次更新:  2021-09-18 20:27:26
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -742,7 +742,7 @@
 |725|[分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts)|<span style="color: #ffb800;">中等</span>|链表|To Do|
 |726|[原子的数量](https://leetcode-cn.com/problems/number-of-atoms)|<span style="color: #ef4743;">困难</span>|栈、哈希表、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/726.原子的数量/726.原子的数量.cpp)|
 |727|最小窗口子序列 🔒|<span style="color: #ef4743;">困难</span>|字符串、动态规划、滑动窗口|To Do|
-|728|[自除数](https://leetcode-cn.com/problems/self-dividing-numbers)|<span style="color: #2db55d;">简单</span>|数学|To Do|
+|728|[自除数](https://leetcode-cn.com/problems/self-dividing-numbers)|<span style="color: #2db55d;">简单</span>|数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/728.自除数/728.自除数.cpp)|
 |729|[我的日程安排表 I](https://leetcode-cn.com/problems/my-calendar-i)|<span style="color: #ffb800;">中等</span>|设计、线段树、有序集合|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/729.我的日程安排表I/729.我的日程安排表I.cpp)|
 |730|[统计不同回文子序列](https://leetcode-cn.com/problems/count-different-palindromic-subsequences)|<span style="color: #ef4743;">困难</span>|字符串、动态规划|To Do|
 |731|[我的日程安排表 II](https://leetcode-cn.com/problems/my-calendar-ii)|<span style="color: #ffb800;">中等</span>|设计、线段树、有序集合|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/731.我的日程安排表II/731.我的日程安排表II.cpp)|
@@ -838,7 +838,7 @@
 |821|[字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character)|<span style="color: #2db55d;">简单</span>|数组、双指针、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/821.字符的最短距离/821.字符的最短距离.cpp)|
 |822|[翻转卡片游戏](https://leetcode-cn.com/problems/card-flipping-game)|<span style="color: #ffb800;">中等</span>|数组、哈希表|To Do|
 |823|[带因子的二叉树](https://leetcode-cn.com/problems/binary-trees-with-factors)|<span style="color: #ffb800;">中等</span>|数组、哈希表、动态规划|To Do|
-|824|[山羊拉丁文](https://leetcode-cn.com/problems/goat-latin)|<span style="color: #2db55d;">简单</span>|字符串|To Do|
+|824|[山羊拉丁文](https://leetcode-cn.com/problems/goat-latin)|<span style="color: #2db55d;">简单</span>|字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/824.山羊拉丁文/824.山羊拉丁文.py)|
 |825|[适龄的朋友](https://leetcode-cn.com/problems/friends-of-appropriate-ages)|<span style="color: #ffb800;">中等</span>|数组、双指针、二分查找、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/825.适龄的朋友/825.适龄的朋友.cpp)|
 |826|[安排工作以达到最大收益](https://leetcode-cn.com/problems/most-profit-assigning-work)|<span style="color: #ffb800;">中等</span>|贪心、数组、双指针、二分查找、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/826.安排工作以达到最大收益/826.安排工作以达到最大收益.cpp)|
 |827|[最大人工岛](https://leetcode-cn.com/problems/making-a-large-island)|<span style="color: #ef4743;">困难</span>|深度优先搜索、广度优先搜索、并查集、数组、矩阵|To Do|
@@ -945,7 +945,7 @@
 |928|[尽量减少恶意软件的传播 II](https://leetcode-cn.com/problems/minimize-malware-spread-ii)|<span style="color: #ef4743;">困难</span>|深度优先搜索、广度优先搜索、并查集、数组、矩阵|To Do|
 |929|[独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses)|<span style="color: #2db55d;">简单</span>|数组、哈希表、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/929.独特的电子邮件地址/929.独特的电子邮件地址.py)|
 |930|[和相同的二元子数组](https://leetcode-cn.com/problems/binary-subarrays-with-sum)|<span style="color: #ffb800;">中等</span>|数组、哈希表、前缀和、滑动窗口|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/930.和相同的二元子数组/930.和相同的二元子数组.cpp)|
-|931|[下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum)|<span style="color: #ffb800;">中等</span>|数组、动态规划、矩阵|To Do|
+|931|[下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum)|<span style="color: #ffb800;">中等</span>|数组、动态规划、矩阵|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/931.下降路径最小和/931.下降路径最小和.cpp)|
 |932|[漂亮数组](https://leetcode-cn.com/problems/beautiful-array)|<span style="color: #ffb800;">中等</span>|数组、数学、分治|To Do|
 |933|[最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls)|<span style="color: #2db55d;">简单</span>|设计、队列、数据流|To Do|
 |934|[最短的桥](https://leetcode-cn.com/problems/shortest-bridge)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、数组、矩阵|To Do|
@@ -1874,7 +1874,7 @@
 |1857|[有向图中最大颜色值](https://leetcode-cn.com/problems/largest-color-value-in-a-directed-graph)|<span style="color: #ef4743;">困难</span>|图、拓扑排序、记忆化搜索、哈希表、动态规划、计数|To Do|
 |1858|包含所有前缀的最长单词 🔒|<span style="color: #ffb800;">中等</span>|深度优先搜索、字典树|To Do|
 |1859|[将句子排序](https://leetcode-cn.com/problems/sorting-the-sentence)|<span style="color: #2db55d;">简单</span>|字符串、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1859.将句子排序/1859.将句子排序.cpp)|
-|1860|[增长的内存泄露](https://leetcode-cn.com/problems/incremental-memory-leak)|<span style="color: #ffb800;">中等</span>|模拟|To Do|
+|1860|[增长的内存泄露](https://leetcode-cn.com/problems/incremental-memory-leak)|<span style="color: #ffb800;">中等</span>|模拟|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1860.增长的内存泄露/1860.增长的内存泄露.cpp)|
 |1861|[旋转盒子](https://leetcode-cn.com/problems/rotating-the-box)|<span style="color: #ffb800;">中等</span>|数组、双指针、矩阵|To Do|
 |1862|[向下取整数对和](https://leetcode-cn.com/problems/sum-of-floored-pairs)|<span style="color: #ef4743;">困难</span>|数组、数学、二分查找、前缀和|To Do|
 |1863|[找出所有子集的异或总和再求和](https://leetcode-cn.com/problems/sum-of-all-subset-xor-totals)|<span style="color: #2db55d;">简单</span>|位运算、数组、回溯|To Do|
