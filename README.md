@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-739/2354-blue)
+![](https://img.shields.io/badge/Solved-740/2363-blue)
 ![](https://img.shields.io/badge/easy-322-brightgreen)
-![](https://img.shields.io/badge/medium-372-yellow)
+![](https://img.shields.io/badge/medium-373-yellow)
 ![](https://img.shields.io/badge/hard-45-red)
 
 
-🧡最近一次更新:  2021-09-18 20:27:26
+🧡最近一次更新:  2021-09-19 22:29:33
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -664,7 +664,7 @@
 |647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings)|<span style="color: #ffb800;">中等</span>|字符串、动态规划|To Do|
 |648|[单词替换](https://leetcode-cn.com/problems/replace-words)|<span style="color: #ffb800;">中等</span>|字典树、数组、哈希表、字符串|To Do|
 |649|[Dota2 参议院](https://leetcode-cn.com/problems/dota2-senate)|<span style="color: #ffb800;">中等</span>|贪心、队列、字符串|To Do|
-|650|[只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard)|<span style="color: #ffb800;">中等</span>|数学、动态规划|To Do|
+|650|[只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard)|<span style="color: #ffb800;">中等</span>|数学、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/650.只有两个键的键盘/650.只有两个键的键盘.cpp)|
 |651|4键键盘 🔒|<span style="color: #ffb800;">中等</span>|数学、动态规划|To Do|
 |652|[寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、广度优先搜索、二叉树|To Do|
 |653|[两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst)|<span style="color: #2db55d;">简单</span>|树、深度优先搜索、广度优先搜索、二叉搜索树、哈希表、双指针、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/653.两数之和IV-输入BST/653.两数之和IV-输入BST.cpp)|
@@ -2020,6 +2020,15 @@
 |2003|[每棵子树内缺失的最小基因值](https://leetcode-cn.com/problems/smallest-missing-genetic-value-in-each-subtree)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2004|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2005|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|2010|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|5859|[差的绝对值为 K 的数对数目](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|5860|[从双倍数组中还原原数组](https://leetcode-cn.com/problems/find-original-array-from-doubled-array)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5861|[出租车的最大盈利](https://leetcode-cn.com/problems/maximum-earnings-from-taxi)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5862|[使数组连续的最少操作数](https://leetcode-cn.com/problems/minimum-number-of-operations-to-make-array-continuous)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|5875|[执行操作后的变量值](https://leetcode-cn.com/problems/final-value-of-variable-after-performing-operations)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|5876|[数组美丽值求和](https://leetcode-cn.com/problems/sum-of-beauty-in-the-array)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5877|[检测正方形](https://leetcode-cn.com/problems/detect-squares)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5878|[重复 K 次的最长子序列](https://leetcode-cn.com/problems/longest-subsequence-repeated-k-times)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
