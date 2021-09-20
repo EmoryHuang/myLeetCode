@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-740/2363-blue)
+![](https://img.shields.io/badge/Solved-741/2363-blue)
 ![](https://img.shields.io/badge/easy-322-brightgreen)
-![](https://img.shields.io/badge/medium-373-yellow)
+![](https://img.shields.io/badge/medium-374-yellow)
 ![](https://img.shields.io/badge/hard-45-red)
 
 
-🧡最近一次更新:  2021-09-19 22:29:33
+🧡最近一次更新:  2021-09-20 19:13:14
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -687,7 +687,7 @@
 |670|[最大交换](https://leetcode-cn.com/problems/maximum-swap)|<span style="color: #ffb800;">中等</span>|贪心、数学|To Do|
 |671|[二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree)|<span style="color: #2db55d;">简单</span>|树、深度优先搜索、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/671.二叉树中第二小的节点/671.二叉树中第二小的节点.cpp)|
 |672|[灯泡开关 Ⅱ](https://leetcode-cn.com/problems/bulb-switcher-ii)|<span style="color: #ffb800;">中等</span>|位运算、深度优先搜索、广度优先搜索、数学|To Do|
-|673|[最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence)|<span style="color: #ffb800;">中等</span>|树状数组、线段树、数组、动态规划|To Do|
+|673|[最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence)|<span style="color: #ffb800;">中等</span>|树状数组、线段树、数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/673.最长递增子序列的个数/673.最长递增子序列的个数.cpp)|
 |674|[最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/674.最长连续递增序列/674.最长连续递增序列.cpp)|
 |675|[为高尔夫比赛砍树](https://leetcode-cn.com/problems/cut-off-trees-for-golf-event)|<span style="color: #ef4743;">困难</span>|广度优先搜索、数组、矩阵、堆（优先队列）|To Do|
 |676|[实现一个魔法字典](https://leetcode-cn.com/problems/implement-magic-dictionary)|<span style="color: #ffb800;">中等</span>|设计、字典树、哈希表、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/676.实现一个魔法字典/676.实现一个魔法字典.cpp)|
@@ -2020,15 +2020,15 @@
 |2003|[每棵子树内缺失的最小基因值](https://leetcode-cn.com/problems/smallest-missing-genetic-value-in-each-subtree)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2004|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2005|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|2006|[差的绝对值为 K 的数对数目](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2007|[从双倍数组中还原原数组](https://leetcode-cn.com/problems/find-original-array-from-doubled-array)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2008|[出租车的最大盈利](https://leetcode-cn.com/problems/maximum-earnings-from-taxi)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2009|[使数组连续的最少操作数](https://leetcode-cn.com/problems/minimum-number-of-operations-to-make-array-continuous)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2010|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
-|5859|[差的绝对值为 K 的数对数目](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
-|5860|[从双倍数组中还原原数组](https://leetcode-cn.com/problems/find-original-array-from-doubled-array)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
-|5861|[出租车的最大盈利](https://leetcode-cn.com/problems/maximum-earnings-from-taxi)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
-|5862|[使数组连续的最少操作数](https://leetcode-cn.com/problems/minimum-number-of-operations-to-make-array-continuous)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
-|5875|[执行操作后的变量值](https://leetcode-cn.com/problems/final-value-of-variable-after-performing-operations)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
-|5876|[数组美丽值求和](https://leetcode-cn.com/problems/sum-of-beauty-in-the-array)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
-|5877|[检测正方形](https://leetcode-cn.com/problems/detect-squares)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
-|5878|[重复 K 次的最长子序列](https://leetcode-cn.com/problems/longest-subsequence-repeated-k-times)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|2011|[执行操作后的变量值](https://leetcode-cn.com/problems/final-value-of-variable-after-performing-operations)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2012|[数组美丽值求和](https://leetcode-cn.com/problems/sum-of-beauty-in-the-array)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2013|[检测正方形](https://leetcode-cn.com/problems/detect-squares)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2014|[重复 K 次的最长子序列](https://leetcode-cn.com/problems/longest-subsequence-repeated-k-times)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
