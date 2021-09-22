@@ -1,9 +1,11 @@
 /*
- * @Descroption: LeetCode 86. 分隔链表
+ * @Descroption: LeetCode 725. 分隔链表
  * @Author: EmoryHuang
- * @Date: 2021-04-24 20:48:36
- * @解题思路: 遍历链表，寻找第一个大于等于 x 的元素并记录位置，
- * 之后再将小于 x 的结点移动到记录位置之后
+ * @Date: 2021-09-22 16:01:38
+ * @Method:
+ * 首先遍历链表，记录链表长度
+ * 获得每组平均数量，需要额外添加的数量的组数
+ * 之后再次遍历链表，按规则填充元素即可，另外注意输出的形式
  */
 
 /**
@@ -18,27 +20,26 @@
  */
 class Solution {
    public:
-    ListNode* partition(ListNode* head, int x) {
-        ListNode* dummy = new ListNode(0);
-        dummy->next = head;
-        ListNode *pre = dummy, *p = head, *q;
-        while (p && p->val < x) {  // 寻找第一个大于等于x的元素
-            p = p->next;
-            pre = pre->next;
-        }
-        q = pre;  // 记录位置
+    vector<ListNode*> splitListToParts(ListNode* head, int k) {
+        ListNode* p = head;
+        int n = 0;
         while (p) {
-            if (p->val < x) {  // 将小于x的结点移动到记录位置之后
-                pre->next = p->next;
-                p->next = q->next;
-                q->next = p;
-                q = p;
-                p = pre->next;
-            } else {
-                p = p->next;
-                pre = pre->next;
-            }
+            p = p->next;
+            n++;
         }
-        return dummy->next;
+        // 每组平均数量，需要额外添加的数量的组数
+        int avg = n / k, add = n % k;
+        vector<ListNode*> ans(k, nullptr);
+        p = head;
+        for (int i = 0; i < k; i++) {
+            if (!p) break;
+            int len = avg + (i < add ? 1 : 0);
+            ans[i] = p;
+            for (int j = 0; j < len - 1; j++) p = p->next;
+            ListNode* nxt = p->next;
+            p->next = nullptr;
+            p = nxt;
+        }
+        return ans;
     }
 };

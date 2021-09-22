@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-741/2363-blue)
-![](https://img.shields.io/badge/easy-322-brightgreen)
-![](https://img.shields.io/badge/medium-374-yellow)
+![](https://img.shields.io/badge/Solved-744/2363-blue)
+![](https://img.shields.io/badge/easy-324-brightgreen)
+![](https://img.shields.io/badge/medium-375-yellow)
 ![](https://img.shields.io/badge/hard-45-red)
 
 
-🧡最近一次更新:  2021-09-20 19:13:14
+🧡最近一次更新:  2021-09-22 21:07:08
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -739,7 +739,7 @@
 |722|[删除注释](https://leetcode-cn.com/problems/remove-comments)|<span style="color: #ffb800;">中等</span>|数组、字符串|To Do|
 |723|粉碎糖果 🔒|<span style="color: #ffb800;">中等</span>|数组、双指针、矩阵、模拟|To Do|
 |724|[寻找数组的中心下标](https://leetcode-cn.com/problems/find-pivot-index)|<span style="color: #2db55d;">简单</span>|数组、前缀和|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/724.寻找数组的中心下标/724.寻找数组的中心下标.cpp)|
-|725|[分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts)|<span style="color: #ffb800;">中等</span>|链表|To Do|
+|725|[分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts)|<span style="color: #ffb800;">中等</span>|链表|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/725.分隔链表/725.分隔链表.cpp)|
 |726|[原子的数量](https://leetcode-cn.com/problems/number-of-atoms)|<span style="color: #ef4743;">困难</span>|栈、哈希表、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/726.原子的数量/726.原子的数量.cpp)|
 |727|最小窗口子序列 🔒|<span style="color: #ef4743;">困难</span>|字符串、动态规划、滑动窗口|To Do|
 |728|[自除数](https://leetcode-cn.com/problems/self-dividing-numbers)|<span style="color: #2db55d;">简单</span>|数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/728.自除数/728.自除数.cpp)|
@@ -1633,7 +1633,7 @@
 |1616|[分割两个字符串得到回文串](https://leetcode-cn.com/problems/split-two-strings-to-make-palindrome)|<span style="color: #ffb800;">中等</span>|贪心、双指针、字符串|To Do|
 |1617|[统计子树中城市之间最大距离](https://leetcode-cn.com/problems/count-subtrees-with-max-distance-between-cities)|<span style="color: #ef4743;">困难</span>|位运算、树、动态规划、状态压缩、枚举|To Do|
 |1618|找出适应屏幕的最大字号 🔒|<span style="color: #ffb800;">中等</span>|数组、字符串、二分查找、交互|To Do|
-|1619|[删除某些元素后的数组均值](https://leetcode-cn.com/problems/mean-of-array-after-removing-some-elements)|<span style="color: #2db55d;">简单</span>|数组、排序|To Do|
+|1619|[删除某些元素后的数组均值](https://leetcode-cn.com/problems/mean-of-array-after-removing-some-elements)|<span style="color: #2db55d;">简单</span>|数组、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1619.删除某些元素后的数组均值/1619.删除某些元素后的数组均值.cpp)|
 |1620|[网络信号最好的坐标](https://leetcode-cn.com/problems/coordinate-with-maximum-network-quality)|<span style="color: #ffb800;">中等</span>|数组、枚举|To Do|
 |1621|[大小为 K 的不重叠线段的数目](https://leetcode-cn.com/problems/number-of-sets-of-k-non-overlapping-line-segments)|<span style="color: #ffb800;">中等</span>|数学、动态规划|To Do|
 |1622|[奇妙序列](https://leetcode-cn.com/problems/fancy-sequence)|<span style="color: #ef4743;">困难</span>|设计、线段树、数学|To Do|
@@ -1698,7 +1698,7 @@
 |1681|[最小不兼容性](https://leetcode-cn.com/problems/minimum-incompatibility)|<span style="color: #ef4743;">困难</span>|位运算、数组、动态规划、状态压缩|To Do|
 |1682|最长回文子序列 II 🔒|<span style="color: #ffb800;">中等</span>|字符串、动态规划|To Do|
 |1683|无效的推文 🔒|<span style="color: #2db55d;">简单</span>|数据库|To Do|
-|1684|[统计一致字符串的数目](https://leetcode-cn.com/problems/count-the-number-of-consistent-strings)|<span style="color: #2db55d;">简单</span>|位运算、数组、哈希表、字符串|To Do|
+|1684|[统计一致字符串的数目](https://leetcode-cn.com/problems/count-the-number-of-consistent-strings)|<span style="color: #2db55d;">简单</span>|位运算、数组、哈希表、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1684.统计一致字符串的数目/1684.统计一致字符串的数目.cpp)|
 |1685|[有序数组中差绝对值之和](https://leetcode-cn.com/problems/sum-of-absolute-differences-in-a-sorted-array)|<span style="color: #ffb800;">中等</span>|数组、数学、前缀和|To Do|
 |1686|[石子游戏 VI](https://leetcode-cn.com/problems/stone-game-vi)|<span style="color: #ffb800;">中等</span>|贪心、数组、数学、博弈、排序、堆（优先队列）|To Do|
 |1687|[从仓库到码头运输箱子](https://leetcode-cn.com/problems/delivering-boxes-from-storage-to-ports)|<span style="color: #ef4743;">困难</span>|线段树、队列、数组、动态规划、单调队列、堆（优先队列）|To Do|
