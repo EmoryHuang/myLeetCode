@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-744/2363-blue)
-![](https://img.shields.io/badge/easy-324-brightgreen)
-![](https://img.shields.io/badge/medium-375-yellow)
+![](https://img.shields.io/badge/Solved-747/2363-blue)
+![](https://img.shields.io/badge/easy-325-brightgreen)
+![](https://img.shields.io/badge/medium-377-yellow)
 ![](https://img.shields.io/badge/hard-45-red)
 
 
-🧡最近一次更新:  2021-09-22 21:07:08
+🧡最近一次更新:  2021-09-23 20:53:43
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -924,7 +924,7 @@
 |907|[子数组的最小值之和](https://leetcode-cn.com/problems/sum-of-subarray-minimums)|<span style="color: #ffb800;">中等</span>|栈、数组、动态规划、单调栈|To Do|
 |908|[最小差值 I](https://leetcode-cn.com/problems/smallest-range-i)|<span style="color: #2db55d;">简单</span>|数组、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/908.最小差值I/908.最小差值I.cpp)|
 |909|[蛇梯棋](https://leetcode-cn.com/problems/snakes-and-ladders)|<span style="color: #ffb800;">中等</span>|广度优先搜索、数组、矩阵|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/909.蛇梯棋/909.蛇梯棋.cpp)|
-|910|[最小差值 II](https://leetcode-cn.com/problems/smallest-range-ii)|<span style="color: #ffb800;">中等</span>|贪心、数组、数学、排序|To Do|
+|910|[最小差值 II](https://leetcode-cn.com/problems/smallest-range-ii)|<span style="color: #ffb800;">中等</span>|贪心、数组、数学、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/910.最小差值II/910.最小差值II.cpp)|
 |911|[在线选举](https://leetcode-cn.com/problems/online-election)|<span style="color: #ffb800;">中等</span>|设计、数组、哈希表、二分查找|To Do|
 |912|[排序数组](https://leetcode-cn.com/problems/sort-an-array)|<span style="color: #ffb800;">中等</span>|数组、分治、桶排序、计数排序、基数排序、排序、堆（优先队列）、归并排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/912.排序数组/912.排序数组.java)|
 |913|[猫和老鼠](https://leetcode-cn.com/problems/cat-and-mouse)|<span style="color: #ef4743;">困难</span>|广度优先搜索、图、记忆化搜索、数学、动态规划、博弈|To Do|
@@ -1927,7 +1927,7 @@
 |1910|[删除一个字符串中所有出现的给定子字符串](https://leetcode-cn.com/problems/remove-all-occurrences-of-a-substring)|<span style="color: #ffb800;">中等</span>|字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1910.删除一个字符串中所有出现的给定子字符串/1910.删除一个字符串中所有出现的给定子字符串.cpp)|
 |1911|[最大子序列交替和](https://leetcode-cn.com/problems/maximum-alternating-subsequence-sum)|<span style="color: #ffb800;">中等</span>|数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1911.最大子序列交替和/1911.最大子序列交替和.cpp)|
 |1912|[设计电影租借系统](https://leetcode-cn.com/problems/design-movie-rental-system)|<span style="color: #ef4743;">困难</span>|设计、数组、哈希表、有序集合、堆（优先队列）|To Do|
-|1913|[两个数对之间的最大乘积差](https://leetcode-cn.com/problems/maximum-product-difference-between-two-pairs)|<span style="color: #2db55d;">简单</span>|数组、排序|To Do|
+|1913|[两个数对之间的最大乘积差](https://leetcode-cn.com/problems/maximum-product-difference-between-two-pairs)|<span style="color: #2db55d;">简单</span>|数组、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1913.两个数对之间的最大乘积差/1913.两个数对之间的最大乘积差.cpp)|
 |1914|[循环轮转矩阵](https://leetcode-cn.com/problems/cyclically-rotating-a-grid)|<span style="color: #ffb800;">中等</span>|数组、矩阵、模拟|To Do|
 |1915|[最美子字符串的数目](https://leetcode-cn.com/problems/number-of-wonderful-substrings)|<span style="color: #ffb800;">中等</span>|位运算、哈希表、字符串、前缀和|To Do|
 |1916|[统计为蚁群构筑房间的不同顺序](https://leetcode-cn.com/problems/count-ways-to-build-rooms-in-an-ant-colony)|<span style="color: #ef4743;">困难</span>|树、图、拓扑排序、数学、动态规划、组合数学|To Do|
@@ -1989,7 +1989,7 @@
 |1972|[害-未爬到中文名](https://leetcode-cn.com/problems/first-and-last-call-on-the-same-day)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |1973|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |1974|[使用特殊打字机键入单词的最少时间](https://leetcode-cn.com/problems/minimum-time-to-type-word-using-special-typewriter)|<span style="color: #2db55d;">简单</span>|贪心、字符串|To Do|
-|1975|[最大方阵和](https://leetcode-cn.com/problems/maximum-matrix-sum)|<span style="color: #ffb800;">中等</span>|贪心、数组、矩阵|To Do|
+|1975|[最大方阵和](https://leetcode-cn.com/problems/maximum-matrix-sum)|<span style="color: #ffb800;">中等</span>|贪心、数组、矩阵|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1975.最大方阵和/1975.最大方阵和.cpp)|
 |1976|[到达目的地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-arrive-at-destination)|<span style="color: #ffb800;">中等</span>|图、拓扑排序、动态规划、最短路|To Do|
 |1977|[划分数字的方案数](https://leetcode-cn.com/problems/number-of-ways-to-separate-numbers)|<span style="color: #ef4743;">困难</span>|字符串、动态规划、后缀数组|To Do|
 |1978|[害-未爬到中文名](https://leetcode-cn.com/problems/employees-whose-manager-left-the-company)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
