@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-747/2363-blue)
-![](https://img.shields.io/badge/easy-325-brightgreen)
-![](https://img.shields.io/badge/medium-377-yellow)
+![](https://img.shields.io/badge/Solved-750/2363-blue)
+![](https://img.shields.io/badge/easy-326-brightgreen)
+![](https://img.shields.io/badge/medium-379-yellow)
 ![](https://img.shields.io/badge/hard-45-red)
 
 
-🧡最近一次更新:  2021-09-23 20:54:56
+🧡最近一次更新:  2021-09-24 20:32:02
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -444,7 +444,7 @@
 |427|[建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree)|<span style="color: #ffb800;">中等</span>|树、数组、分治、矩阵|To Do|
 |428|序列化和反序列化 N 叉树 🔒|<span style="color: #ef4743;">困难</span>|树、深度优先搜索、广度优先搜索、字符串|To Do|
 |429|[N 叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal)|<span style="color: #ffb800;">中等</span>|树、广度优先搜索|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/429.N叉树的层序遍历/429.N叉树的层序遍历.cpp)|
-|430|[扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list)|<span style="color: #ffb800;">中等</span>|深度优先搜索、链表、双向链表|To Do|
+|430|[扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list)|<span style="color: #ffb800;">中等</span>|深度优先搜索、链表、双向链表|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/430.扁平化多级双向链表/430.扁平化多级双向链表.cpp)|
 |431|将 N 叉树编码为二叉树 🔒|<span style="color: #ef4743;">困难</span>|树、深度优先搜索、广度优先搜索、设计、二叉树|To Do|
 |432|[全 O(1) 的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure)|<span style="color: #ef4743;">困难</span>|设计、哈希表、链表、双向链表|To Do|
 |433|[最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation)|<span style="color: #ffb800;">中等</span>|广度优先搜索、哈希表、字符串|To Do|
@@ -1821,7 +1821,7 @@
 |1804|实现 Trie （前缀树） II 🔒|<span style="color: #ffb800;">中等</span>|设计、字典树、哈希表、字符串|To Do|
 |1805|[字符串中不同整数的数目](https://leetcode-cn.com/problems/number-of-different-integers-in-a-string)|<span style="color: #2db55d;">简单</span>|哈希表、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1805.字符串中不同整数的数目/1805.字符串中不同整数的数目.py)|
 |1806|[还原排列的最少操作步数](https://leetcode-cn.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation)|<span style="color: #ffb800;">中等</span>|数组、数学、模拟|To Do|
-|1807|[替换字符串中的括号内容](https://leetcode-cn.com/problems/evaluate-the-bracket-pairs-of-a-string)|<span style="color: #ffb800;">中等</span>|数组、哈希表、字符串|To Do|
+|1807|[替换字符串中的括号内容](https://leetcode-cn.com/problems/evaluate-the-bracket-pairs-of-a-string)|<span style="color: #ffb800;">中等</span>|数组、哈希表、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1807.替换字符串中的括号内容/1807.替换字符串中的括号内容.cpp)|
 |1808|[好因子的最大数目](https://leetcode-cn.com/problems/maximize-number-of-nice-divisors)|<span style="color: #ef4743;">困难</span>|递归、数学|To Do|
 |1809|没有广告的剧集 🔒|<span style="color: #2db55d;">简单</span>|数据库|To Do|
 |1810|隐藏网格下的最小消耗路径 🔒|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、图、交互、堆（优先队列）|To Do|
@@ -1894,7 +1894,7 @@
 |1877|[数组中最大数对和的最小值](https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array)|<span style="color: #ffb800;">中等</span>|贪心、数组、双指针、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1877.数组中最大数对和的最小值/1877.数组中最大数对和的最小值.cpp)|
 |1878|[矩阵中最大的三个菱形和](https://leetcode-cn.com/problems/get-biggest-three-rhombus-sums-in-a-grid)|<span style="color: #ffb800;">中等</span>|数组、数学、矩阵、前缀和、排序、堆（优先队列）|To Do|
 |1879|[两个数组最小的异或值之和](https://leetcode-cn.com/problems/minimum-xor-sum-of-two-arrays)|<span style="color: #ef4743;">困难</span>|位运算、数组、动态规划、状态压缩|To Do|
-|1880|[检查某单词是否等于两单词之和](https://leetcode-cn.com/problems/check-if-word-equals-summation-of-two-words)|<span style="color: #2db55d;">简单</span>|字符串|To Do|
+|1880|[检查某单词是否等于两单词之和](https://leetcode-cn.com/problems/check-if-word-equals-summation-of-two-words)|<span style="color: #2db55d;">简单</span>|字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1880.检查某单词是否等于两单词之和/1880.检查某单词是否等于两单词之和.cpp)|
 |1881|[插入后的最大值](https://leetcode-cn.com/problems/maximum-value-after-insertion)|<span style="color: #ffb800;">中等</span>|贪心、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1881.插入后的最大值/1881.插入后的最大值.cpp)|
 |1882|[使用服务器处理任务](https://leetcode-cn.com/problems/process-tasks-using-servers)|<span style="color: #ffb800;">中等</span>|数组、堆（优先队列）|To Do|
 |1883|[准时抵达会议现场的最小跳过休息次数](https://leetcode-cn.com/problems/minimum-skips-to-arrive-at-meeting-on-time)|<span style="color: #ef4743;">困难</span>|数组、动态规划|To Do|
