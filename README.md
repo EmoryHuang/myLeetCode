@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-750/2363-blue)
+![](https://img.shields.io/badge/Solved-750/2370-blue)
 ![](https://img.shields.io/badge/easy-326-brightgreen)
 ![](https://img.shields.io/badge/medium-379-yellow)
 ![](https://img.shields.io/badge/hard-45-red)
 
 
-🧡最近一次更新:  2021-09-24 20:32:02
+🧡最近一次更新:  2021-09-25 20:14:07
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -2029,6 +2029,7 @@
 |2012|[数组美丽值求和](https://leetcode-cn.com/problems/sum-of-beauty-in-the-array)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2013|[检测正方形](https://leetcode-cn.com/problems/detect-squares)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2014|[重复 K 次的最长子序列](https://leetcode-cn.com/problems/longest-subsequence-repeated-k-times)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|2015|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
@@ -2072,6 +2073,12 @@
 |LCP41|[黑白翻转棋](https://leetcode-cn.com/problems/fHi6rV)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP42|[玩具套圈](https://leetcode-cn.com/problems/vFjcfV)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP43|[十字路口的交通](https://leetcode-cn.com/problems/Y1VbOX)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|LCP44|[开幕式焰火](https://leetcode-cn.com/problems/sZ59z6)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|LCP45|[自行车炫技赛场](https://leetcode-cn.com/problems/kplEvH)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|LCP46|[志愿者调配](https://leetcode-cn.com/problems/05ZEDJ)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|LCP47|[入场安检](https://leetcode-cn.com/problems/oPs9Bm)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|LCP48|[无限棋局](https://leetcode-cn.com/problems/fsa7oZ)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|LCP49|[环形闯关游戏](https://leetcode-cn.com/problems/K8GULz)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCS01|[下载插件](https://leetcode-cn.com/problems/Ju9Xwi)|<span style="color: #2db55d;">简单</span>|数学、动态规划|To Do|
 |LCS02|[完成一半题目](https://leetcode-cn.com/problems/WqXACV)|<span style="color: #2db55d;">简单</span>|贪心、数组、哈希表、排序|To Do|
 |LCS03|[主题空间](https://leetcode-cn.com/problems/YesdPw)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、并查集、数组、矩阵|To Do|
