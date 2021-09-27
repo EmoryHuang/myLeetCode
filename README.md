@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-750/2370-blue)
-![](https://img.shields.io/badge/easy-326-brightgreen)
+![](https://img.shields.io/badge/Solved-752/2374-blue)
+![](https://img.shields.io/badge/easy-327-brightgreen)
 ![](https://img.shields.io/badge/medium-379-yellow)
-![](https://img.shields.io/badge/hard-45-red)
+![](https://img.shields.io/badge/hard-46-red)
 
 
-🧡最近一次更新:  2021-09-25 20:14:07
+🧡最近一次更新:  2021-09-27 20:08:30
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -653,7 +653,7 @@
 |636|[函数的独占时间](https://leetcode-cn.com/problems/exclusive-time-of-functions)|<span style="color: #ffb800;">中等</span>|栈、数组|To Do|
 |637|[二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree)|<span style="color: #2db55d;">简单</span>|树、深度优先搜索、广度优先搜索、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/637.二叉树的层平均值/637.二叉树的层平均值.cpp)|
 |638|[大礼包](https://leetcode-cn.com/problems/shopping-offers)|<span style="color: #ffb800;">中等</span>|位运算、记忆化搜索、数组、动态规划、回溯、状态压缩|To Do|
-|639|[解码方法 II](https://leetcode-cn.com/problems/decode-ways-ii)|<span style="color: #ef4743;">困难</span>|字符串、动态规划|To Do|
+|639|[解码方法 II](https://leetcode-cn.com/problems/decode-ways-ii)|<span style="color: #ef4743;">困难</span>|字符串、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/639.解码方法II/639.解码方法II.cpp)|
 |640|[求解方程](https://leetcode-cn.com/problems/solve-the-equation)|<span style="color: #ffb800;">中等</span>|数学、字符串、模拟|To Do|
 |641|[设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque)|<span style="color: #ffb800;">中等</span>|设计、队列、数组、链表|To Do|
 |642|设计搜索自动补全系统 🔒|<span style="color: #ef4743;">困难</span>|设计、字典树、字符串、数据流|To Do|
@@ -761,7 +761,7 @@
 |744|[寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target)|<span style="color: #2db55d;">简单</span>|数组、二分查找|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/744.寻找比目标字母大的最小字母/744.寻找比目标字母大的最小字母.cpp)|
 |745|[前缀和后缀搜索](https://leetcode-cn.com/problems/prefix-and-suffix-search)|<span style="color: #ef4743;">困难</span>|设计、字典树、字符串|To Do|
 |746|[使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs)|<span style="color: #2db55d;">简单</span>|数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/746.使用最小花费爬楼梯/746.使用最小花费爬楼梯.cpp)|
-|747|[至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others)|<span style="color: #2db55d;">简单</span>|数组、排序|To Do|
+|747|[至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others)|<span style="color: #2db55d;">简单</span>|数组、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/747.至少是其他数字两倍的最大数/747.至少是其他数字两倍的最大数.cpp)|
 |748|[最短补全词](https://leetcode-cn.com/problems/shortest-completing-word)|<span style="color: #2db55d;">简单</span>|哈希表、字符串|To Do|
 |749|[隔离病毒](https://leetcode-cn.com/problems/contain-virus)|<span style="color: #ef4743;">困难</span>|深度优先搜索、广度优先搜索、数组、矩阵、模拟|To Do|
 |750|角矩形的数量 🔒|<span style="color: #ffb800;">中等</span>|数组、数学、动态规划、矩阵|To Do|
@@ -2030,6 +2030,10 @@
 |2013|[检测正方形](https://leetcode-cn.com/problems/detect-squares)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2014|[重复 K 次的最长子序列](https://leetcode-cn.com/problems/longest-subsequence-repeated-k-times)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2015|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2016|[增量元素之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2017|[网格游戏](https://leetcode-cn.com/problems/grid-game)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2018|[判断单词是否能放入填字游戏内](https://leetcode-cn.com/problems/check-if-word-can-be-placed-in-crossword)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2019|[解出数学表达式的学生分数](https://leetcode-cn.com/problems/the-score-of-students-solving-math-expression)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
