@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-753/2375-blue)
+![](https://img.shields.io/badge/Solved-754/2376-blue)
 ![](https://img.shields.io/badge/easy-327-brightgreen)
 ![](https://img.shields.io/badge/medium-380-yellow)
-![](https://img.shields.io/badge/hard-46-red)
+![](https://img.shields.io/badge/hard-47-red)
 
 
-🧡最近一次更新:  2021-09-28 16:44:11
+🧡最近一次更新:  2021-09-30 19:16:00
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -531,7 +531,7 @@
 |514|[自由之路](https://leetcode-cn.com/problems/freedom-trail)|<span style="color: #ef4743;">困难</span>|深度优先搜索、广度优先搜索、字符串、动态规划|To Do|
 |515|[在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、广度优先搜索、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/515.在每个树行中找最大值/515.在每个树行中找最大值.cpp)|
 |516|[最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence)|<span style="color: #ffb800;">中等</span>|字符串、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/516.最长回文子序列/516.最长回文子序列.cpp)|
-|517|[超级洗衣机](https://leetcode-cn.com/problems/super-washing-machines)|<span style="color: #ef4743;">困难</span>|贪心、数组|To Do|
+|517|[超级洗衣机](https://leetcode-cn.com/problems/super-washing-machines)|<span style="color: #ef4743;">困难</span>|贪心、数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/517.超级洗衣机/517.超级洗衣机.cpp)|
 |518|[零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2)|<span style="color: #ffb800;">中等</span>|数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/518.零钱兑换II/518.零钱兑换II.cpp)|
 |519|[随机翻转矩阵](https://leetcode-cn.com/problems/random-flip-matrix)|<span style="color: #ffb800;">中等</span>|水塘抽样、哈希表、数学、随机化|To Do|
 |520|[检测大写字母](https://leetcode-cn.com/problems/detect-capital)|<span style="color: #2db55d;">简单</span>|字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/520.检测大写字母/520.检测大写字母.cpp)|
@@ -2035,6 +2035,7 @@
 |2018|[判断单词是否能放入填字游戏内](https://leetcode-cn.com/problems/check-if-word-can-be-placed-in-crossword)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2019|[解出数学表达式的学生分数](https://leetcode-cn.com/problems/the-score-of-students-solving-math-expression)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2020|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2021|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
