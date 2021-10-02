@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-754/2376-blue)
-![](https://img.shields.io/badge/easy-327-brightgreen)
+![](https://img.shields.io/badge/Solved-755/2376-blue)
+![](https://img.shields.io/badge/easy-328-brightgreen)
 ![](https://img.shields.io/badge/medium-380-yellow)
 ![](https://img.shields.io/badge/hard-47-red)
 
 
-🧡最近一次更新:  2021-09-30 19:16:00
+🧡最近一次更新:  2021-10-02 16:52:31
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -419,7 +419,7 @@
 |402|[移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits)|<span style="color: #ffb800;">中等</span>|栈、贪心、字符串、单调栈|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/402.移掉K位数字/402.移掉K位数字.py)|
 |403|[青蛙过河](https://leetcode-cn.com/problems/frog-jump)|<span style="color: #ef4743;">困难</span>|数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/403.青蛙过河/403.青蛙过河.cpp)|
 |404|[左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves)|<span style="color: #2db55d;">简单</span>|树、深度优先搜索、广度优先搜索、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/404.左叶子之和/404.左叶子之和.cpp)|
-|405|[数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal)|<span style="color: #2db55d;">简单</span>|位运算、数学|To Do|
+|405|[数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal)|<span style="color: #2db55d;">简单</span>|位运算、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/405.数字转换为十六进制数/405.数字转换为十六进制数.cpp)|
 |406|[根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height)|<span style="color: #ffb800;">中等</span>|贪心、数组、排序|To Do|
 |407|[接雨水 II](https://leetcode-cn.com/problems/trapping-rain-water-ii)|<span style="color: #ef4743;">困难</span>|广度优先搜索、数组、矩阵、堆（优先队列）|To Do|
 |408|有效单词缩写 🔒|<span style="color: #2db55d;">简单</span>|双指针、字符串|To Do|
