@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-755/2376-blue)
-![](https://img.shields.io/badge/easy-328-brightgreen)
-![](https://img.shields.io/badge/medium-380-yellow)
+![](https://img.shields.io/badge/Solved-757/2385-blue)
+![](https://img.shields.io/badge/easy-329-brightgreen)
+![](https://img.shields.io/badge/medium-381-yellow)
 ![](https://img.shields.io/badge/hard-47-red)
 
 
-🧡最近一次更新:  2021-10-02 16:52:31
+🧡最近一次更新:  2021-10-06 14:34:12
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -180,7 +180,7 @@
 |163|缺失的区间 🔒|<span style="color: #2db55d;">简单</span>|数组|To Do|
 |164|[最大间距](https://leetcode-cn.com/problems/maximum-gap)|<span style="color: #ef4743;">困难</span>|数组、桶排序、基数排序、排序|To Do|
 |165|[比较版本号](https://leetcode-cn.com/problems/compare-version-numbers)|<span style="color: #ffb800;">中等</span>|双指针、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/165.比较版本号/165.比较版本号.py)|
-|166|[分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal)|<span style="color: #ffb800;">中等</span>|哈希表、数学、字符串|To Do|
+|166|[分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal)|<span style="color: #ffb800;">中等</span>|哈希表、数学、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/166.分数到小数/166.分数到小数.py)|
 |167|[两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)|<span style="color: #2db55d;">简单</span>|数组、双指针、二分查找|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/167.两数之和II-输入有序数组/167.两数之和II-输入有序数组.cpp)|
 |168|[Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title)|<span style="color: #2db55d;">简单</span>|数学、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/168.Excel表列名称/168.Excel表列名称.cpp)|
 |169|[多数元素](https://leetcode-cn.com/problems/majority-element)|<span style="color: #2db55d;">简单</span>|数组、哈希表、分治、计数、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/169.多数元素/169.多数元素.cpp)|
@@ -428,7 +428,7 @@
 |411|最短独占单词缩写 🔒|<span style="color: #ef4743;">困难</span>|位运算、字符串、回溯|To Do|
 |412|[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz)|<span style="color: #2db55d;">简单</span>|数学、字符串、模拟|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/412.FizzBuzz/412.FizzBuzz.cpp)|
 |413|[等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices)|<span style="color: #ffb800;">中等</span>|数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/413.等差数列划分/413.等差数列划分.cpp)|
-|414|[第三大的数](https://leetcode-cn.com/problems/third-maximum-number)|<span style="color: #2db55d;">简单</span>|数组、排序|To Do|
+|414|[第三大的数](https://leetcode-cn.com/problems/third-maximum-number)|<span style="color: #2db55d;">简单</span>|数组、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/414.第三大的数/414.第三大的数.cpp)|
 |415|[字符串相加](https://leetcode-cn.com/problems/add-strings)|<span style="color: #2db55d;">简单</span>|数学、字符串、模拟|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/415.字符串相加/415.字符串相加.py)|
 |416|[分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum)|<span style="color: #ffb800;">中等</span>|数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/416.分割等和子集/416.分割等和子集.cpp)|
 |417|[太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、数组、矩阵|To Do|
@@ -2036,6 +2036,15 @@
 |2019|[解出数学表达式的学生分数](https://leetcode-cn.com/problems/the-score-of-students-solving-math-expression)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2020|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2021|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2022|[将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2023|[连接后等于目标字符串的字符串对](https://leetcode-cn.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2024|[考试的最大困扰度](https://leetcode-cn.com/problems/maximize-the-confusion-of-an-exam)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2025|[分割数组的最多方案数](https://leetcode-cn.com/problems/maximum-number-of-ways-to-partition-an-array)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|2026|[害-未爬到中文名](https://leetcode-cn.com/problems/low-quality-problems)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2027|[转换字符串的最少操作次数](https://leetcode-cn.com/problems/minimum-moves-to-convert-string)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2028|[找出缺失的观测数据](https://leetcode-cn.com/problems/find-missing-observations)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2029|[石子游戏 IX](https://leetcode-cn.com/problems/stone-game-ix)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2030|[含特定字母的最小子序列](https://leetcode-cn.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
