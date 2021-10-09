@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-761/2386-blue)
-![](https://img.shields.io/badge/easy-330-brightgreen)
+![](https://img.shields.io/badge/Solved-763/2386-blue)
+![](https://img.shields.io/badge/easy-331-brightgreen)
 ![](https://img.shields.io/badge/medium-384-yellow)
-![](https://img.shields.io/badge/hard-47-red)
+![](https://img.shields.io/badge/hard-48-red)
 
 
-🧡最近一次更新:  2021-10-08 20:50:03
+🧡最近一次更新:  2021-10-09 20:09:54
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -366,7 +366,7 @@
 |349|[两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays)|<span style="color: #2db55d;">简单</span>|数组、哈希表、双指针、二分查找、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/349.两个数组的交集/349.两个数组的交集.cpp)|
 |350|[两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii)|<span style="color: #2db55d;">简单</span>|数组、哈希表、双指针、二分查找、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/350.两个数组的交集II/350.两个数组的交集II.cpp)|
 |351|安卓系统手势解锁 🔒|<span style="color: #ffb800;">中等</span>|动态规划、回溯|To Do|
-|352|[将数据流变为多个不相交区间](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals)|<span style="color: #ef4743;">困难</span>|设计、二分查找、有序集合|To Do|
+|352|[将数据流变为多个不相交区间](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals)|<span style="color: #ef4743;">困难</span>|设计、二分查找、有序集合|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/352.将数据流变为多个不相交区间/352.将数据流变为多个不相交区间.cpp)|
 |353|贪吃蛇 🔒|<span style="color: #ffb800;">中等</span>|设计、队列、数组、矩阵|To Do|
 |354|[俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes)|<span style="color: #ef4743;">困难</span>|数组、二分查找、动态规划、排序|To Do|
 |355|[设计推特](https://leetcode-cn.com/problems/design-twitter)|<span style="color: #ffb800;">中等</span>|设计、哈希表、链表、堆（优先队列）|To Do|
@@ -1280,7 +1280,7 @@
 |1263|[推箱子](https://leetcode-cn.com/problems/minimum-moves-to-move-a-box-to-their-target-location)|<span style="color: #ef4743;">困难</span>|广度优先搜索、数组、矩阵、堆（优先队列）|To Do|
 |1264|页面推荐 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
 |1265|逆序打印不可变链表 🔒|<span style="color: #ffb800;">中等</span>|栈、递归、链表、双指针|To Do|
-|1266|[访问所有点的最小时间](https://leetcode-cn.com/problems/minimum-time-visiting-all-points)|<span style="color: #2db55d;">简单</span>|几何、数组、数学|To Do|
+|1266|[访问所有点的最小时间](https://leetcode-cn.com/problems/minimum-time-visiting-all-points)|<span style="color: #2db55d;">简单</span>|几何、数组、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1266.访问所有点的最小时间/1266.访问所有点的最小时间.cpp)|
 |1267|[统计参与通信的服务器](https://leetcode-cn.com/problems/count-servers-that-communicate)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、并查集、数组、计数、矩阵|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1267.统计参与通信的服务器/1267.统计参与通信的服务器.cpp)|
 |1268|[搜索推荐系统](https://leetcode-cn.com/problems/search-suggestions-system)|<span style="color: #ffb800;">中等</span>|字典树、数组、字符串|To Do|
 |1269|[停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps)|<span style="color: #ef4743;">困难</span>|动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1269.停在原地的方案数/1269.停在原地的方案数.cpp)|
