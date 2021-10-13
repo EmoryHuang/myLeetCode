@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-763/2386-blue)
-![](https://img.shields.io/badge/easy-331-brightgreen)
+![](https://img.shields.io/badge/Solved-764/2390-blue)
+![](https://img.shields.io/badge/easy-332-brightgreen)
 ![](https://img.shields.io/badge/medium-384-yellow)
 ![](https://img.shields.io/badge/hard-48-red)
 
 
-🧡最近一次更新:  2021-10-09 20:09:54
+🧡最近一次更新:  2021-10-13 08:58:52
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -608,7 +608,7 @@
 |591|[标签验证器](https://leetcode-cn.com/problems/tag-validator)|<span style="color: #ef4743;">困难</span>|栈、字符串|To Do|
 |592|[分数加减运算](https://leetcode-cn.com/problems/fraction-addition-and-subtraction)|<span style="color: #ffb800;">中等</span>|数学、字符串、模拟|To Do|
 |593|[有效的正方形](https://leetcode-cn.com/problems/valid-square)|<span style="color: #ffb800;">中等</span>|几何、数学|To Do|
-|594|[最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence)|<span style="color: #2db55d;">简单</span>|数组、哈希表、排序|To Do|
+|594|[最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence)|<span style="color: #2db55d;">简单</span>|数组、哈希表、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/594.最长和谐子序列/594.最长和谐子序列.cpp)|
 |595|[大的国家](https://leetcode-cn.com/problems/big-countries)|<span style="color: #2db55d;">简单</span>|数据库|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/595.大的国家/595.大的国家.sql)|
 |596|[超过5名学生的课](https://leetcode-cn.com/problems/classes-more-than-5-students)|<span style="color: #2db55d;">简单</span>|数据库|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/596.超过5名学生的课/596.超过5名学生的课.sql)|
 |597|好友申请 I：总体通过率 🔒|<span style="color: #2db55d;">简单</span>|数据库|To Do|
@@ -2046,6 +2046,10 @@
 |2029|[石子游戏 IX](https://leetcode-cn.com/problems/stone-game-ix)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2030|[含特定字母的最小子序列](https://leetcode-cn.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2031|[害-未爬到中文名](https://leetcode-cn.com/problems/count-subarrays-with-more-ones-than-zeros)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2032|[至少在两个数组中出现的值](https://leetcode-cn.com/problems/two-out-of-three)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2033|[获取单值网格的最小操作数](https://leetcode-cn.com/problems/minimum-operations-to-make-a-uni-value-grid)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2034|[股票价格波动](https://leetcode-cn.com/problems/stock-price-fluctuation)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2035|[将数组分成两个数组并最小化数组和的差](https://leetcode-cn.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
