@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-764/2390-blue)
+![](https://img.shields.io/badge/Solved-765/2390-blue)
 ![](https://img.shields.io/badge/easy-332-brightgreen)
-![](https://img.shields.io/badge/medium-384-yellow)
+![](https://img.shields.io/badge/medium-385-yellow)
 ![](https://img.shields.io/badge/hard-48-red)
 
 
-🧡最近一次更新:  2021-10-13 09:00:51
+🧡最近一次更新:  2021-10-13 20:19:41
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -409,7 +409,7 @@
 |392|[判断子序列](https://leetcode-cn.com/problems/is-subsequence)|<span style="color: #2db55d;">简单</span>|双指针、字符串、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/392.判断子序列/392.判断子序列.cpp)|
 |393|[UTF-8 编码验证](https://leetcode-cn.com/problems/utf-8-validation)|<span style="color: #ffb800;">中等</span>|位运算、数组|To Do|
 |394|[字符串解码](https://leetcode-cn.com/problems/decode-string)|<span style="color: #ffb800;">中等</span>|栈、递归、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/394.字符串解码/394.字符串解码.cpp)|
-|395|[至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters)|<span style="color: #ffb800;">中等</span>|哈希表、字符串、分治、滑动窗口|To Do|
+|395|[至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters)|<span style="color: #ffb800;">中等</span>|哈希表、字符串、分治、滑动窗口|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/395.至少有K个重复字符的最长子串/395.至少有K个重复字符的最长子串.cpp)|
 |396|[旋转函数](https://leetcode-cn.com/problems/rotate-function)|<span style="color: #ffb800;">中等</span>|数学、动态规划|To Do|
 |397|[整数替换](https://leetcode-cn.com/problems/integer-replacement)|<span style="color: #ffb800;">中等</span>|位运算、记忆化搜索、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/397.整数替换/397.整数替换.cpp)|
 |398|[随机数索引](https://leetcode-cn.com/problems/random-pick-index)|<span style="color: #ffb800;">中等</span>|水塘抽样、哈希表、数学、随机化|To Do|
