@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-765/2390-blue)
+![](https://img.shields.io/badge/Solved-766/2391-blue)
 ![](https://img.shields.io/badge/easy-332-brightgreen)
-![](https://img.shields.io/badge/medium-385-yellow)
+![](https://img.shields.io/badge/medium-386-yellow)
 ![](https://img.shields.io/badge/hard-48-red)
 
 
-🧡最近一次更新:  2021-10-13 20:27:46
+🧡最近一次更新:  2021-10-15 16:44:09
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -1205,7 +1205,7 @@
 |1188|设计有限阻塞队列 🔒|<span style="color: #ffb800;">中等</span>|多线程|To Do|
 |1189|[“气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons)|<span style="color: #2db55d;">简单</span>|哈希表、字符串、计数|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1189.“气球”的最大数量/1189.“气球”的最大数量.cpp)|
 |1190|[反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses)|<span style="color: #ffb800;">中等</span>|栈、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1190.反转每对括号间的子串/1190.反转每对括号间的子串.cpp)|
-|1191|[K 次串联后最大子数组之和](https://leetcode-cn.com/problems/k-concatenation-maximum-sum)|<span style="color: #ffb800;">中等</span>|数组、动态规划|To Do|
+|1191|[K 次串联后最大子数组之和](https://leetcode-cn.com/problems/k-concatenation-maximum-sum)|<span style="color: #ffb800;">中等</span>|数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1191.K次串联后最大子数组之和/1191.K次串联后最大子数组之和.cpp)|
 |1192|[查找集群内的「关键连接」](https://leetcode-cn.com/problems/critical-connections-in-a-network)|<span style="color: #ef4743;">困难</span>|深度优先搜索、图、双连通分量|To Do|
 |1193|每月交易 I 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
 |1194|锦标赛优胜者 🔒|<span style="color: #ef4743;">困难</span>|数据库|To Do|
@@ -2050,6 +2050,7 @@
 |2033|[获取单值网格的最小操作数](https://leetcode-cn.com/problems/minimum-operations-to-make-a-uni-value-grid)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2034|[股票价格波动](https://leetcode-cn.com/problems/stock-price-fluctuation)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2035|[将数组分成两个数组并最小化数组和的差](https://leetcode-cn.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|2036|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
