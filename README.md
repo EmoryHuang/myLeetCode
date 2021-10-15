@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-766/2391-blue)
-![](https://img.shields.io/badge/easy-332-brightgreen)
-![](https://img.shields.io/badge/medium-386-yellow)
+![](https://img.shields.io/badge/Solved-769/2391-blue)
+![](https://img.shields.io/badge/easy-334-brightgreen)
+![](https://img.shields.io/badge/medium-387-yellow)
 ![](https://img.shields.io/badge/hard-48-red)
 
 
-🧡最近一次更新:  2021-10-15 16:46:53
+🧡最近一次更新:  2021-10-15 20:42:48
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -2025,12 +2025,12 @@
 |2008|[出租车的最大盈利](https://leetcode-cn.com/problems/maximum-earnings-from-taxi)|<span style="color: #ffb800;">中等</span>|数组、二分查找、动态规划、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/2008.出租车的最大盈利/2008.出租车的最大盈利.cpp)|
 |2009|[使数组连续的最少操作数](https://leetcode-cn.com/problems/minimum-number-of-operations-to-make-array-continuous)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2010|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
-|2011|[执行操作后的变量值](https://leetcode-cn.com/problems/final-value-of-variable-after-performing-operations)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
-|2012|[数组美丽值求和](https://leetcode-cn.com/problems/sum-of-beauty-in-the-array)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2011|[执行操作后的变量值](https://leetcode-cn.com/problems/final-value-of-variable-after-performing-operations)|<span style="color: #2db55d;">简单</span>|数组、字符串、模拟|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/2011.执行操作后的变量值/2011.执行操作后的变量值.cpp)|
+|2012|[数组美丽值求和](https://leetcode-cn.com/problems/sum-of-beauty-in-the-array)|<span style="color: #ffb800;">中等</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/2012.数组美丽值求和/2012.数组美丽值求和.cpp)|
 |2013|[检测正方形](https://leetcode-cn.com/problems/detect-squares)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2014|[重复 K 次的最长子序列](https://leetcode-cn.com/problems/longest-subsequence-repeated-k-times)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2015|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
-|2016|[增量元素之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2016|[增量元素之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/2016.增量元素之间的最大差值/2016.增量元素之间的最大差值.cpp)|
 |2017|[网格游戏](https://leetcode-cn.com/problems/grid-game)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2018|[判断单词是否能放入填字游戏内](https://leetcode-cn.com/problems/check-if-word-can-be-placed-in-crossword)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2019|[解出数学表达式的学生分数](https://leetcode-cn.com/problems/the-score-of-students-solving-math-expression)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
