@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-776/2400-blue)
-![](https://img.shields.io/badge/easy-337-brightgreen)
-![](https://img.shields.io/badge/medium-390-yellow)
+![](https://img.shields.io/badge/Solved-780/2400-blue)
+![](https://img.shields.io/badge/easy-340-brightgreen)
+![](https://img.shields.io/badge/medium-391-yellow)
 ![](https://img.shields.io/badge/hard-49-red)
 
 
-🧡最近一次更新:  2021-10-19 16:19:48
+🧡最近一次更新:  2021-10-20 20:34:58
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -1038,7 +1038,7 @@
 |1021|[删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses)|<span style="color: #2db55d;">简单</span>|栈、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1021.删除最外层的括号/1021.删除最外层的括号.cpp)|
 |1022|[从根到叶的二进制数之和](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers)|<span style="color: #2db55d;">简单</span>|树、深度优先搜索、二叉树|To Do|
 |1023|[驼峰式匹配](https://leetcode-cn.com/problems/camelcase-matching)|<span style="color: #ffb800;">中等</span>|字典树、双指针、字符串、字符串匹配|To Do|
-|1024|[视频拼接](https://leetcode-cn.com/problems/video-stitching)|<span style="color: #ffb800;">中等</span>|贪心、数组、动态规划|To Do|
+|1024|[视频拼接](https://leetcode-cn.com/problems/video-stitching)|<span style="color: #ffb800;">中等</span>|贪心、数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1024.视频拼接/1024.视频拼接.cpp)|
 |1025|[除数博弈](https://leetcode-cn.com/problems/divisor-game)|<span style="color: #2db55d;">简单</span>|脑筋急转弯、数学、动态规划、博弈|To Do|
 |1026|[节点与其祖先之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、二叉树|To Do|
 |1027|[最长等差数列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence)|<span style="color: #ffb800;">中等</span>|数组、哈希表、二分查找、动态规划|To Do|
@@ -1323,7 +1323,7 @@
 |1306|[跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1306.跳跃游戏III/1306.跳跃游戏III.cpp)|
 |1307|[口算难题](https://leetcode-cn.com/problems/verbal-arithmetic-puzzle)|<span style="color: #ef4743;">困难</span>|数组、数学、字符串、回溯|To Do|
 |1308|不同性别每日分数总计 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
-|1309|[解码字母到整数映射](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping)|<span style="color: #2db55d;">简单</span>|字符串|To Do|
+|1309|[解码字母到整数映射](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping)|<span style="color: #2db55d;">简单</span>|字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1309.解码字母到整数映射/1309.解码字母到整数映射.cpp)|
 |1310|[子数组异或查询](https://leetcode-cn.com/problems/xor-queries-of-a-subarray)|<span style="color: #ffb800;">中等</span>|位运算、数组、前缀和|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1310.子数组异或查询/1310.子数组异或查询.cpp)|
 |1311|[获取你好友已观看的视频](https://leetcode-cn.com/problems/get-watched-videos-by-your-friends)|<span style="color: #ffb800;">中等</span>|广度优先搜索、数组、哈希表、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1311.获取你好友已观看的视频/1311.获取你好友已观看的视频.cpp)|
 |1312|[让字符串成为回文串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome)|<span style="color: #ef4743;">困难</span>|字符串、动态规划|To Do|
@@ -1445,7 +1445,7 @@
 |1428|至少有一个 1 的最左端列 🔒|<span style="color: #ffb800;">中等</span>|数组、二分查找、交互、矩阵|To Do|
 |1429|第一个唯一数字 🔒|<span style="color: #ffb800;">中等</span>|设计、队列、数组、哈希表、数据流|To Do|
 |1430|判断给定的序列是否是二叉树从根到叶的路径 🔒|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、广度优先搜索、二叉树|To Do|
-|1431|[拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies)|<span style="color: #2db55d;">简单</span>|数组|To Do|
+|1431|[拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1431.拥有最多糖果的孩子/1431.拥有最多糖果的孩子.cpp)|
 |1432|[改变一个整数能得到的最大差值](https://leetcode-cn.com/problems/max-difference-you-can-get-from-changing-an-integer)|<span style="color: #ffb800;">中等</span>|贪心、数学|To Do|
 |1433|[检查一个字符串是否可以打破另一个字符串](https://leetcode-cn.com/problems/check-if-a-string-can-break-another-string)|<span style="color: #ffb800;">中等</span>|贪心、字符串、排序|To Do|
 |1434|[每个人戴不同帽子的方案数](https://leetcode-cn.com/problems/number-of-ways-to-wear-different-hats-to-each-other)|<span style="color: #ef4743;">困难</span>|位运算、数组、动态规划、状态压缩|To Do|
@@ -1628,7 +1628,7 @@
 |1611|[使整数变为 0 的最少操作次数](https://leetcode-cn.com/problems/minimum-one-bit-operations-to-make-integers-zero)|<span style="color: #ef4743;">困难</span>|位运算、记忆化搜索、动态规划|To Do|
 |1612|检查两棵二叉表达式树是否等价 🔒|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、二叉树|To Do|
 |1613|找到遗失的ID 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
-|1614|[括号的最大嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses)|<span style="color: #2db55d;">简单</span>|栈、字符串|To Do|
+|1614|[括号的最大嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses)|<span style="color: #2db55d;">简单</span>|栈、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1614.括号的最大嵌套深度/1614.括号的最大嵌套深度.cpp)|
 |1615|[最大网络秩](https://leetcode-cn.com/problems/maximal-network-rank)|<span style="color: #ffb800;">中等</span>|图|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1615.最大网络秩/1615.最大网络秩.cpp)|
 |1616|[分割两个字符串得到回文串](https://leetcode-cn.com/problems/split-two-strings-to-make-palindrome)|<span style="color: #ffb800;">中等</span>|贪心、双指针、字符串|To Do|
 |1617|[统计子树中城市之间最大距离](https://leetcode-cn.com/problems/count-subtrees-with-max-distance-between-cities)|<span style="color: #ef4743;">困难</span>|位运算、树、动态规划、状态压缩、枚举|To Do|
