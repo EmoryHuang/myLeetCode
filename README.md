@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-789/2401-blue)
+![](https://img.shields.io/badge/Solved-791/2401-blue)
 ![](https://img.shields.io/badge/easy-341-brightgreen)
-![](https://img.shields.io/badge/medium-399-yellow)
+![](https://img.shields.io/badge/medium-401-yellow)
 ![](https://img.shields.io/badge/hard-49-red)
 
 
-🧡最近一次更新:  2021-10-22 20:26:14
+🧡最近一次更新:  2021-10-23 17:51:44
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -224,7 +224,7 @@
 |207|[课程表](https://leetcode-cn.com/problems/course-schedule)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、图、拓扑排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/207.课程表/207.课程表.cpp)|
 |208|[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree)|<span style="color: #ffb800;">中等</span>|设计、字典树、哈希表、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/208.实现Trie%29前缀树%28/208.实现Trie%29前缀树%28.cpp)|
 |209|[长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum)|<span style="color: #ffb800;">中等</span>|数组、二分查找、前缀和、滑动窗口|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/209.长度最小的子数组/209.长度最小的子数组.cpp)|
-|210|[课程表 II](https://leetcode-cn.com/problems/course-schedule-ii)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、图、拓扑排序|To Do|
+|210|[课程表 II](https://leetcode-cn.com/problems/course-schedule-ii)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、图、拓扑排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/210.课程表II/210.课程表II.cpp)|
 |211|[添加与搜索单词 - 数据结构设计](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure)|<span style="color: #ffb800;">中等</span>|深度优先搜索、设计、字典树、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/211.添加与搜索单词-数据结构设计/211.添加与搜索单词-数据结构设计.cpp)|
 |212|[单词搜索 II](https://leetcode-cn.com/problems/word-search-ii)|<span style="color: #ef4743;">困难</span>|字典树、数组、字符串、回溯、矩阵|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/212.单词搜索II/212.单词搜索II.cpp)|
 |213|[打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii)|<span style="color: #ffb800;">中等</span>|数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/213.打家劫舍II/213.打家劫舍II.cpp)|
@@ -303,7 +303,7 @@
 |286|墙与门 🔒|<span style="color: #ffb800;">中等</span>|广度优先搜索、数组、矩阵|To Do|
 |287|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number)|<span style="color: #ffb800;">中等</span>|位运算、数组、双指针、二分查找|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/287.寻找重复数/287.寻找重复数.cpp)|
 |288|单词的唯一缩写 🔒|<span style="color: #ffb800;">中等</span>|设计、数组、哈希表、字符串|To Do|
-|289|[生命游戏](https://leetcode-cn.com/problems/game-of-life)|<span style="color: #ffb800;">中等</span>|数组、矩阵、模拟|To Do|
+|289|[生命游戏](https://leetcode-cn.com/problems/game-of-life)|<span style="color: #ffb800;">中等</span>|数组、矩阵、模拟|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/289.生命游戏/289.生命游戏.cpp)|
 |290|[单词规律](https://leetcode-cn.com/problems/word-pattern)|<span style="color: #2db55d;">简单</span>|哈希表、字符串|To Do|
 |291|单词规律 II 🔒|<span style="color: #ffb800;">中等</span>|哈希表、字符串、回溯|To Do|
 |292|[Nim 游戏](https://leetcode-cn.com/problems/nim-game)|<span style="color: #2db55d;">简单</span>|脑筋急转弯、数学、博弈|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/292.Nim游戏/292.Nim游戏.cpp)|
