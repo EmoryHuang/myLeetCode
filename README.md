@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-791/2401-blue)
+![](https://img.shields.io/badge/Solved-792/2405-blue)
 ![](https://img.shields.io/badge/easy-341-brightgreen)
-![](https://img.shields.io/badge/medium-401-yellow)
+![](https://img.shields.io/badge/medium-402-yellow)
 ![](https://img.shields.io/badge/hard-49-red)
 
 
-🧡最近一次更新:  2021-10-23 18:03:51
+🧡最近一次更新:  2021-10-24 19:03:50
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -652,7 +652,7 @@
 |635|设计日志存储系统 🔒|<span style="color: #ffb800;">中等</span>|设计、哈希表、字符串、有序集合|To Do|
 |636|[函数的独占时间](https://leetcode-cn.com/problems/exclusive-time-of-functions)|<span style="color: #ffb800;">中等</span>|栈、数组|To Do|
 |637|[二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree)|<span style="color: #2db55d;">简单</span>|树、深度优先搜索、广度优先搜索、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/637.二叉树的层平均值/637.二叉树的层平均值.cpp)|
-|638|[大礼包](https://leetcode-cn.com/problems/shopping-offers)|<span style="color: #ffb800;">中等</span>|位运算、记忆化搜索、数组、动态规划、回溯、状态压缩|To Do|
+|638|[大礼包](https://leetcode-cn.com/problems/shopping-offers)|<span style="color: #ffb800;">中等</span>|位运算、记忆化搜索、数组、动态规划、回溯、状态压缩|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/638.大礼包/638.大礼包.cpp)|
 |639|[解码方法 II](https://leetcode-cn.com/problems/decode-ways-ii)|<span style="color: #ef4743;">困难</span>|字符串、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/639.解码方法II/639.解码方法II.cpp)|
 |640|[求解方程](https://leetcode-cn.com/problems/solve-the-equation)|<span style="color: #ffb800;">中等</span>|数学、字符串、模拟|To Do|
 |641|[设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque)|<span style="color: #ffb800;">中等</span>|设计、队列、数组、链表|To Do|
@@ -2061,6 +2061,10 @@
 |2044|[统计按位或能得到最大值的子集数目](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2045|[到达目的地的第二短时间](https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2046|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5906|[句子中的有效单词数](https://leetcode-cn.com/problems/number-of-valid-words-in-a-sentence)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|5907|[下一个更大的数值平衡数](https://leetcode-cn.com/problems/next-greater-numerically-balanced-number)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5908|[统计最高分的节点数目](https://leetcode-cn.com/problems/count-nodes-with-the-highest-score)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5909|[并行课程 III](https://leetcode-cn.com/problems/parallel-courses-iii)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
