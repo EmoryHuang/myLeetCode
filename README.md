@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-794/2406-blue)
+![](https://img.shields.io/badge/Solved-795/2407-blue)
 ![](https://img.shields.io/badge/easy-341-brightgreen)
-![](https://img.shields.io/badge/medium-403-yellow)
+![](https://img.shields.io/badge/medium-404-yellow)
 ![](https://img.shields.io/badge/hard-50-red)
 
 
-🧡最近一次更新:  2021-10-27 21:05:21
+🧡最近一次更新:  2021-10-28 09:14:30
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -883,7 +883,7 @@
 |866|[回文素数](https://leetcode-cn.com/problems/prime-palindrome)|<span style="color: #ffb800;">中等</span>|数学|To Do|
 |867|[转置矩阵](https://leetcode-cn.com/problems/transpose-matrix)|<span style="color: #2db55d;">简单</span>|数组、矩阵、模拟|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/867.转置矩阵/867.转置矩阵.cpp)|
 |868|[二进制间距](https://leetcode-cn.com/problems/binary-gap)|<span style="color: #2db55d;">简单</span>|位运算、数学|To Do|
-|869|[重新排序得到 2 的幂](https://leetcode-cn.com/problems/reordered-power-of-2)|<span style="color: #ffb800;">中等</span>|数学、计数、枚举、排序|To Do|
+|869|[重新排序得到 2 的幂](https://leetcode-cn.com/problems/reordered-power-of-2)|<span style="color: #ffb800;">中等</span>|数学、计数、枚举、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/869.重新排序得到2的幂/869.重新排序得到2的幂.cpp)|
 |870|[优势洗牌](https://leetcode-cn.com/problems/advantage-shuffle)|<span style="color: #ffb800;">中等</span>|贪心、数组、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/870.优势洗牌/870.优势洗牌.cpp)|
 |871|[最低加油次数](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops)|<span style="color: #ef4743;">困难</span>|贪心、数组、动态规划、堆（优先队列）|To Do|
 |872|[叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees)|<span style="color: #2db55d;">简单</span>|树、深度优先搜索、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/872.叶子相似的树/872.叶子相似的树.cpp)|
@@ -2066,6 +2066,7 @@
 |2049|[统计最高分的节点数目](https://leetcode-cn.com/problems/count-nodes-with-the-highest-score)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、数组、二叉树|To Do|
 |2050|[并行课程 III](https://leetcode-cn.com/problems/parallel-courses-iii)|<span style="color: #ef4743;">困难</span>|图、拓扑排序、动态规划|To Do|
 |2051|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
+|2052|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
