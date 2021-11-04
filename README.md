@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-795/2407-blue)
-![](https://img.shields.io/badge/easy-341-brightgreen)
-![](https://img.shields.io/badge/medium-404-yellow)
-![](https://img.shields.io/badge/hard-50-red)
+![](https://img.shields.io/badge/Solved-799/2416-blue)
+![](https://img.shields.io/badge/easy-342-brightgreen)
+![](https://img.shields.io/badge/medium-405-yellow)
+![](https://img.shields.io/badge/hard-52-red)
 
 
-🧡最近一次更新:  2021-10-28 09:14:30
+🧡最近一次更新:  2021-11-04 14:45:39
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -421,7 +421,7 @@
 |404|[左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves)|<span style="color: #2db55d;">简单</span>|树、深度优先搜索、广度优先搜索、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/404.左叶子之和/404.左叶子之和.cpp)|
 |405|[数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal)|<span style="color: #2db55d;">简单</span>|位运算、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/405.数字转换为十六进制数/405.数字转换为十六进制数.cpp)|
 |406|[根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height)|<span style="color: #ffb800;">中等</span>|贪心、数组、排序|To Do|
-|407|[接雨水 II](https://leetcode-cn.com/problems/trapping-rain-water-ii)|<span style="color: #ef4743;">困难</span>|广度优先搜索、数组、矩阵、堆（优先队列）|To Do|
+|407|[接雨水 II](https://leetcode-cn.com/problems/trapping-rain-water-ii)|<span style="color: #ef4743;">困难</span>|广度优先搜索、数组、矩阵、堆（优先队列）|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/407.接雨水II/407.接雨水II.cpp)|
 |408|有效单词缩写 🔒|<span style="color: #2db55d;">简单</span>|双指针、字符串|To Do|
 |409|[最长回文串](https://leetcode-cn.com/problems/longest-palindrome)|<span style="color: #2db55d;">简单</span>|贪心、哈希表、字符串|To Do|
 |410|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum)|<span style="color: #ef4743;">困难</span>|贪心、数组、二分查找、动态规划|To Do|
@@ -2067,6 +2067,15 @@
 |2050|[并行课程 III](https://leetcode-cn.com/problems/parallel-courses-iii)|<span style="color: #ef4743;">困难</span>|图、拓扑排序、动态规划|To Do|
 |2051|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
 |2052|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2053|[数组中第 K 个独一无二的字符串](https://leetcode-cn.com/problems/kth-distinct-string-in-an-array)|<span style="color: #2db55d;">简单</span>|数组、哈希表、字符串、计数|To Do|
+|2054|[两个最好的不重叠活动](https://leetcode-cn.com/problems/two-best-non-overlapping-events)|<span style="color: #ffb800;">中等</span>|数组、二分查找、动态规划、排序、堆（优先队列）|To Do|
+|2055|[蜡烛之间的盘子](https://leetcode-cn.com/problems/plates-between-candles)|<span style="color: #ffb800;">中等</span>|数组、字符串、二分查找、前缀和|To Do|
+|2056|[棋盘上有效移动组合的数目](https://leetcode-cn.com/problems/number-of-valid-move-combinations-on-chessboard)|<span style="color: #ef4743;">困难</span>|数组、字符串、回溯、模拟|To Do|
+|2057|[值相等的最小索引](https://leetcode-cn.com/problems/smallest-index-with-equal-value)|<span style="color: #2db55d;">简单</span>|数组|To Do|
+|2058|[找出临界点之间的最小和最大距离](https://leetcode-cn.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points)|<span style="color: #ffb800;">中等</span>|链表|To Do|
+|2059|[转化数字的最小运算数](https://leetcode-cn.com/problems/minimum-operations-to-convert-number)|<span style="color: #ffb800;">中等</span>|广度优先搜索、数组|To Do|
+|2060|[同源字符串检测](https://leetcode-cn.com/problems/check-if-an-original-string-exists-given-two-encoded-strings)|<span style="color: #ef4743;">困难</span>|字符串、动态规划|To Do|
+|2061|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
