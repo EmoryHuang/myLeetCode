@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-799/2416-blue)
+![](https://img.shields.io/badge/Solved-802/2416-blue)
 ![](https://img.shields.io/badge/easy-342-brightgreen)
-![](https://img.shields.io/badge/medium-405-yellow)
+![](https://img.shields.io/badge/medium-408-yellow)
 ![](https://img.shields.io/badge/hard-52-red)
 
 
-🧡最近一次更新:  2021-11-04 14:48:48
+🧡最近一次更新:  2021-11-04 20:44:45
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -918,7 +918,7 @@
 |901|[股票价格跨度](https://leetcode-cn.com/problems/online-stock-span)|<span style="color: #ffb800;">中等</span>|栈、设计、数据流、单调栈|To Do|
 |902|[最大为 N 的数字组合](https://leetcode-cn.com/problems/numbers-at-most-n-given-digit-set)|<span style="color: #ef4743;">困难</span>|数组、数学、二分查找、动态规划|To Do|
 |903|[DI 序列的有效排列](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence)|<span style="color: #ef4743;">困难</span>|动态规划|To Do|
-|904|[水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets)|<span style="color: #ffb800;">中等</span>|数组、哈希表、滑动窗口|To Do|
+|904|[水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets)|<span style="color: #ffb800;">中等</span>|数组、哈希表、滑动窗口|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/904.水果成篮/904.水果成篮.cpp)|
 |905|[按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity)|<span style="color: #2db55d;">简单</span>|数组、双指针、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/905.按奇偶排序数组/905.按奇偶排序数组.cpp)|
 |906|[超级回文数](https://leetcode-cn.com/problems/super-palindromes)|<span style="color: #ef4743;">困难</span>|数学、枚举|To Do|
 |907|[子数组的最小值之和](https://leetcode-cn.com/problems/sum-of-subarray-minimums)|<span style="color: #ffb800;">中等</span>|栈、数组、动态规划、单调栈|To Do|
@@ -1913,7 +1913,7 @@
 |1896|[反转表达式值的最少操作次数](https://leetcode-cn.com/problems/minimum-cost-to-change-the-final-value-of-expression)|<span style="color: #ef4743;">困难</span>|栈、数学、字符串、动态规划|To Do|
 |1897|[重新分配字符使所有字符串都相等](https://leetcode-cn.com/problems/redistribute-characters-to-make-all-strings-equal)|<span style="color: #2db55d;">简单</span>|哈希表、字符串、计数|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1897.重新分配字符使所有字符串都相等/1897.重新分配字符使所有字符串都相等.cpp)|
 |1898|[可移除字符的最大数目](https://leetcode-cn.com/problems/maximum-number-of-removable-characters)|<span style="color: #ffb800;">中等</span>|数组、字符串、二分查找|To Do|
-|1899|[合并若干三元组以形成目标三元组](https://leetcode-cn.com/problems/merge-triplets-to-form-target-triplet)|<span style="color: #ffb800;">中等</span>|贪心、数组|To Do|
+|1899|[合并若干三元组以形成目标三元组](https://leetcode-cn.com/problems/merge-triplets-to-form-target-triplet)|<span style="color: #ffb800;">中等</span>|贪心、数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1899.合并若干三元组以形成目标三元组/1899.合并若干三元组以形成目标三元组.cpp)|
 |1900|[最佳运动员的比拼回合](https://leetcode-cn.com/problems/the-earliest-and-latest-rounds-where-players-compete)|<span style="color: #ef4743;">困难</span>|记忆化搜索、动态规划|To Do|
 |1901|[找出顶峰元素 II](https://leetcode-cn.com/problems/find-a-peak-element-ii)|<span style="color: #ffb800;">中等</span>|数组、二分查找、分治、矩阵|To Do|
 |1902|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|树、二叉搜索树、二叉树、有序集合|To Do|
@@ -1981,7 +1981,7 @@
 |1964|[找出到每个位置为止最长的有效障碍赛跑路线](https://leetcode-cn.com/problems/find-the-longest-valid-obstacle-course-at-each-position)|<span style="color: #ef4743;">困难</span>|树状数组、数组、二分查找|To Do|
 |1965|害-未爬到中文名 🔒|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
 |1966|[害-未爬到中文名](https://leetcode-cn.com/problems/binary-searchable-numbers-in-an-unsorted-array)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
-|1967|[作为子字符串出现在单词中的字符串数目](https://leetcode-cn.com/problems/number-of-strings-that-appear-as-substrings-in-word)|<span style="color: #2db55d;">简单</span>|字符串|To Do|
+|1967|[作为子字符串出现在单词中的字符串数目](https://leetcode-cn.com/problems/number-of-strings-that-appear-as-substrings-in-word)|<span style="color: #2db55d;">简单</span>|字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1967.作为子字符串出现在单词中的字符串数目/1967.作为子字符串出现在单词中的字符串数目.cpp)|
 |1968|[构造元素不等于两相邻元素平均值的数组](https://leetcode-cn.com/problems/array-with-elements-not-equal-to-average-of-neighbors)|<span style="color: #ffb800;">中等</span>|贪心、数组、排序|To Do|
 |1969|[数组元素的最小非零乘积](https://leetcode-cn.com/problems/minimum-non-zero-product-of-the-array-elements)|<span style="color: #ffb800;">中等</span>|贪心、递归、数学|To Do|
 |1970|[你能穿过矩阵的最后一天](https://leetcode-cn.com/problems/last-day-where-you-can-still-cross)|<span style="color: #ef4743;">困难</span>|深度优先搜索、广度优先搜索、并查集、数组、二分查找、矩阵|To Do|
