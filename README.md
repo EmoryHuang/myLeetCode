@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-802/2416-blue)
-![](https://img.shields.io/badge/easy-342-brightgreen)
-![](https://img.shields.io/badge/medium-408-yellow)
+![](https://img.shields.io/badge/Solved-806/2416-blue)
+![](https://img.shields.io/badge/easy-344-brightgreen)
+![](https://img.shields.io/badge/medium-410-yellow)
 ![](https://img.shields.io/badge/hard-52-red)
 
 
-🧡最近一次更新:  2021-11-04 20:44:45
+🧡最近一次更新:  2021-11-05 20:38:36
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -808,7 +808,7 @@
 |791|[自定义字符串排序](https://leetcode-cn.com/problems/custom-sort-string)|<span style="color: #ffb800;">中等</span>|哈希表、字符串、排序|To Do|
 |792|[匹配子序列的单词数](https://leetcode-cn.com/problems/number-of-matching-subsequences)|<span style="color: #ffb800;">中等</span>|字典树、哈希表、字符串、排序|To Do|
 |793|[阶乘函数后 K 个零](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function)|<span style="color: #ef4743;">困难</span>|数学、二分查找|To Do|
-|794|[有效的井字游戏](https://leetcode-cn.com/problems/valid-tic-tac-toe-state)|<span style="color: #ffb800;">中等</span>|数组、字符串|To Do|
+|794|[有效的井字游戏](https://leetcode-cn.com/problems/valid-tic-tac-toe-state)|<span style="color: #ffb800;">中等</span>|数组、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/794.有效的井字游戏/794.有效的井字游戏.cpp)|
 |795|[区间子数组个数](https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum)|<span style="color: #ffb800;">中等</span>|数组、双指针|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/795.区间子数组个数/795.区间子数组个数.cpp)|
 |796|[旋转字符串](https://leetcode-cn.com/problems/rotate-string)|<span style="color: #2db55d;">简单</span>|字符串、字符串匹配|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/796.旋转字符串/796.旋转字符串.cpp)|
 |797|[所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、图、回溯|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/797.所有可能的路径/797.所有可能的路径.cpp)|
@@ -1634,7 +1634,7 @@
 |1617|[统计子树中城市之间最大距离](https://leetcode-cn.com/problems/count-subtrees-with-max-distance-between-cities)|<span style="color: #ef4743;">困难</span>|位运算、树、动态规划、状态压缩、枚举|To Do|
 |1618|找出适应屏幕的最大字号 🔒|<span style="color: #ffb800;">中等</span>|数组、字符串、二分查找、交互|To Do|
 |1619|[删除某些元素后的数组均值](https://leetcode-cn.com/problems/mean-of-array-after-removing-some-elements)|<span style="color: #2db55d;">简单</span>|数组、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1619.删除某些元素后的数组均值/1619.删除某些元素后的数组均值.cpp)|
-|1620|[网络信号最好的坐标](https://leetcode-cn.com/problems/coordinate-with-maximum-network-quality)|<span style="color: #ffb800;">中等</span>|数组、枚举|To Do|
+|1620|[网络信号最好的坐标](https://leetcode-cn.com/problems/coordinate-with-maximum-network-quality)|<span style="color: #ffb800;">中等</span>|数组、枚举|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1620.网络信号最好的坐标/1620.网络信号最好的坐标.cpp)|
 |1621|[大小为 K 的不重叠线段的数目](https://leetcode-cn.com/problems/number-of-sets-of-k-non-overlapping-line-segments)|<span style="color: #ffb800;">中等</span>|数学、动态规划|To Do|
 |1622|[奇妙序列](https://leetcode-cn.com/problems/fancy-sequence)|<span style="color: #ef4743;">困难</span>|设计、线段树、数学|To Do|
 |1623|三人国家代表队 🔒|<span style="color: #2db55d;">简单</span>|数据库|To Do|
@@ -1787,7 +1787,7 @@
 |1770|[执行乘法运算的最大分数](https://leetcode-cn.com/problems/maximum-score-from-performing-multiplication-operations)|<span style="color: #ffb800;">中等</span>|数组、动态规划|To Do|
 |1771|[由子序列构造的最长回文串的长度](https://leetcode-cn.com/problems/maximize-palindrome-length-from-subsequences)|<span style="color: #ef4743;">困难</span>|字符串、动态规划|To Do|
 |1772|按受欢迎程度排列功能 🔒|<span style="color: #ffb800;">中等</span>|数组、哈希表、字符串、排序|To Do|
-|1773|[统计匹配检索规则的物品数量](https://leetcode-cn.com/problems/count-items-matching-a-rule)|<span style="color: #2db55d;">简单</span>|数组、字符串|To Do|
+|1773|[统计匹配检索规则的物品数量](https://leetcode-cn.com/problems/count-items-matching-a-rule)|<span style="color: #2db55d;">简单</span>|数组、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1773.统计匹配检索规则的物品数量/1773.统计匹配检索规则的物品数量.cpp)|
 |1774|[最接近目标价格的甜点成本](https://leetcode-cn.com/problems/closest-dessert-cost)|<span style="color: #ffb800;">中等</span>|数组、动态规划、回溯|To Do|
 |1775|[通过最少操作次数使数组的和相等](https://leetcode-cn.com/problems/equal-sum-arrays-with-minimum-number-of-operations)|<span style="color: #ffb800;">中等</span>|贪心、数组、哈希表、计数|To Do|
 |1776|[车队 II](https://leetcode-cn.com/problems/car-fleet-ii)|<span style="color: #ef4743;">困难</span>|栈、数组、数学、单调栈、堆（优先队列）|To Do|
@@ -1934,7 +1934,7 @@
 |1917|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|数据库|To Do|
 |1918|第 K 小的子序列和 🔒|<span style="color: #ffb800;">中等</span>|数组、二分查找、滑动窗口|To Do|
 |1919|兴趣相同的朋友 🔒|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
-|1920|[基于排列构建数组](https://leetcode-cn.com/problems/build-array-from-permutation)|<span style="color: #2db55d;">简单</span>|数组、模拟|To Do|
+|1920|[基于排列构建数组](https://leetcode-cn.com/problems/build-array-from-permutation)|<span style="color: #2db55d;">简单</span>|数组、模拟|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1920.基于排列构建数组/1920.基于排列构建数组.cpp)|
 |1921|[消灭怪物的最大数量](https://leetcode-cn.com/problems/eliminate-maximum-number-of-monsters)|<span style="color: #ffb800;">中等</span>|贪心、数组、排序|To Do|
 |1922|[统计好数字的数目](https://leetcode-cn.com/problems/count-good-numbers)|<span style="color: #ffb800;">中等</span>|递归、数学|To Do|
 |1923|[最长公共子路径](https://leetcode-cn.com/problems/longest-common-subpath)|<span style="color: #ef4743;">困难</span>|数组、二分查找、后缀数组、哈希函数、滚动哈希|To Do|
