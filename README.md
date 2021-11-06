@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-806/2416-blue)
-![](https://img.shields.io/badge/easy-344-brightgreen)
-![](https://img.shields.io/badge/medium-410-yellow)
+![](https://img.shields.io/badge/Solved-809/2416-blue)
+![](https://img.shields.io/badge/easy-345-brightgreen)
+![](https://img.shields.io/badge/medium-412-yellow)
 ![](https://img.shields.io/badge/hard-52-red)
 
 
-🧡最近一次更新:  2021-11-05 20:54:40
+🧡最近一次更新:  2021-11-06 16:21:21
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -1051,7 +1051,7 @@
 |1034|[边框着色](https://leetcode-cn.com/problems/coloring-a-border)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、数组、矩阵|To Do|
 |1035|[不相交的线](https://leetcode-cn.com/problems/uncrossed-lines)|<span style="color: #ffb800;">中等</span>|数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1035.不相交的线/1035.不相交的线.cpp)|
 |1036|[逃离大迷宫](https://leetcode-cn.com/problems/escape-a-large-maze)|<span style="color: #ef4743;">困难</span>|深度优先搜索、广度优先搜索、数组、哈希表|To Do|
-|1037|[有效的回旋镖](https://leetcode-cn.com/problems/valid-boomerang)|<span style="color: #2db55d;">简单</span>|几何、数学|To Do|
+|1037|[有效的回旋镖](https://leetcode-cn.com/problems/valid-boomerang)|<span style="color: #2db55d;">简单</span>|几何、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1037.有效的回旋镖/1037.有效的回旋镖.cpp)|
 |1038|[把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、二叉搜索树、二叉树|To Do|
 |1039|[多边形三角剖分的最低得分](https://leetcode-cn.com/problems/minimum-score-triangulation-of-polygon)|<span style="color: #ffb800;">中等</span>|数组、动态规划|To Do|
 |1040|[移动石子直到连续 II](https://leetcode-cn.com/problems/moving-stones-until-consecutive-ii)|<span style="color: #ffb800;">中等</span>|数组、数学、双指针、排序|To Do|
@@ -1918,7 +1918,7 @@
 |1901|[找出顶峰元素 II](https://leetcode-cn.com/problems/find-a-peak-element-ii)|<span style="color: #ffb800;">中等</span>|数组、二分查找、分治、矩阵|To Do|
 |1902|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|树、二叉搜索树、二叉树、有序集合|To Do|
 |1903|[字符串中的最大奇数](https://leetcode-cn.com/problems/largest-odd-number-in-string)|<span style="color: #2db55d;">简单</span>|贪心、数学、字符串|To Do|
-|1904|[你完成的完整对局数](https://leetcode-cn.com/problems/the-number-of-full-rounds-you-have-played)|<span style="color: #ffb800;">中等</span>|数学、字符串|To Do|
+|1904|[你完成的完整对局数](https://leetcode-cn.com/problems/the-number-of-full-rounds-you-have-played)|<span style="color: #ffb800;">中等</span>|数学、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1904.你完成的完整对局数/1904.你完成的完整对局数.cpp)|
 |1905|[统计子岛屿](https://leetcode-cn.com/problems/count-sub-islands)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、并查集、数组、矩阵|To Do|
 |1906|[查询差绝对值的最小值](https://leetcode-cn.com/problems/minimum-absolute-difference-queries)|<span style="color: #ffb800;">中等</span>|数组、哈希表|To Do|
 |1907|按分类统计薪水 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
@@ -1994,7 +1994,7 @@
 |1977|[划分数字的方案数](https://leetcode-cn.com/problems/number-of-ways-to-separate-numbers)|<span style="color: #ef4743;">困难</span>|字符串、动态规划、后缀数组|To Do|
 |1978|[害-未爬到中文名](https://leetcode-cn.com/problems/employees-whose-manager-left-the-company)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
 |1979|[找出数组的最大公约数](https://leetcode-cn.com/problems/find-greatest-common-divisor-of-array)|<span style="color: #2db55d;">简单</span>|数组、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1979.找出数组的最大公约数/1979.找出数组的最大公约数.cpp)|
-|1980|[找出不同的二进制字符串](https://leetcode-cn.com/problems/find-unique-binary-string)|<span style="color: #ffb800;">中等</span>|数组、字符串、回溯|To Do|
+|1980|[找出不同的二进制字符串](https://leetcode-cn.com/problems/find-unique-binary-string)|<span style="color: #ffb800;">中等</span>|数组、字符串、回溯|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1980.找出不同的二进制字符串/1980.找出不同的二进制字符串.cpp)|
 |1981|[最小化目标值与所选元素的差](https://leetcode-cn.com/problems/minimize-the-difference-between-target-and-chosen-elements)|<span style="color: #ffb800;">中等</span>|数组、动态规划、矩阵|To Do|
 |1982|[从子集的和还原数组](https://leetcode-cn.com/problems/find-array-given-subset-sums)|<span style="color: #ef4743;">困难</span>|数组、分治|To Do|
 |1983|[害-未爬到中文名](https://leetcode-cn.com/problems/widest-pair-of-indices-with-equal-range-sum)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
