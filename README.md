@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-812/2421-blue)
+![](https://img.shields.io/badge/Solved-813/2421-blue)
 ![](https://img.shields.io/badge/easy-347-brightgreen)
 ![](https://img.shields.io/badge/medium-413-yellow)
-![](https://img.shields.io/badge/hard-52-red)
+![](https://img.shields.io/badge/hard-53-red)
 
 
-🧡最近一次更新:  2021-11-08 21:08:10
+🧡最近一次更新:  2021-11-09 16:50:51
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -502,7 +502,7 @@
 |485|[最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/485.最大连续1的个数/485.最大连续1的个数.cpp)|
 |486|[预测赢家](https://leetcode-cn.com/problems/predict-the-winner)|<span style="color: #ffb800;">中等</span>|递归、数组、数学、动态规划、博弈|To Do|
 |487|最大连续1的个数 II 🔒|<span style="color: #ffb800;">中等</span>|数组、动态规划、滑动窗口|To Do|
-|488|[祖玛游戏](https://leetcode-cn.com/problems/zuma-game)|<span style="color: #ef4743;">困难</span>|字符串、回溯|To Do|
+|488|[祖玛游戏](https://leetcode-cn.com/problems/zuma-game)|<span style="color: #ef4743;">困难</span>|字符串、回溯|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/488.祖玛游戏/488.祖玛游戏.cpp)|
 |489|扫地机器人 🔒|<span style="color: #ef4743;">困难</span>|回溯、交互|To Do|
 |490|迷宫 🔒|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、图|To Do|
 |491|[递增子序列](https://leetcode-cn.com/problems/increasing-subsequences)|<span style="color: #ffb800;">中等</span>|位运算、数组、哈希表、回溯|To Do|
