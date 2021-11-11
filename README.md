@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-813/2421-blue)
+![](https://img.shields.io/badge/Solved-816/2422-blue)
 ![](https://img.shields.io/badge/easy-347-brightgreen)
-![](https://img.shields.io/badge/medium-413-yellow)
-![](https://img.shields.io/badge/hard-53-red)
+![](https://img.shields.io/badge/medium-415-yellow)
+![](https://img.shields.io/badge/hard-54-red)
 
 
-🧡最近一次更新:  2021-11-09 16:50:51
+🧡最近一次更新:  2021-11-11 20:20:18
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -502,7 +502,7 @@
 |485|[最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/485.最大连续1的个数/485.最大连续1的个数.cpp)|
 |486|[预测赢家](https://leetcode-cn.com/problems/predict-the-winner)|<span style="color: #ffb800;">中等</span>|递归、数组、数学、动态规划、博弈|To Do|
 |487|最大连续1的个数 II 🔒|<span style="color: #ffb800;">中等</span>|数组、动态规划、滑动窗口|To Do|
-|488|[祖玛游戏](https://leetcode-cn.com/problems/zuma-game)|<span style="color: #ef4743;">困难</span>|字符串、回溯|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/488.祖玛游戏/488.祖玛游戏.cpp)|
+|488|[祖玛游戏](https://leetcode-cn.com/problems/zuma-game)|<span style="color: #ef4743;">困难</span>|广度优先搜索、记忆化搜索、字符串、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/488.祖玛游戏/488.祖玛游戏.cpp)|
 |489|扫地机器人 🔒|<span style="color: #ef4743;">困难</span>|回溯、交互|To Do|
 |490|迷宫 🔒|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、图|To Do|
 |491|[递增子序列](https://leetcode-cn.com/problems/increasing-subsequences)|<span style="color: #ffb800;">中等</span>|位运算、数组、哈希表、回溯|To Do|
@@ -643,7 +643,7 @@
 |626|[换座位](https://leetcode-cn.com/problems/exchange-seats)|<span style="color: #ffb800;">中等</span>|数据库|To Do|
 |627|[变更性别](https://leetcode-cn.com/problems/swap-salary)|<span style="color: #2db55d;">简单</span>|数据库|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/627.变更性别/627.变更性别.sql)|
 |628|[三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers)|<span style="color: #2db55d;">简单</span>|数组、数学、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/628.三个数的最大乘积/628.三个数的最大乘积.cpp)|
-|629|[K个逆序对数组](https://leetcode-cn.com/problems/k-inverse-pairs-array)|<span style="color: #ef4743;">困难</span>|动态规划|To Do|
+|629|[K个逆序对数组](https://leetcode-cn.com/problems/k-inverse-pairs-array)|<span style="color: #ef4743;">困难</span>|动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/629.K个逆序对数组/629.K个逆序对数组.cpp)|
 |630|[课程表 III](https://leetcode-cn.com/problems/course-schedule-iii)|<span style="color: #ef4743;">困难</span>|贪心、数组、堆（优先队列）|To Do|
 |631|设计 Excel 求和公式 🔒|<span style="color: #ef4743;">困难</span>|图、设计、拓扑排序|To Do|
 |632|[最小区间](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists)|<span style="color: #ef4743;">困难</span>|贪心、数组、哈希表、排序、滑动窗口、堆（优先队列）|To Do|
@@ -2081,6 +2081,7 @@
 |2064|[分配给商店的最多商品的最小值](https://leetcode-cn.com/problems/minimized-maximum-of-products-distributed-to-any-store)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2065|[最大化一张图中的路径价值](https://leetcode-cn.com/problems/maximum-path-quality-of-a-graph)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2066|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2067|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
