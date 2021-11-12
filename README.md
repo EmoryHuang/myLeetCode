@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-816/2422-blue)
+![](https://img.shields.io/badge/Solved-817/2422-blue)
 ![](https://img.shields.io/badge/easy-347-brightgreen)
-![](https://img.shields.io/badge/medium-415-yellow)
+![](https://img.shields.io/badge/medium-416-yellow)
 ![](https://img.shields.io/badge/hard-54-red)
 
 
-🧡最近一次更新:  2021-11-11 20:33:59
+🧡最近一次更新:  2021-11-12 19:28:58
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -389,7 +389,7 @@
 |372|[超级次方](https://leetcode-cn.com/problems/super-pow)|<span style="color: #ffb800;">中等</span>|数学、分治|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/372.超级次方/372.超级次方.cpp)|
 |373|[查找和最小的K对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums)|<span style="color: #ffb800;">中等</span>|数组、堆（优先队列）|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/373.查找和最小的K对数字/373.查找和最小的K对数字.cpp)|
 |374|[猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower)|<span style="color: #2db55d;">简单</span>|二分查找、交互|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/374.猜数字大小/374.猜数字大小.cpp)|
-|375|[猜数字大小 II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii)|<span style="color: #ffb800;">中等</span>|数学、动态规划、博弈|To Do|
+|375|[猜数字大小 II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii)|<span style="color: #ffb800;">中等</span>|数学、动态规划、博弈|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/375.猜数字大小II/375.猜数字大小II.cpp)|
 |376|[摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence)|<span style="color: #ffb800;">中等</span>|贪心、数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/376.摆动序列/376.摆动序列.cpp)|
 |377|[组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv)|<span style="color: #ffb800;">中等</span>|数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/377.组合总和Ⅳ/377.组合总和Ⅳ.cpp)|
 |378|[有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix)|<span style="color: #ffb800;">中等</span>|数组、二分查找、矩阵、排序、堆（优先队列）|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/378.有序矩阵中第K小的元素/378.有序矩阵中第K小的元素.cpp)|
@@ -2126,7 +2126,7 @@
 |LCP42|[玩具套圈](https://leetcode-cn.com/problems/vFjcfV)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP43|[十字路口的交通](https://leetcode-cn.com/problems/Y1VbOX)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP44|[开幕式焰火](https://leetcode-cn.com/problems/sZ59z6)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
-|LCP45|[自行车炫技赛场](https://leetcode-cn.com/problems/kplEvH)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|LCP45|[自行车炫技赛场](https://leetcode-cn.com/problems/kplEvH)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、记忆化搜索、数组、动态规划、矩阵|To Do|
 |LCP46|[志愿者调配](https://leetcode-cn.com/problems/05ZEDJ)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP47|[入场安检](https://leetcode-cn.com/problems/oPs9Bm)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP48|[无限棋局](https://leetcode-cn.com/problems/fsa7oZ)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
