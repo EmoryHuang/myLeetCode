@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-817/2422-blue)
+![](https://img.shields.io/badge/Solved-818/2431-blue)
 ![](https://img.shields.io/badge/easy-347-brightgreen)
-![](https://img.shields.io/badge/medium-416-yellow)
+![](https://img.shields.io/badge/medium-417-yellow)
 ![](https://img.shields.io/badge/hard-54-red)
 
 
-🧡最近一次更新:  2021-11-12 19:34:34
+🧡最近一次更新:  2021-11-15 21:25:15
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -691,7 +691,7 @@
 |674|[最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/674.最长连续递增序列/674.最长连续递增序列.cpp)|
 |675|[为高尔夫比赛砍树](https://leetcode-cn.com/problems/cut-off-trees-for-golf-event)|<span style="color: #ef4743;">困难</span>|广度优先搜索、数组、矩阵、堆（优先队列）|To Do|
 |676|[实现一个魔法字典](https://leetcode-cn.com/problems/implement-magic-dictionary)|<span style="color: #ffb800;">中等</span>|设计、字典树、哈希表、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/676.实现一个魔法字典/676.实现一个魔法字典.cpp)|
-|677|[键值映射](https://leetcode-cn.com/problems/map-sum-pairs)|<span style="color: #ffb800;">中等</span>|设计、字典树、哈希表、字符串|To Do|
+|677|[键值映射](https://leetcode-cn.com/problems/map-sum-pairs)|<span style="color: #ffb800;">中等</span>|设计、字典树、哈希表、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/677.键值映射/677.键值映射.cpp)|
 |678|[有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string)|<span style="color: #ffb800;">中等</span>|栈、贪心、字符串、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/678.有效的括号字符串/678.有效的括号字符串.cpp)|
 |679|[24 点游戏](https://leetcode-cn.com/problems/24-game)|<span style="color: #ef4743;">困难</span>|数组、数学、回溯|To Do|
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii)|<span style="color: #2db55d;">简单</span>|贪心、双指针、字符串|To Do|
@@ -2082,6 +2082,15 @@
 |2065|[最大化一张图中的路径价值](https://leetcode-cn.com/problems/maximum-path-quality-of-a-graph)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2066|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2067|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2068|[检查两个字符串是否几乎相等](https://leetcode-cn.com/problems/check-whether-two-strings-are-almost-equivalent)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2069|[模拟行走机器人 II](https://leetcode-cn.com/problems/walking-robot-simulation-ii)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2070|[每一个查询的最大美丽值](https://leetcode-cn.com/problems/most-beautiful-item-for-each-query)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2071|[你可以安排的最多任务数目](https://leetcode-cn.com/problems/maximum-number-of-tasks-you-can-assign)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|2072|害-未爬到中文名 🔒|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2073|[买票需要的时间](https://leetcode-cn.com/problems/time-needed-to-buy-tickets)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2074|[反转偶数长度组的节点](https://leetcode-cn.com/problems/reverse-nodes-in-even-length-groups)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2075|[解码斜向换位密码](https://leetcode-cn.com/problems/decode-the-slanted-ciphertext)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2076|[处理含限制条件的好友请求](https://leetcode-cn.com/problems/process-restricted-friend-requests)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
