@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-818/2431-blue)
+![](https://img.shields.io/badge/Solved-820/2431-blue)
 ![](https://img.shields.io/badge/easy-347-brightgreen)
-![](https://img.shields.io/badge/medium-417-yellow)
-![](https://img.shields.io/badge/hard-54-red)
+![](https://img.shields.io/badge/medium-418-yellow)
+![](https://img.shields.io/badge/hard-55-red)
 
 
-🧡最近一次更新:  2021-11-15 21:25:15
+🧡最近一次更新:  2021-11-17 09:19:48
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -332,7 +332,7 @@
 |315|[计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self)|<span style="color: #ef4743;">困难</span>|树状数组、线段树、数组、二分查找、分治、有序集合、归并排序|To Do|
 |316|[去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters)|<span style="color: #ffb800;">中等</span>|栈、贪心、字符串、单调栈|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/316.去除重复字母/316.去除重复字母.cpp)|
 |317|离建筑物最近的距离 🔒|<span style="color: #ef4743;">困难</span>|广度优先搜索、数组、矩阵|To Do|
-|318|[最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths)|<span style="color: #ffb800;">中等</span>|位运算、数组、字符串|To Do|
+|318|[最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths)|<span style="color: #ffb800;">中等</span>|位运算、数组、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/318.最大单词长度乘积/318.最大单词长度乘积.cpp)|
 |319|[灯泡开关](https://leetcode-cn.com/problems/bulb-switcher)|<span style="color: #ffb800;">中等</span>|脑筋急转弯、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/319.灯泡开关/319.灯泡开关.cpp)|
 |320|列举单词的全部缩写 🔒|<span style="color: #ffb800;">中等</span>|位运算、字符串、回溯|To Do|
 |321|[拼接最大数](https://leetcode-cn.com/problems/create-maximum-number)|<span style="color: #ef4743;">困难</span>|栈、贪心、单调栈|To Do|
@@ -405,7 +405,7 @@
 |388|[文件的最长绝对路径](https://leetcode-cn.com/problems/longest-absolute-file-path)|<span style="color: #ffb800;">中等</span>|栈、深度优先搜索、字符串|To Do|
 |389|[找不同](https://leetcode-cn.com/problems/find-the-difference)|<span style="color: #2db55d;">简单</span>|位运算、哈希表、字符串、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/389.找不同/389.找不同.cpp)|
 |390|[消除游戏](https://leetcode-cn.com/problems/elimination-game)|<span style="color: #ffb800;">中等</span>|数学|To Do|
-|391|[完美矩形](https://leetcode-cn.com/problems/perfect-rectangle)|<span style="color: #ef4743;">困难</span>|数组、扫描线|To Do|
+|391|[完美矩形](https://leetcode-cn.com/problems/perfect-rectangle)|<span style="color: #ef4743;">困难</span>|数组、扫描线|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/391.完美矩形/391.完美矩形.cpp)|
 |392|[判断子序列](https://leetcode-cn.com/problems/is-subsequence)|<span style="color: #2db55d;">简单</span>|双指针、字符串、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/392.判断子序列/392.判断子序列.cpp)|
 |393|[UTF-8 编码验证](https://leetcode-cn.com/problems/utf-8-validation)|<span style="color: #ffb800;">中等</span>|位运算、数组|To Do|
 |394|[字符串解码](https://leetcode-cn.com/problems/decode-string)|<span style="color: #ffb800;">中等</span>|栈、递归、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/394.字符串解码/394.字符串解码.cpp)|
