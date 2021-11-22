@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-820/2431-blue)
+![](https://img.shields.io/badge/Solved-821/2436-blue)
 ![](https://img.shields.io/badge/easy-347-brightgreen)
-![](https://img.shields.io/badge/medium-418-yellow)
+![](https://img.shields.io/badge/medium-419-yellow)
 ![](https://img.shields.io/badge/hard-55-red)
 
 
-🧡最近一次更新:  2021-11-17 09:22:41
+🧡最近一次更新:  2021-11-22 20:59:16
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -398,7 +398,7 @@
 |381|[O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed)|<span style="color: #ef4743;">困难</span>|设计、数组、哈希表、数学、随机化|To Do|
 |382|[链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node)|<span style="color: #ffb800;">中等</span>|水塘抽样、链表、数学、随机化|To Do|
 |383|[赎金信](https://leetcode-cn.com/problems/ransom-note)|<span style="color: #2db55d;">简单</span>|哈希表、字符串、计数|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/383.赎金信/383.赎金信.cpp)|
-|384|[打乱数组](https://leetcode-cn.com/problems/shuffle-an-array)|<span style="color: #ffb800;">中等</span>|数组、数学、随机化|To Do|
+|384|[打乱数组](https://leetcode-cn.com/problems/shuffle-an-array)|<span style="color: #ffb800;">中等</span>|数组、数学、随机化|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/384.打乱数组/384.打乱数组.cpp)|
 |385|[迷你语法分析器](https://leetcode-cn.com/problems/mini-parser)|<span style="color: #ffb800;">中等</span>|栈、深度优先搜索、字符串|To Do|
 |386|[字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers)|<span style="color: #ffb800;">中等</span>|深度优先搜索、字典树|To Do|
 |387|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string)|<span style="color: #2db55d;">简单</span>|队列、哈希表、字符串、计数|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/387.字符串中的第一个唯一字符/387.字符串中的第一个唯一字符.cpp)|
@@ -2091,6 +2091,11 @@
 |2074|[反转偶数长度组的节点](https://leetcode-cn.com/problems/reverse-nodes-in-even-length-groups)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2075|[解码斜向换位密码](https://leetcode-cn.com/problems/decode-the-slanted-ciphertext)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2076|[处理含限制条件的好友请求](https://leetcode-cn.com/problems/process-restricted-friend-requests)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|2078|[两栋颜色不同且距离最远的房子](https://leetcode-cn.com/problems/two-furthest-houses-with-different-colors)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2079|[给植物浇水](https://leetcode-cn.com/problems/watering-plants)|<span style="color: #ffb800;">中等</span>|数组|To Do|
+|2080|[区间内查询数字的频率](https://leetcode-cn.com/problems/range-frequency-queries)|<span style="color: #ffb800;">中等</span>|数组、二分查找|To Do|
+|2081|[k 镜像数字的和](https://leetcode-cn.com/problems/sum-of-k-mirror-numbers)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|5945|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
