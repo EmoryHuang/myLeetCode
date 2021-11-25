@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-823/2437-blue)
+![](https://img.shields.io/badge/Solved-823/2438-blue)
 ![](https://img.shields.io/badge/easy-347-brightgreen)
 ![](https://img.shields.io/badge/medium-420-yellow)
 ![](https://img.shields.io/badge/hard-56-red)
 
 
-🧡最近一次更新:  2021-11-25 08:49:42
+🧡最近一次更新:  2021-11-25 21:25:47
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -2097,6 +2097,7 @@
 |2080|[区间内查询数字的频率](https://leetcode-cn.com/problems/range-frequency-queries)|<span style="color: #ffb800;">中等</span>|数组、二分查找|To Do|
 |2081|[k 镜像数字的和](https://leetcode-cn.com/problems/sum-of-k-mirror-numbers)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2082|害-未爬到中文名 🔒|<span style="color: #2db55d;">简单</span>|数据库|To Do|
+|5951|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
