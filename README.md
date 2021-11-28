@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-823/2438-blue)
+![](https://img.shields.io/badge/Solved-825/2447-blue)
 ![](https://img.shields.io/badge/easy-347-brightgreen)
-![](https://img.shields.io/badge/medium-420-yellow)
+![](https://img.shields.io/badge/medium-422-yellow)
 ![](https://img.shields.io/badge/hard-56-red)
 
 
-🧡最近一次更新:  2021-11-25 21:25:47
+🧡最近一次更新:  2021-11-28 18:52:22
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -452,7 +452,7 @@
 |435|[无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals)|<span style="color: #ffb800;">中等</span>|贪心、数组、动态规划、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/435.无重叠区间/435.无重叠区间.cpp)|
 |436|[寻找右区间](https://leetcode-cn.com/problems/find-right-interval)|<span style="color: #ffb800;">中等</span>|数组、二分查找、排序|To Do|
 |437|[路径总和 III](https://leetcode-cn.com/problems/path-sum-iii)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/437.路径总和III/437.路径总和III.cpp)|
-|438|[找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string)|<span style="color: #ffb800;">中等</span>|哈希表、字符串、滑动窗口|To Do|
+|438|[找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string)|<span style="color: #ffb800;">中等</span>|哈希表、字符串、滑动窗口|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/438.找到字符串中所有字母异位词/438.找到字符串中所有字母异位词.cpp)|
 |439|三元表达式解析器 🔒|<span style="color: #ffb800;">中等</span>|栈、递归、字符串|To Do|
 |440|[字典序的第K小数字](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order)|<span style="color: #ef4743;">困难</span>|字典树|To Do|
 |441|[排列硬币](https://leetcode-cn.com/problems/arranging-coins)|<span style="color: #2db55d;">简单</span>|数学、二分查找|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/441.排列硬币/441.排列硬币.cpp)|
@@ -533,7 +533,7 @@
 |516|[最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence)|<span style="color: #ffb800;">中等</span>|字符串、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/516.最长回文子序列/516.最长回文子序列.cpp)|
 |517|[超级洗衣机](https://leetcode-cn.com/problems/super-washing-machines)|<span style="color: #ef4743;">困难</span>|贪心、数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/517.超级洗衣机/517.超级洗衣机.cpp)|
 |518|[零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2)|<span style="color: #ffb800;">中等</span>|数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/518.零钱兑换II/518.零钱兑换II.cpp)|
-|519|[随机翻转矩阵](https://leetcode-cn.com/problems/random-flip-matrix)|<span style="color: #ffb800;">中等</span>|水塘抽样、哈希表、数学、随机化|To Do|
+|519|[随机翻转矩阵](https://leetcode-cn.com/problems/random-flip-matrix)|<span style="color: #ffb800;">中等</span>|水塘抽样、哈希表、数学、随机化|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/519.随机翻转矩阵/519.随机翻转矩阵.cpp)|
 |520|[检测大写字母](https://leetcode-cn.com/problems/detect-capital)|<span style="color: #2db55d;">简单</span>|字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/520.检测大写字母/520.检测大写字母.cpp)|
 |521|[最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i)|<span style="color: #2db55d;">简单</span>|字符串|To Do|
 |522|[最长特殊序列 II](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii)|<span style="color: #ffb800;">中等</span>|数组、哈希表、双指针、字符串、排序|To Do|
@@ -2097,6 +2097,15 @@
 |2080|[区间内查询数字的频率](https://leetcode-cn.com/problems/range-frequency-queries)|<span style="color: #ffb800;">中等</span>|数组、二分查找|To Do|
 |2081|[k 镜像数字的和](https://leetcode-cn.com/problems/sum-of-k-mirror-numbers)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2082|害-未爬到中文名 🔒|<span style="color: #2db55d;">简单</span>|数据库|To Do|
+|2084|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5922|[统计出现过一次的公共字符串](https://leetcode-cn.com/problems/count-common-words-with-one-occurrence)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|5923|[从房屋收集雨水需要的最少水桶数](https://leetcode-cn.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5924|[网格图中机器人回家的最小代价](https://leetcode-cn.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5925|[统计农场中肥沃金字塔的数目](https://leetcode-cn.com/problems/count-fertile-pyramids-in-a-land)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|5938|[找出数组排序后的目标下标](https://leetcode-cn.com/problems/find-target-indices-after-sorting-array)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|5939|[半径为 k 的子数组平均值](https://leetcode-cn.com/problems/k-radius-subarray-averages)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5940|[从数组中移除最大值和最小值](https://leetcode-cn.com/problems/removing-minimum-and-maximum-from-array)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5941|[找出知晓秘密的所有专家](https://leetcode-cn.com/problems/find-all-people-with-secret)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |5951|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
