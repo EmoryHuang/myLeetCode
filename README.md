@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-825/2447-blue)
+![](https://img.shields.io/badge/Solved-827/2447-blue)
 ![](https://img.shields.io/badge/easy-347-brightgreen)
-![](https://img.shields.io/badge/medium-422-yellow)
-![](https://img.shields.io/badge/hard-56-red)
+![](https://img.shields.io/badge/medium-423-yellow)
+![](https://img.shields.io/badge/hard-57-red)
 
 
-🧡最近一次更新:  2021-11-28 18:52:22
+🧡最近一次更新:  2021-12-02 21:19:14
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -414,7 +414,7 @@
 |397|[整数替换](https://leetcode-cn.com/problems/integer-replacement)|<span style="color: #ffb800;">中等</span>|位运算、记忆化搜索、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/397.整数替换/397.整数替换.cpp)|
 |398|[随机数索引](https://leetcode-cn.com/problems/random-pick-index)|<span style="color: #ffb800;">中等</span>|水塘抽样、哈希表、数学、随机化|To Do|
 |399|[除法求值](https://leetcode-cn.com/problems/evaluate-division)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、并查集、图、数组、最短路|To Do|
-|400|[第 N 位数字](https://leetcode-cn.com/problems/nth-digit)|<span style="color: #ffb800;">中等</span>|数学、二分查找|To Do|
+|400|[第 N 位数字](https://leetcode-cn.com/problems/nth-digit)|<span style="color: #ffb800;">中等</span>|数学、二分查找|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/400.第N位数字/400.第N位数字.cpp)|
 |401|[二进制手表](https://leetcode-cn.com/problems/binary-watch)|<span style="color: #2db55d;">简单</span>|位运算、回溯|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/401.二进制手表/401.二进制手表.cpp)|
 |402|[移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits)|<span style="color: #ffb800;">中等</span>|栈、贪心、字符串、单调栈|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/402.移掉K位数字/402.移掉K位数字.py)|
 |403|[青蛙过河](https://leetcode-cn.com/problems/frog-jump)|<span style="color: #ef4743;">困难</span>|数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/403.青蛙过河/403.青蛙过河.cpp)|
@@ -2097,16 +2097,16 @@
 |2080|[区间内查询数字的频率](https://leetcode-cn.com/problems/range-frequency-queries)|<span style="color: #ffb800;">中等</span>|数组、二分查找|To Do|
 |2081|[k 镜像数字的和](https://leetcode-cn.com/problems/sum-of-k-mirror-numbers)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2082|害-未爬到中文名 🔒|<span style="color: #2db55d;">简单</span>|数据库|To Do|
+|2083|求以相同字母开头和结尾的子串总数 🔒|<span style="color: #ffb800;">中等</span>|哈希表、数学、字符串、计数、前缀和|To Do|
 |2084|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
-|5922|[统计出现过一次的公共字符串](https://leetcode-cn.com/problems/count-common-words-with-one-occurrence)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
-|5923|[从房屋收集雨水需要的最少水桶数](https://leetcode-cn.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
-|5924|[网格图中机器人回家的最小代价](https://leetcode-cn.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
-|5925|[统计农场中肥沃金字塔的数目](https://leetcode-cn.com/problems/count-fertile-pyramids-in-a-land)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
-|5938|[找出数组排序后的目标下标](https://leetcode-cn.com/problems/find-target-indices-after-sorting-array)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
-|5939|[半径为 k 的子数组平均值](https://leetcode-cn.com/problems/k-radius-subarray-averages)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
-|5940|[从数组中移除最大值和最小值](https://leetcode-cn.com/problems/removing-minimum-and-maximum-from-array)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
-|5941|[找出知晓秘密的所有专家](https://leetcode-cn.com/problems/find-all-people-with-secret)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
-|5951|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2085|[统计出现过一次的公共字符串](https://leetcode-cn.com/problems/count-common-words-with-one-occurrence)|<span style="color: #2db55d;">简单</span>|数组、哈希表、字符串、计数|To Do|
+|2086|[从房屋收集雨水需要的最少水桶数](https://leetcode-cn.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses)|<span style="color: #ffb800;">中等</span>|贪心、字符串、动态规划|To Do|
+|2087|[网格图中机器人回家的最小代价](https://leetcode-cn.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid)|<span style="color: #ffb800;">中等</span>|贪心、数组、矩阵|To Do|
+|2088|[统计农场中肥沃金字塔的数目](https://leetcode-cn.com/problems/count-fertile-pyramids-in-a-land)|<span style="color: #ef4743;">困难</span>|数组、动态规划、矩阵|To Do|
+|2089|[找出数组排序后的目标下标](https://leetcode-cn.com/problems/find-target-indices-after-sorting-array)|<span style="color: #2db55d;">简单</span>|数组、二分查找、排序|To Do|
+|2090|[半径为 k 的子数组平均值](https://leetcode-cn.com/problems/k-radius-subarray-averages)|<span style="color: #ffb800;">中等</span>|数组、滑动窗口|To Do|
+|2091|[从数组中移除最大值和最小值](https://leetcode-cn.com/problems/removing-minimum-and-maximum-from-array)|<span style="color: #ffb800;">中等</span>|贪心、数组|To Do|
+|2092|[找出知晓秘密的所有专家](https://leetcode-cn.com/problems/find-all-people-with-secret)|<span style="color: #ef4743;">困难</span>|深度优先搜索、广度优先搜索、并查集、图、排序|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
