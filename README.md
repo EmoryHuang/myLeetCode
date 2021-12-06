@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-827/2447-blue)
+![](https://img.shields.io/badge/Solved-827/2451-blue)
 ![](https://img.shields.io/badge/easy-347-brightgreen)
 ![](https://img.shields.io/badge/medium-423-yellow)
 ![](https://img.shields.io/badge/hard-57-red)
 
 
-🧡最近一次更新:  2021-12-02 21:21:32
+🧡最近一次更新:  2021-12-06 08:30:44
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -2107,6 +2107,10 @@
 |2090|[半径为 k 的子数组平均值](https://leetcode-cn.com/problems/k-radius-subarray-averages)|<span style="color: #ffb800;">中等</span>|数组、滑动窗口|To Do|
 |2091|[从数组中移除最大值和最小值](https://leetcode-cn.com/problems/removing-minimum-and-maximum-from-array)|<span style="color: #ffb800;">中等</span>|贪心、数组|To Do|
 |2092|[找出知晓秘密的所有专家](https://leetcode-cn.com/problems/find-all-people-with-secret)|<span style="color: #ef4743;">困难</span>|深度优先搜索、广度优先搜索、并查集、图、排序|To Do|
+|5932|[合法重新排列数对](https://leetcode-cn.com/problems/valid-arrangement-of-pairs)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|5942|[找出 3 位偶数](https://leetcode-cn.com/problems/finding-3-digit-even-numbers)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|5943|[删除链表的中间节点](https://leetcode-cn.com/problems/delete-the-middle-node-of-a-linked-list)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5944|[从二叉树一个节点到另一个节点每一步的方向](https://leetcode-cn.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
