@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-829/2449-blue)
-![](https://img.shields.io/badge/easy-347-brightgreen)
-![](https://img.shields.io/badge/medium-424-yellow)
-![](https://img.shields.io/badge/hard-58-red)
+![](https://img.shields.io/badge/Solved-832/2458-blue)
+![](https://img.shields.io/badge/easy-348-brightgreen)
+![](https://img.shields.io/badge/medium-425-yellow)
+![](https://img.shields.io/badge/hard-59-red)
 
 
-🧡最近一次更新:  2021-12-08 20:09:59
+🧡最近一次更新:  2021-12-14 14:27:00
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -644,7 +644,7 @@
 |627|[变更性别](https://leetcode-cn.com/problems/swap-salary)|<span style="color: #2db55d;">简单</span>|数据库|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/627.变更性别/627.变更性别.sql)|
 |628|[三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers)|<span style="color: #2db55d;">简单</span>|数组、数学、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/628.三个数的最大乘积/628.三个数的最大乘积.cpp)|
 |629|[K个逆序对数组](https://leetcode-cn.com/problems/k-inverse-pairs-array)|<span style="color: #ef4743;">困难</span>|动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/629.K个逆序对数组/629.K个逆序对数组.cpp)|
-|630|[课程表 III](https://leetcode-cn.com/problems/course-schedule-iii)|<span style="color: #ef4743;">困难</span>|贪心、数组、堆（优先队列）|To Do|
+|630|[课程表 III](https://leetcode-cn.com/problems/course-schedule-iii)|<span style="color: #ef4743;">困难</span>|贪心、数组、堆（优先队列）|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/630.课程表III/630.课程表III.py)|
 |631|设计 Excel 求和公式 🔒|<span style="color: #ef4743;">困难</span>|图、设计、拓扑排序|To Do|
 |632|[最小区间](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists)|<span style="color: #ef4743;">困难</span>|贪心、数组、哈希表、排序、滑动窗口、堆（优先队列）|To Do|
 |633|[平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers)|<span style="color: #ffb800;">中等</span>|数学、双指针、二分查找|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/633.平方数之和/633.平方数之和.cpp)|
@@ -2109,6 +2109,15 @@
 |2095|[删除链表的中间节点](https://leetcode-cn.com/problems/delete-the-middle-node-of-a-linked-list)|<span style="color: #ffb800;">中等</span>|链表、双指针|To Do|
 |2096|[从二叉树一个节点到另一个节点每一步的方向](https://leetcode-cn.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、字符串、二叉树|To Do|
 |2097|[合法重新排列数对](https://leetcode-cn.com/problems/valid-arrangement-of-pairs)|<span style="color: #ef4743;">困难</span>|深度优先搜索、图、欧拉回路|To Do|
+|2098|[害-未爬到中文名](https://leetcode-cn.com/problems/subsequence-of-size-k-with-the-largest-even-sum)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2099|[找到和最大的长度为 K 的子序列](https://leetcode-cn.com/problems/find-subsequence-of-length-k-with-the-largest-sum)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2100|[适合打劫银行的日子](https://leetcode-cn.com/problems/find-good-days-to-rob-the-bank)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2101|[引爆最多的炸弹](https://leetcode-cn.com/problems/detonate-the-maximum-bombs)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2102|[序列顺序查询](https://leetcode-cn.com/problems/sequentially-ordinal-rank-tracker)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|2103|[环和杆](https://leetcode-cn.com/problems/rings-and-rods)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2104|[子数组范围和](https://leetcode-cn.com/problems/sum-of-subarray-ranges)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2105|[给植物浇水 II](https://leetcode-cn.com/problems/watering-plants-ii)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2106|[摘水果](https://leetcode-cn.com/problems/maximum-fruits-harvested-after-at-most-k-steps)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
