@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-834/2462-blue)
-![](https://img.shields.io/badge/easy-347-brightgreen)
-![](https://img.shields.io/badge/medium-427-yellow)
-![](https://img.shields.io/badge/hard-60-red)
+![](https://img.shields.io/badge/Solved-837/2468-blue)
+![](https://img.shields.io/badge/easy-348-brightgreen)
+![](https://img.shields.io/badge/medium-428-yellow)
+![](https://img.shields.io/badge/hard-61-red)
 
 
-🧡最近一次更新:  2021-12-18 08:54:57
+🧡最近一次更新:  2021-12-23 17:01:54
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -700,7 +700,7 @@
 |683|K 个关闭的灯泡 🔒|<span style="color: #ef4743;">困难</span>|树状数组、数组、有序集合、滑动窗口|To Do|
 |684|[冗余连接](https://leetcode-cn.com/problems/redundant-connection)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、并查集、图|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/684.冗余连接/684.冗余连接.cpp)|
 |685|[冗余连接 II](https://leetcode-cn.com/problems/redundant-connection-ii)|<span style="color: #ef4743;">困难</span>|深度优先搜索、广度优先搜索、并查集、图|To Do|
-|686|[重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match)|<span style="color: #ffb800;">中等</span>|字符串、字符串匹配|To Do|
+|686|[重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match)|<span style="color: #ffb800;">中等</span>|字符串、字符串匹配|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/686.重复叠加字符串匹配/686.重复叠加字符串匹配.cpp)|
 |687|[最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、二叉树|To Do|
 |688|[“马”在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard)|<span style="color: #ffb800;">中等</span>|动态规划|To Do|
 |689|[三个无重叠子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays)|<span style="color: #ef4743;">困难</span>|数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/689.三个无重叠子数组的最大和/689.三个无重叠子数组的最大和.cpp)|
@@ -1168,7 +1168,7 @@
 |1151|最少交换次数来组合所有的 1 🔒|<span style="color: #ffb800;">中等</span>|数组、滑动窗口|To Do|
 |1152|用户网站访问行为分析 🔒|<span style="color: #ffb800;">中等</span>|数组、哈希表、排序|To Do|
 |1153|字符串转化 🔒|<span style="color: #ef4743;">困难</span>|哈希表、字符串|To Do|
-|1154|[一年中的第几天](https://leetcode-cn.com/problems/day-of-the-year)|<span style="color: #2db55d;">简单</span>|数学、字符串|To Do|
+|1154|[一年中的第几天](https://leetcode-cn.com/problems/day-of-the-year)|<span style="color: #2db55d;">简单</span>|数学、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1154.一年中的第几天/1154.一年中的第几天.py)|
 |1155|[掷骰子的N种方法](https://leetcode-cn.com/problems/number-of-dice-rolls-with-target-sum)|<span style="color: #ffb800;">中等</span>|动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1155.掷骰子的N种方法/1155.掷骰子的N种方法.cpp)|
 |1156|[单字符重复子串的最大长度](https://leetcode-cn.com/problems/swap-for-longest-repeated-character-substring)|<span style="color: #ffb800;">中等</span>|字符串、滑动窗口|To Do|
 |1157|[子数组中占绝大多数的元素](https://leetcode-cn.com/problems/online-majority-element-in-subarray)|<span style="color: #ef4743;">困难</span>|设计、树状数组、线段树、数组、二分查找|To Do|
@@ -2122,6 +2122,12 @@
 |2105|[给植物浇水 II](https://leetcode-cn.com/problems/watering-plants-ii)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2106|[摘水果](https://leetcode-cn.com/problems/maximum-fruits-harvested-after-at-most-k-steps)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2107|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2108|[找出数组中的第一个回文字符串](https://leetcode-cn.com/problems/find-first-palindromic-string-in-the-array)|<span style="color: #2db55d;">简单</span>|数组、双指针、字符串|To Do|
+|2109|[向字符串添加空格](https://leetcode-cn.com/problems/adding-spaces-to-a-string)|<span style="color: #ffb800;">中等</span>|数组、字符串、模拟|To Do|
+|2110|[股票平滑下跌阶段的数目](https://leetcode-cn.com/problems/number-of-smooth-descent-periods-of-a-stock)|<span style="color: #ffb800;">中等</span>|数组、数学、动态规划|To Do|
+|2111|[使数组 K 递增的最少操作次数](https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-k-increasing)|<span style="color: #ef4743;">困难</span>|数组、二分查找|To Do|
+|2112|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
+|2113|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
