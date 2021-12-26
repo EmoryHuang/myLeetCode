@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-838/2468-blue)
-![](https://img.shields.io/badge/easy-348-brightgreen)
+![](https://img.shields.io/badge/Solved-839/2477-blue)
+![](https://img.shields.io/badge/easy-349-brightgreen)
 ![](https://img.shields.io/badge/medium-429-yellow)
 ![](https://img.shields.io/badge/hard-61-red)
 
 
-🧡最近一次更新:  2021-12-24 14:06:15
+🧡最近一次更新:  2021-12-26 19:07:32
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -1092,7 +1092,7 @@
 |1075|项目员工 I 🔒|<span style="color: #2db55d;">简单</span>|数据库|To Do|
 |1076|项目员工II 🔒|<span style="color: #2db55d;">简单</span>|数据库|To Do|
 |1077|项目员工 III 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
-|1078|[Bigram 分词](https://leetcode-cn.com/problems/occurrences-after-bigram)|<span style="color: #2db55d;">简单</span>|字符串|To Do|
+|1078|[Bigram 分词](https://leetcode-cn.com/problems/occurrences-after-bigram)|<span style="color: #2db55d;">简单</span>|字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1078.Bigram分词/1078.Bigram分词.py)|
 |1079|[活字印刷](https://leetcode-cn.com/problems/letter-tile-possibilities)|<span style="color: #ffb800;">中等</span>|字符串、回溯|To Do|
 |1080|[根到叶路径上的不足节点](https://leetcode-cn.com/problems/insufficient-nodes-in-root-to-leaf-paths)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、二叉树|To Do|
 |1081|[不同字符的最小子序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters)|<span style="color: #ffb800;">中等</span>|栈、贪心、字符串、单调栈|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1081.不同字符的最小子序列/1081.不同字符的最小子序列.cpp)|
@@ -2128,6 +2128,15 @@
 |2111|[使数组 K 递增的最少操作次数](https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-k-increasing)|<span style="color: #ef4743;">困难</span>|数组、二分查找|To Do|
 |2112|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
 |2113|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2118|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|5946|[句子中的最多单词数](https://leetcode-cn.com/problems/maximum-number-of-words-found-in-sentences)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|5947|[从给定原材料中找到所有可以做出的菜](https://leetcode-cn.com/problems/find-all-possible-recipes-from-given-supplies)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5948|[判断一个括号字符串是否有效](https://leetcode-cn.com/problems/check-if-a-parentheses-string-can-be-valid)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5949|[一个区间内所有数乘积的缩写](https://leetcode-cn.com/problems/abbreviating-the-product-of-a-range)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|5963|[反转两次的数字](https://leetcode-cn.com/problems/a-number-after-a-double-reversal)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|5964|[执行所有后缀指令](https://leetcode-cn.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5965|[相同元素的间隔之和](https://leetcode-cn.com/problems/intervals-between-identical-elements)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|5966|[还原原数组](https://leetcode-cn.com/problems/recover-the-original-array)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
