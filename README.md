@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-847/2483-blue)
-![](https://img.shields.io/badge/easy-353-brightgreen)
-![](https://img.shields.io/badge/medium-431-yellow)
-![](https://img.shields.io/badge/hard-63-red)
+![](https://img.shields.io/badge/Solved-851/2492-blue)
+![](https://img.shields.io/badge/easy-354-brightgreen)
+![](https://img.shields.io/badge/medium-433-yellow)
+![](https://img.shields.io/badge/hard-64-red)
 
 
-🧡最近一次更新:  2022-01-06 18:40:24
+🧡最近一次更新:  2022-01-15 21:25:22
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -387,7 +387,7 @@
 |370|区间加法 🔒|<span style="color: #ffb800;">中等</span>|数组、前缀和|To Do|
 |371|[两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers)|<span style="color: #ffb800;">中等</span>|位运算、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/371.两整数之和/371.两整数之和.cpp)|
 |372|[超级次方](https://leetcode-cn.com/problems/super-pow)|<span style="color: #ffb800;">中等</span>|数学、分治|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/372.超级次方/372.超级次方.cpp)|
-|373|[查找和最小的K对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums)|<span style="color: #ffb800;">中等</span>|数组、堆（优先队列）|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/373.查找和最小的K对数字/373.查找和最小的K对数字.cpp)|
+|373|[查找和最小的 K 对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums)|<span style="color: #ffb800;">中等</span>|数组、堆（优先队列）|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/373.查找和最小的K对数字/373.查找和最小的K对数字.cpp)|
 |374|[猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower)|<span style="color: #2db55d;">简单</span>|二分查找、交互|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/374.猜数字大小/374.猜数字大小.cpp)|
 |375|[猜数字大小 II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii)|<span style="color: #ffb800;">中等</span>|数学、动态规划、博弈|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/375.猜数字大小II/375.猜数字大小II.cpp)|
 |376|[摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence)|<span style="color: #ffb800;">中等</span>|贪心、数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/376.摆动序列/376.摆动序列.cpp)|
@@ -2143,6 +2143,15 @@
 |2126|[摧毁小行星](https://leetcode-cn.com/problems/destroying-asteroids)|<span style="color: #ffb800;">中等</span>|贪心、数组、排序|To Do|
 |2127|[参加会议的最多员工数](https://leetcode-cn.com/problems/maximum-employees-to-be-invited-to-a-meeting)|<span style="color: #ef4743;">困难</span>|深度优先搜索、图、拓扑排序|To Do|
 |2128|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2129|[将标题首字母大写](https://leetcode-cn.com/problems/capitalize-the-title)|<span style="color: #2db55d;">简单</span>|字符串|To Do|
+|2130|[链表最大孪生和](https://leetcode-cn.com/problems/maximum-twin-sum-of-a-linked-list)|<span style="color: #ffb800;">中等</span>|栈、链表、双指针|To Do|
+|2131|[连接两字母单词得到的最长回文串](https://leetcode-cn.com/problems/longest-palindrome-by-concatenating-two-letter-words)|<span style="color: #ffb800;">中等</span>|贪心、数组、哈希表、字符串、计数|To Do|
+|2132|[用邮票贴满网格图](https://leetcode-cn.com/problems/stamping-the-grid)|<span style="color: #ef4743;">困难</span>|贪心、数组、矩阵、前缀和|To Do|
+|2133|[检查是否每一行每一列都包含全部整数](https://leetcode-cn.com/problems/check-if-every-row-and-column-contains-all-numbers)|<span style="color: #2db55d;">简单</span>|数组、哈希表、矩阵|To Do|
+|2134|[最少交换次数来组合所有的 1 II](https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together-ii)|<span style="color: #ffb800;">中等</span>|数组、滑动窗口|To Do|
+|2135|[统计追加字母可以获得的单词数](https://leetcode-cn.com/problems/count-words-obtained-after-adding-a-letter)|<span style="color: #ffb800;">中等</span>|位运算、数组、哈希表、字符串、排序|To Do|
+|2136|[全部开花的最早一天](https://leetcode-cn.com/problems/earliest-possible-day-of-full-bloom)|<span style="color: #ef4743;">困难</span>|贪心、数组、排序|To Do|
+|2137|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
