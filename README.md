@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-860/2512-blue)
-![](https://img.shields.io/badge/easy-356-brightgreen)
+![](https://img.shields.io/badge/Solved-863/2513-blue)
+![](https://img.shields.io/badge/easy-359-brightgreen)
 ![](https://img.shields.io/badge/medium-437-yellow)
 ![](https://img.shields.io/badge/hard-67-red)
 
 
-🧡最近一次更新:  2022-01-31 09:39:33
+🧡最近一次更新:  2022-02-04 11:39:14
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -1739,7 +1739,7 @@
 |1722|[执行交换操作后的最小汉明距离](https://leetcode-cn.com/problems/minimize-hamming-distance-after-swap-operations)|<span style="color: #ffb800;">中等</span>|深度优先搜索、并查集、数组|To Do|
 |1723|[完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs)|<span style="color: #ef4743;">困难</span>|位运算、数组、动态规划、回溯、状态压缩|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1723.完成所有工作的最短时间/1723.完成所有工作的最短时间.cpp)|
 |1724|检查边长度限制的路径是否存在 II 🔒|<span style="color: #ef4743;">困难</span>|并查集、图、最小生成树|To Do|
-|1725|[可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square)|<span style="color: #2db55d;">简单</span>|数组|To Do|
+|1725|[可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1725.可以形成最大正方形的矩形数目/1725.可以形成最大正方形的矩形数目.cpp)|
 |1726|[同积元组](https://leetcode-cn.com/problems/tuple-with-same-product)|<span style="color: #ffb800;">中等</span>|数组、哈希表|To Do|
 |1727|[重新排列后的最大子矩阵](https://leetcode-cn.com/problems/largest-submatrix-with-rearrangements)|<span style="color: #ffb800;">中等</span>|贪心、数组、矩阵、排序|To Do|
 |1728|[猫和老鼠 II](https://leetcode-cn.com/problems/cat-and-mouse-ii)|<span style="color: #ef4743;">困难</span>|广度优先搜索、图、记忆化搜索、数学、动态规划、博弈|To Do|
@@ -1777,7 +1777,7 @@
 |1760|[袋子里最少数目的球](https://leetcode-cn.com/problems/minimum-limit-of-balls-in-a-bag)|<span style="color: #ffb800;">中等</span>|数组、二分查找|To Do|
 |1761|[一个图中连通三元组的最小度数](https://leetcode-cn.com/problems/minimum-degree-of-a-connected-trio-in-a-graph)|<span style="color: #ef4743;">困难</span>|图|To Do|
 |1762|能看到海景的建筑物 🔒|<span style="color: #ffb800;">中等</span>|栈、数组、单调栈|To Do|
-|1763|[最长的美好子字符串](https://leetcode-cn.com/problems/longest-nice-substring)|<span style="color: #2db55d;">简单</span>|位运算、哈希表、字符串、滑动窗口|To Do|
+|1763|[最长的美好子字符串](https://leetcode-cn.com/problems/longest-nice-substring)|<span style="color: #2db55d;">简单</span>|位运算、哈希表、字符串、滑动窗口|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1763.最长的美好子字符串/1763.最长的美好子字符串.py)|
 |1764|[通过连接另一个数组的子数组得到一个数组](https://leetcode-cn.com/problems/form-array-by-concatenating-subarrays-of-another-array)|<span style="color: #ffb800;">中等</span>|贪心、数组、字符串匹配|To Do|
 |1765|[地图中的最高点](https://leetcode-cn.com/problems/map-of-highest-peak)|<span style="color: #ffb800;">中等</span>|广度优先搜索、数组、矩阵|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1765.地图中的最高点/1765.地图中的最高点.cpp)|
 |1766|[互质树](https://leetcode-cn.com/problems/tree-of-coprimes)|<span style="color: #ef4743;">困难</span>|树、深度优先搜索、广度优先搜索、数学|To Do|
@@ -2014,7 +2014,7 @@
 |1997|[访问完所有房间的第一天](https://leetcode-cn.com/problems/first-day-where-you-have-been-in-all-the-rooms)|<span style="color: #ffb800;">中等</span>|数组、动态规划|To Do|
 |1998|[数组的最大公因数排序](https://leetcode-cn.com/problems/gcd-sort-of-an-array)|<span style="color: #ef4743;">困难</span>|并查集、数组、数学、排序|To Do|
 |1999|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
-|2000|[反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2000|[反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word)|<span style="color: #2db55d;">简单</span>|双指针、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/2000.反转单词前缀/2000.反转单词前缀.py)|
 |2001|[可互换矩形的组数](https://leetcode-cn.com/problems/number-of-pairs-of-interchangeable-rectangles)|<span style="color: #ffb800;">中等</span>|数组、哈希表、数学、计数、数论|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/2001.可互换矩形的组数/2001.可互换矩形的组数.cpp)|
 |2002|[两个回文子序列长度的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2003|[每棵子树内缺失的最小基因值](https://leetcode-cn.com/problems/smallest-missing-genetic-value-in-each-subtree)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
@@ -2168,10 +2168,11 @@
 |2151|[基于陈述统计最多好人数](https://leetcode-cn.com/problems/maximum-good-people-based-on-statements)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2152|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2153|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
-|5981|[分组得分最高的所有下标](https://leetcode-cn.com/problems/all-divisions-with-the-highest-score-of-a-binary-array)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
-|5993|[将找到的值乘以 2](https://leetcode-cn.com/problems/keep-multiplying-found-values-by-two)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
-|5994|[查找给定哈希值的子串](https://leetcode-cn.com/problems/find-substring-with-given-hash-value)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
-|5995|[字符串分组](https://leetcode-cn.com/problems/groups-of-strings)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|2154|[将找到的值乘以 2](https://leetcode-cn.com/problems/keep-multiplying-found-values-by-two)|<span style="color: #2db55d;">简单</span>|数组、哈希表、排序、模拟|To Do|
+|2155|[分组得分最高的所有下标](https://leetcode-cn.com/problems/all-divisions-with-the-highest-score-of-a-binary-array)|<span style="color: #ffb800;">中等</span>|数组|To Do|
+|2156|[查找给定哈希值的子串](https://leetcode-cn.com/problems/find-substring-with-given-hash-value)|<span style="color: #ffb800;">中等</span>|字符串、滑动窗口、哈希函数、滚动哈希|To Do|
+|2157|[字符串分组](https://leetcode-cn.com/problems/groups-of-strings)|<span style="color: #ef4743;">困难</span>|位运算、并查集、字符串|To Do|
+|2158|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
