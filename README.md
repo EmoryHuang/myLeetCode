@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-865/2522-blue)
-![](https://img.shields.io/badge/easy-358-brightgreen)
-![](https://img.shields.io/badge/medium-439-yellow)
-![](https://img.shields.io/badge/hard-68-red)
+![](https://img.shields.io/badge/Solved-870/2529-blue)
+![](https://img.shields.io/badge/easy-359-brightgreen)
+![](https://img.shields.io/badge/medium-442-yellow)
+![](https://img.shields.io/badge/hard-69-red)
 
 
-🧡最近一次更新:  2022-02-08 11:36:46
+🧡最近一次更新:  2022-02-17 21:26:48
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -1733,7 +1733,7 @@
 |1716|[计算力扣银行的钱](https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank)|<span style="color: #2db55d;">简单</span>|数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1716.计算力扣银行的钱/1716.计算力扣银行的钱.cpp)|
 |1717|[删除子字符串的最大得分](https://leetcode-cn.com/problems/maximum-score-from-removing-substrings)|<span style="color: #ffb800;">中等</span>|栈、贪心、字符串|To Do|
 |1718|[构建字典序最大的可行序列](https://leetcode-cn.com/problems/construct-the-lexicographically-largest-valid-sequence)|<span style="color: #ffb800;">中等</span>|数组、回溯|To Do|
-|1719|[重构一棵树的方案数](https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree)|<span style="color: #ef4743;">困难</span>|树、图、拓扑排序|To Do|
+|1719|[重构一棵树的方案数](https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree)|<span style="color: #ef4743;">困难</span>|树、图、拓扑排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1719.重构一棵树的方案数/1719.重构一棵树的方案数.cpp)|
 |1720|[解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array)|<span style="color: #2db55d;">简单</span>|位运算、数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1720.解码异或后的数组/1720.解码异或后的数组.cpp)|
 |1721|[交换链表中的节点](https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list)|<span style="color: #ffb800;">中等</span>|链表、双指针|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1721.交换链表中的节点/1721.交换链表中的节点.cpp)|
 |1722|[执行交换操作后的最小汉明距离](https://leetcode-cn.com/problems/minimize-hamming-distance-after-swap-operations)|<span style="color: #ffb800;">中等</span>|深度优先搜索、并查集、数组|To Do|
@@ -2182,6 +2182,13 @@
 |2165|[重排数字的最小值](https://leetcode-cn.com/problems/smallest-value-of-the-rearranged-number)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2166|[设计位集](https://leetcode-cn.com/problems/design-bitset)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2167|[移除所有载有违禁货物车厢所需的最少时间](https://leetcode-cn.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|2168|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|哈希表、字符串、计数、哈希函数、滚动哈希|To Do|
+|2169|[得到 0 的操作数](https://leetcode-cn.com/problems/count-operations-to-obtain-zero)|<span style="color: #2db55d;">简单</span>|数学、模拟|To Do|
+|2170|[使数组变成交替数组的最少操作数](https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-alternating)|<span style="color: #ffb800;">中等</span>|贪心、数组、哈希表、计数|To Do|
+|2171|[拿出最少数目的魔法豆](https://leetcode-cn.com/problems/removing-minimum-number-of-magic-beans)|<span style="color: #ffb800;">中等</span>|数组、前缀和、排序|To Do|
+|2172|[数组的最大与和](https://leetcode-cn.com/problems/maximum-and-sum-of-array)|<span style="color: #ef4743;">困难</span>|位运算、数组、动态规划、状态压缩|To Do|
+|2173|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|数据库|To Do|
+|6025|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
