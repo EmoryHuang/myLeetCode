@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-870/2529-blue)
+![](https://img.shields.io/badge/Solved-871/2530-blue)
 ![](https://img.shields.io/badge/easy-359-brightgreen)
-![](https://img.shields.io/badge/medium-442-yellow)
+![](https://img.shields.io/badge/medium-443-yellow)
 ![](https://img.shields.io/badge/hard-69-red)
 
 
-🧡最近一次更新:  2022-02-17 21:26:48
+🧡最近一次更新:  2022-02-19 09:39:58
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -983,7 +983,7 @@
 |966|[元音拼写检查器](https://leetcode-cn.com/problems/vowel-spellchecker)|<span style="color: #ffb800;">中等</span>|数组、哈希表、字符串|To Do|
 |967|[连续差相同的数字](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences)|<span style="color: #ffb800;">中等</span>|广度优先搜索、回溯|To Do|
 |968|[监控二叉树](https://leetcode-cn.com/problems/binary-tree-cameras)|<span style="color: #ef4743;">困难</span>|树、深度优先搜索、动态规划、二叉树|To Do|
-|969|[煎饼排序](https://leetcode-cn.com/problems/pancake-sorting)|<span style="color: #ffb800;">中等</span>|贪心、数组、双指针、排序|To Do|
+|969|[煎饼排序](https://leetcode-cn.com/problems/pancake-sorting)|<span style="color: #ffb800;">中等</span>|贪心、数组、双指针、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/969.煎饼排序/969.煎饼排序.cpp)|
 |970|[强整数](https://leetcode-cn.com/problems/powerful-integers)|<span style="color: #ffb800;">中等</span>|哈希表、数学|To Do|
 |971|[翻转二叉树以匹配先序遍历](https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、二叉树|To Do|
 |972|[相等的有理数](https://leetcode-cn.com/problems/equal-rational-numbers)|<span style="color: #ef4743;">困难</span>|数学、字符串|To Do|
@@ -2188,6 +2188,7 @@
 |2171|[拿出最少数目的魔法豆](https://leetcode-cn.com/problems/removing-minimum-number-of-magic-beans)|<span style="color: #ffb800;">中等</span>|数组、前缀和、排序|To Do|
 |2172|[数组的最大与和](https://leetcode-cn.com/problems/maximum-and-sum-of-array)|<span style="color: #ef4743;">困难</span>|位运算、数组、动态规划、状态压缩|To Do|
 |2173|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|数据库|To Do|
+|2175|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |6025|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
