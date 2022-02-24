@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-873/2538-blue)
+![](https://img.shields.io/badge/Solved-875/2539-blue)
 ![](https://img.shields.io/badge/easy-360-brightgreen)
-![](https://img.shields.io/badge/medium-444-yellow)
-![](https://img.shields.io/badge/hard-69-red)
+![](https://img.shields.io/badge/medium-445-yellow)
+![](https://img.shields.io/badge/hard-70-red)
 
 
-🧡最近一次更新:  2022-02-21 14:39:00
+🧡最近一次更新:  2022-02-24 21:26:15
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -1720,7 +1720,7 @@
 |1703|[得到连续 K 个 1 的最少相邻交换次数](https://leetcode-cn.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones)|<span style="color: #ef4743;">困难</span>|贪心、数组、前缀和、滑动窗口|To Do|
 |1704|[判断字符串的两半是否相似](https://leetcode-cn.com/problems/determine-if-string-halves-are-alike)|<span style="color: #2db55d;">简单</span>|字符串、计数|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1704.判断字符串的两半是否相似/1704.判断字符串的两半是否相似.cpp)|
 |1705|[吃苹果的最大数目](https://leetcode-cn.com/problems/maximum-number-of-eaten-apples)|<span style="color: #ffb800;">中等</span>|贪心、数组、堆（优先队列）|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1705.吃苹果的最大数目/1705.吃苹果的最大数目.cpp)|
-|1706|[球会落何处](https://leetcode-cn.com/problems/where-will-the-ball-fall)|<span style="color: #ffb800;">中等</span>|深度优先搜索、数组、动态规划、矩阵、模拟|To Do|
+|1706|[球会落何处](https://leetcode-cn.com/problems/where-will-the-ball-fall)|<span style="color: #ffb800;">中等</span>|深度优先搜索、数组、动态规划、矩阵、模拟|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1706.球会落何处/1706.球会落何处.cpp)|
 |1707|[与数组中元素的最大异或值](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array)|<span style="color: #ef4743;">困难</span>|位运算、字典树、数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1707.与数组中元素的最大异或值/1707.与数组中元素的最大异或值.cpp)|
 |1708|长度为 K 的最大子数组 🔒|<span style="color: #2db55d;">简单</span>|贪心、数组|To Do|
 |1709|访问日期之间最大的空档期 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
@@ -2008,7 +2008,7 @@
 |1991|[找到数组的中间位置](https://leetcode-cn.com/problems/find-the-middle-index-in-array)|<span style="color: #2db55d;">简单</span>|数组、前缀和|To Do|
 |1992|[找到所有的农场组](https://leetcode-cn.com/problems/find-all-groups-of-farmland)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、数组、矩阵|To Do|
 |1993|[树上的操作](https://leetcode-cn.com/problems/operations-on-tree)|<span style="color: #ffb800;">中等</span>|树、广度优先搜索、设计、哈希表|To Do|
-|1994|[好子集的数目](https://leetcode-cn.com/problems/the-number-of-good-subsets)|<span style="color: #ef4743;">困难</span>|位运算、数组、数学、动态规划、状态压缩|To Do|
+|1994|[好子集的数目](https://leetcode-cn.com/problems/the-number-of-good-subsets)|<span style="color: #ef4743;">困难</span>|位运算、数组、数学、动态规划、状态压缩|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1994.好子集的数目/1994.好子集的数目.py)|
 |1995|[统计特殊四元组](https://leetcode-cn.com/problems/count-special-quadruplets)|<span style="color: #2db55d;">简单</span>|数组、枚举|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1995.统计特殊四元组/1995.统计特殊四元组.cpp)|
 |1996|[游戏中弱角色的数量](https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game)|<span style="color: #ffb800;">中等</span>|栈、贪心、数组、排序、单调栈|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1996.游戏中弱角色的数量/1996.游戏中弱角色的数量.cpp)|
 |1997|[访问完所有房间的第一天](https://leetcode-cn.com/problems/first-day-where-you-have-been-in-all-the-rooms)|<span style="color: #ffb800;">中等</span>|数组、动态规划|To Do|
@@ -2188,6 +2188,7 @@
 |2171|[拿出最少数目的魔法豆](https://leetcode-cn.com/problems/removing-minimum-number-of-magic-beans)|<span style="color: #ffb800;">中等</span>|数组、前缀和、排序|To Do|
 |2172|[数组的最大与和](https://leetcode-cn.com/problems/maximum-and-sum-of-array)|<span style="color: #ef4743;">困难</span>|位运算、数组、动态规划、状态压缩|To Do|
 |2173|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|数据库|To Do|
+|2174|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|位运算、广度优先搜索、数组、矩阵|To Do|
 |2175|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2176|[统计数组中相等且可以被整除的数对](https://leetcode-cn.com/problems/count-equal-and-divisible-pairs-in-an-array)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
 |2177|[找到和为给定整数的三个连续整数](https://leetcode-cn.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
@@ -2197,7 +2198,7 @@
 |2181|[合并零之间的节点](https://leetcode-cn.com/problems/merge-nodes-in-between-zeros)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2182|[构造限制重复的字符串](https://leetcode-cn.com/problems/construct-string-with-repeat-limit)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2183|[统计可以被 K 整除的下标对数目](https://leetcode-cn.com/problems/count-array-pairs-divisible-by-k)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
-|6025|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2184|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
