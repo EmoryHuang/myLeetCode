@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-895/2569-blue)
-![](https://img.shields.io/badge/easy-364-brightgreen)
-![](https://img.shields.io/badge/medium-456-yellow)
-![](https://img.shields.io/badge/hard-75-red)
+![](https://img.shields.io/badge/Solved-904/2585-blue)
+![](https://img.shields.io/badge/easy-365-brightgreen)
+![](https://img.shields.io/badge/medium-461-yellow)
+![](https://img.shields.io/badge/hard-78-red)
 
 
-🧡最近一次更新:  2022-03-26 19:18:58
+🧡最近一次更新:  2022-04-09 20:45:17
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -794,7 +794,7 @@
 |777|[在LR字符串中交换相邻字符](https://leetcode-cn.com/problems/swap-adjacent-in-lr-string)|<span style="color: #ffb800;">中等</span>|双指针、字符串|To Do|
 |778|[水位上升的泳池中游泳](https://leetcode-cn.com/problems/swim-in-rising-water)|<span style="color: #ef4743;">困难</span>|深度优先搜索、广度优先搜索、并查集、数组、二分查找、矩阵、堆（优先队列）|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/778.水位上升的泳池中游泳/778.水位上升的泳池中游泳.cpp)|
 |779|[第K个语法符号](https://leetcode-cn.com/problems/k-th-symbol-in-grammar)|<span style="color: #ffb800;">中等</span>|位运算、递归、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/779.第K个语法符号/779.第K个语法符号.cpp)|
-|780|[到达终点](https://leetcode-cn.com/problems/reaching-points)|<span style="color: #ef4743;">困难</span>|数学|To Do|
+|780|[到达终点](https://leetcode-cn.com/problems/reaching-points)|<span style="color: #ef4743;">困难</span>|数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/780.到达终点/780.到达终点.cpp)|
 |781|[森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest)|<span style="color: #ffb800;">中等</span>|贪心、哈希表、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/781.森林中的兔子/781.森林中的兔子.cpp)|
 |782|[变为棋盘](https://leetcode-cn.com/problems/transform-to-chessboard)|<span style="color: #ef4743;">困难</span>|位运算、数组、数学、矩阵|To Do|
 |783|[二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes)|<span style="color: #2db55d;">简单</span>|树、深度优先搜索、广度优先搜索、二叉搜索树、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/783.二叉搜索树节点最小距离/783.二叉搜索树节点最小距离.cpp)|
@@ -2229,6 +2229,22 @@
 |2212|[射箭比赛中的最大得分](https://leetcode-cn.com/problems/maximum-points-in-an-archery-competition)|<span style="color: #ffb800;">中等</span>|位运算、递归、数组、枚举|To Do|
 |2213|[由单个字符重复的最长子字符串](https://leetcode-cn.com/problems/longest-substring-of-one-repeating-character)|<span style="color: #ef4743;">困难</span>|线段树、数组、字符串、有序集合|To Do|
 |2214|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2215|[找出两数组的不同](https://leetcode-cn.com/problems/find-the-difference-of-two-arrays)|<span style="color: #2db55d;">简单</span>|数组、哈希表|To Do|
+|2216|[美化数组的最少删除数](https://leetcode-cn.com/problems/minimum-deletions-to-make-array-beautiful)|<span style="color: #ffb800;">中等</span>|栈、贪心、数组|To Do|
+|2217|[找到指定长度的回文数](https://leetcode-cn.com/problems/find-palindrome-with-fixed-length)|<span style="color: #ffb800;">中等</span>|数组、数学|To Do|
+|2218|[从栈中取出 K 个硬币的最大面值和](https://leetcode-cn.com/problems/maximum-value-of-k-coins-from-piles)|<span style="color: #ef4743;">困难</span>|数组、动态规划、前缀和|To Do|
+|2219|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|数组、前缀和|To Do|
+|2220|[转换数字的最少位翻转次数](https://leetcode-cn.com/problems/minimum-bit-flips-to-convert-number)|<span style="color: #2db55d;">简单</span>|位运算|To Do|
+|2221|[数组的三角和](https://leetcode-cn.com/problems/find-triangular-sum-of-an-array)|<span style="color: #ffb800;">中等</span>|数组、数学、组合数学、模拟|To Do|
+|2223|[构造字符串的总得分和](https://leetcode-cn.com/problems/sum-of-scores-of-built-strings)|<span style="color: #ef4743;">困难</span>|字符串、二分查找、字符串匹配、后缀数组、哈希函数、滚动哈希|To Do|
+|2224|[转化时间需要的最少操作数](https://leetcode-cn.com/problems/minimum-number-of-operations-to-convert-time)|<span style="color: #2db55d;">简单</span>|贪心、字符串|To Do|
+|2225|[找出输掉零场或一场比赛的玩家](https://leetcode-cn.com/problems/find-players-with-zero-or-one-losses)|<span style="color: #ffb800;">中等</span>|数组、哈希表、计数、排序|To Do|
+|2226|[每个小孩最多能分到多少糖果](https://leetcode-cn.com/problems/maximum-candies-allocated-to-k-children)|<span style="color: #ffb800;">中等</span>|数组、二分查找|To Do|
+|2227|[加密解密字符串](https://leetcode-cn.com/problems/encrypt-and-decrypt-strings)|<span style="color: #ef4743;">困难</span>|设计、字典树、数组、哈希表、字符串|To Do|
+|2228|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
+|2229|害-未爬到中文名 🔒|<span style="color: #2db55d;">简单</span>|数组|To Do|
+|2230|害-未爬到中文名 🔒|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|6035|[选择建筑的方案数](https://leetcode-cn.com/problems/number-of-ways-to-select-buildings)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
