@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-904/2585-blue)
+![](https://img.shields.io/badge/Solved-906/2592-blue)
 ![](https://img.shields.io/badge/easy-365-brightgreen)
-![](https://img.shields.io/badge/medium-461-yellow)
+![](https://img.shields.io/badge/medium-463-yellow)
 ![](https://img.shields.io/badge/hard-78-red)
 
 
-🧡最近一次更新:  2022-04-09 20:50:56
+🧡最近一次更新:  2022-04-14 21:07:14
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -394,7 +394,7 @@
 |377|[组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv)|<span style="color: #ffb800;">中等</span>|数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/377.组合总和Ⅳ/377.组合总和Ⅳ.cpp)|
 |378|[有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix)|<span style="color: #ffb800;">中等</span>|数组、二分查找、矩阵、排序、堆（优先队列）|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/378.有序矩阵中第K小的元素/378.有序矩阵中第K小的元素.cpp)|
 |379|电话目录管理系统 🔒|<span style="color: #ffb800;">中等</span>|设计、队列、数组、哈希表、链表|To Do|
-|380|[O(1) 时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1)|<span style="color: #ffb800;">中等</span>|设计、数组、哈希表、数学、随机化|To Do|
+|380|[O(1) 时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1)|<span style="color: #ffb800;">中等</span>|设计、数组、哈希表、数学、随机化|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/380.O%291%28时间插入、删除和获取随机元素/380.O%291%28时间插入、删除和获取随机元素.cpp)|
 |381|[O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed)|<span style="color: #ef4743;">困难</span>|设计、数组、哈希表、数学、随机化|To Do|
 |382|[链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node)|<span style="color: #ffb800;">中等</span>|水塘抽样、链表、数学、随机化|To Do|
 |383|[赎金信](https://leetcode-cn.com/problems/ransom-note)|<span style="color: #2db55d;">简单</span>|哈希表、字符串、计数|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/383.赎金信/383.赎金信.cpp)|
@@ -2236,6 +2236,7 @@
 |2219|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|数组、前缀和|To Do|
 |2220|[转换数字的最少位翻转次数](https://leetcode-cn.com/problems/minimum-bit-flips-to-convert-number)|<span style="color: #2db55d;">简单</span>|位运算|To Do|
 |2221|[数组的三角和](https://leetcode-cn.com/problems/find-triangular-sum-of-an-array)|<span style="color: #ffb800;">中等</span>|数组、数学、组合数学、模拟|To Do|
+|2222|[选择建筑的方案数](https://leetcode-cn.com/problems/number-of-ways-to-select-buildings)|<span style="color: #ffb800;">中等</span>|字符串、动态规划、前缀和|To Do|
 |2223|[构造字符串的总得分和](https://leetcode-cn.com/problems/sum-of-scores-of-built-strings)|<span style="color: #ef4743;">困难</span>|字符串、二分查找、字符串匹配、后缀数组、哈希函数、滚动哈希|To Do|
 |2224|[转化时间需要的最少操作数](https://leetcode-cn.com/problems/minimum-number-of-operations-to-convert-time)|<span style="color: #2db55d;">简单</span>|贪心、字符串|To Do|
 |2225|[找出输掉零场或一场比赛的玩家](https://leetcode-cn.com/problems/find-players-with-zero-or-one-losses)|<span style="color: #ffb800;">中等</span>|数组、哈希表、计数、排序|To Do|
@@ -2244,7 +2245,13 @@
 |2228|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
 |2229|害-未爬到中文名 🔒|<span style="color: #2db55d;">简单</span>|数组|To Do|
 |2230|害-未爬到中文名 🔒|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
-|6035|[选择建筑的方案数](https://leetcode-cn.com/problems/number-of-ways-to-select-buildings)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2231|[按奇偶性交换后的最大数字](https://leetcode-cn.com/problems/largest-number-after-digit-swaps-by-parity)|<span style="color: #2db55d;">简单</span>|排序、堆（优先队列）|To Do|
+|2232|[向表达式添加括号后的最小结果](https://leetcode-cn.com/problems/minimize-result-by-adding-parentheses-to-expression)|<span style="color: #ffb800;">中等</span>|字符串、枚举|To Do|
+|2233|[K 次增加后的最大乘积](https://leetcode-cn.com/problems/maximum-product-after-k-increments)|<span style="color: #ffb800;">中等</span>|贪心、数组、堆（优先队列）|To Do|
+|2234|[花园的最大总美丽值](https://leetcode-cn.com/problems/maximum-total-beauty-of-the-gardens)|<span style="color: #ef4743;">困难</span>|贪心、数组、双指针、二分查找、排序|To Do|
+|2235|[两整数相加](https://leetcode-cn.com/problems/add-two-integers)|<span style="color: #2db55d;">简单</span>|数学|To Do|
+|2236|[判断根结点是否等于子结点之和](https://leetcode-cn.com/problems/root-equals-sum-of-children)|<span style="color: #2db55d;">简单</span>|树、二叉树|To Do|
+|2237|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode-cn.com/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode-cn.com/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
