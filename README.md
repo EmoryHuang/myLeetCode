@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-925/2634-blue)
-![](https://img.shields.io/badge/easy-369-brightgreen)
-![](https://img.shields.io/badge/medium-474-yellow)
-![](https://img.shields.io/badge/hard-82-red)
+![](https://img.shields.io/badge/Solved-935/2647-blue)
+![](https://img.shields.io/badge/easy-370-brightgreen)
+![](https://img.shields.io/badge/medium-480-yellow)
+![](https://img.shields.io/badge/hard-85-red)
 
 
-🧡最近一次更新:  2022-05-12 09:06:52
+🧡最近一次更新:  2022-05-26 19:34:11
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -481,7 +481,7 @@
 |464|[我能赢吗](https://leetcode.cn/problems/can-i-win)|<span style="color: #ffb800;">中等</span>|位运算、记忆化搜索、数学、动态规划、状态压缩、博弈|To Do|
 |465|最优账单平衡 🔒|<span style="color: #ef4743;">困难</span>|数组、回溯|To Do|
 |466|[统计重复个数](https://leetcode.cn/problems/count-the-repetitions)|<span style="color: #ef4743;">困难</span>|字符串、动态规划|To Do|
-|467|[环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string)|<span style="color: #ffb800;">中等</span>|字符串、动态规划|To Do|
+|467|[环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string)|<span style="color: #ffb800;">中等</span>|字符串、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/467.环绕字符串中唯一的子字符串/467.环绕字符串中唯一的子字符串.cpp)|
 |468|[验证IP地址](https://leetcode.cn/problems/validate-ip-address)|<span style="color: #ffb800;">中等</span>|字符串|To Do|
 |469|凸多边形 🔒|<span style="color: #ffb800;">中等</span>|几何、数学|To Do|
 |470|[用 Rand7() 实现 Rand10()](https://leetcode.cn/problems/implement-rand10-using-rand7)|<span style="color: #ffb800;">中等</span>|数学、拒绝采样、概率与统计、随机化|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/470.用Rand7%29%28实现Rand10%29%28/470.用Rand7%29%28实现Rand10%29%28.cpp)|
@@ -2282,6 +2282,19 @@
 |2266|[统计打字方案数](https://leetcode.cn/problems/count-number-of-texts)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2267|[检查是否有合法括号字符串路径](https://leetcode.cn/problems/check-if-there-is-a-valid-parentheses-string-path)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |2268|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2269|[找到一个数字的 K 美丽值](https://leetcode.cn/problems/find-the-k-beauty-of-a-number)|<span style="color: #2db55d;">简单</span>|数学、字符串、滑动窗口|To Do|
+|2270|[分割数组的方案数](https://leetcode.cn/problems/number-of-ways-to-split-array)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2271|[毯子覆盖的最多白色砖块数](https://leetcode.cn/problems/maximum-white-tiles-covered-by-a-carpet)|<span style="color: #ffb800;">中等</span>|贪心、数组、二分查找、前缀和、排序|To Do|
+|2272|[最大波动的子字符串](https://leetcode.cn/problems/substring-with-largest-variance)|<span style="color: #ef4743;">困难</span>|数组、动态规划|To Do|
+|2273|[移除字母异位词后的结果数组](https://leetcode.cn/problems/find-resultant-array-after-removing-anagrams)|<span style="color: #2db55d;">简单</span>|数组、哈希表、字符串、排序|To Do|
+|2274|[不含特殊楼层的最大连续楼层数](https://leetcode.cn/problems/maximum-consecutive-floors-without-special-floors)|<span style="color: #ffb800;">中等</span>|数组、排序|To Do|
+|2275|[按位与结果大于零的最长组合](https://leetcode.cn/problems/largest-combination-with-bitwise-and-greater-than-zero)|<span style="color: #ffb800;">中等</span>|位运算、数组、哈希表、计数|To Do|
+|2276|[统计区间中的整数数目](https://leetcode.cn/problems/count-integers-in-intervals)|<span style="color: #ef4743;">困难</span>|设计、线段树、有序集合|To Do|
+|2277|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|树、深度优先搜索、广度优先搜索、数组|To Do|
+|2278|[字母在字符串中的百分比](https://leetcode.cn/problems/percentage-of-letter-in-string)|<span style="color: #2db55d;">简单</span>|字符串|To Do|
+|2279|[装满石头的背包的最大数量](https://leetcode.cn/problems/maximum-bags-with-full-capacity-of-rocks)|<span style="color: #ffb800;">中等</span>|贪心、数组、排序|To Do|
+|2280|[表示一个折线图的最少线段数](https://leetcode.cn/problems/minimum-lines-to-represent-a-line-chart)|<span style="color: #ffb800;">中等</span>|几何、数组、数学、数论、排序|To Do|
+|2281|[巫师的总力量和](https://leetcode.cn/problems/sum-of-total-strength-of-wizards)|<span style="color: #ef4743;">困难</span>|栈、数组、前缀和、单调栈|To Do|
 |6043|[统计包含每个点的矩形数目](https://leetcode.cn/problems/count-number-of-rectangles-containing-each-point)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode.cn/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode.cn/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
@@ -2340,7 +2353,7 @@
 |LCP55|[采集果实](https://leetcode.cn/problems/PTXy4P)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
 |LCP56|[信物传送](https://leetcode.cn/problems/6UEx57)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP57|[打地鼠](https://leetcode.cn/problems/ZbAuEH)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
-|LCP58|[积木拼接](https://leetcode.cn/problems/De4qBB)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|LCP58|[积木拼接](https://leetcode.cn/problems/De4qBB)|<span style="color: #ef4743;">困难</span>|数组、回溯、矩阵|To Do|
 |LCP59|[搭桥过河](https://leetcode.cn/problems/NfY1m5)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP60|[力扣泡泡龙](https://leetcode.cn/problems/WInSav)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCS01|[下载插件](https://leetcode.cn/problems/Ju9Xwi)|<span style="color: #2db55d;">简单</span>|数学、动态规划|To Do|
