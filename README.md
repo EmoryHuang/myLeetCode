@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-935/2647-blue)
+![](https://img.shields.io/badge/Solved-937/2648-blue)
 ![](https://img.shields.io/badge/easy-370-brightgreen)
-![](https://img.shields.io/badge/medium-480-yellow)
-![](https://img.shields.io/badge/hard-85-red)
+![](https://img.shields.io/badge/medium-481-yellow)
+![](https://img.shields.io/badge/hard-86-red)
 
 
-🧡最近一次更新:  2022-05-26 19:34:11
+🧡最近一次更新:  2022-05-27 16:49:58
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -713,7 +713,7 @@
 |696|[计数二进制子串](https://leetcode.cn/problems/count-binary-substrings)|<span style="color: #2db55d;">简单</span>|双指针、字符串|To Do|
 |697|[数组的度](https://leetcode.cn/problems/degree-of-an-array)|<span style="color: #2db55d;">简单</span>|数组、哈希表|To Do|
 |698|[划分为k个相等的子集](https://leetcode.cn/problems/partition-to-k-equal-sum-subsets)|<span style="color: #ffb800;">中等</span>|位运算、记忆化搜索、数组、动态规划、回溯、状态压缩|To Do|
-|699|[掉落的方块](https://leetcode.cn/problems/falling-squares)|<span style="color: #ef4743;">困难</span>|线段树、数组、有序集合|To Do|
+|699|[掉落的方块](https://leetcode.cn/problems/falling-squares)|<span style="color: #ef4743;">困难</span>|线段树、数组、有序集合|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/699.掉落的方块/699.掉落的方块.py)|
 |700|[二叉搜索树中的搜索](https://leetcode.cn/problems/search-in-a-binary-search-tree)|<span style="color: #2db55d;">简单</span>|树、二叉搜索树、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/700.二叉搜索树中的搜索/700.二叉搜索树中的搜索.cpp)|
 |701|[二叉搜索树中的插入操作](https://leetcode.cn/problems/insert-into-a-binary-search-tree)|<span style="color: #ffb800;">中等</span>|树、二叉搜索树、二叉树|To Do|
 |702|搜索长度未知的有序数组 🔒|<span style="color: #ffb800;">中等</span>|数组、二分查找、交互|To Do|
@@ -2295,6 +2295,7 @@
 |2279|[装满石头的背包的最大数量](https://leetcode.cn/problems/maximum-bags-with-full-capacity-of-rocks)|<span style="color: #ffb800;">中等</span>|贪心、数组、排序|To Do|
 |2280|[表示一个折线图的最少线段数](https://leetcode.cn/problems/minimum-lines-to-represent-a-line-chart)|<span style="color: #ffb800;">中等</span>|几何、数组、数学、数论、排序|To Do|
 |2281|[巫师的总力量和](https://leetcode.cn/problems/sum-of-total-strength-of-wizards)|<span style="color: #ef4743;">困难</span>|栈、数组、前缀和、单调栈|To Do|
+|2282|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |6043|[统计包含每个点的矩形数目](https://leetcode.cn/problems/count-number-of-rectangles-containing-each-point)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode.cn/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode.cn/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
