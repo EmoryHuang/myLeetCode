@@ -1,9 +1,9 @@
 /*
- * @Descroption: LeetCode 1302. ��������Ҷ�ӽڵ�ĺ�
+ * @Descroption: LeetCode 1302. 层数最深叶子节点的和
  * @Author: EmoryHuang
  * @Date: 2021-07-19 19:13:36
- * @����˼·:
- * �������������ÿ��Ľڵ�֮��
+ * @解题思路:
+ * 层序遍历，计算每层的节点之和
  */
 
 /**

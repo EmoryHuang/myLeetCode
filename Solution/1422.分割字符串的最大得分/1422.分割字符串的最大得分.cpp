@@ -1,9 +1,9 @@
 /*
- * @Descroption: LeetCode 1422. ·Ö¸î×Ö·û´®µÄ×î´óµÃ·Ö
+ * @Descroption: LeetCode 1422. åˆ†å‰²å­—ç¬¦ä¸²çš„æœ€å¤§å¾—åˆ†
  * @Author: EmoryHuang
  * @Date: 2021-08-08 14:15:25
  * @Method:
- * Í³¼Æ0ºÍ1µÄÊıÁ¿
+ * ç»Ÿè®¡0å’Œ1çš„æ•°é‡
  */
 
 class Solution {
