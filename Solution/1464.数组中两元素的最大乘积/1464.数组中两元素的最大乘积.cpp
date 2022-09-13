@@ -1,15 +1,15 @@
 /*
- * @Descroption: LeetCode 1464. Êı×éÖĞÁ½ÔªËØµÄ×î´ó³Ë»ı
+ * @Descroption: LeetCode 1464. æ•°ç»„ä¸­ä¸¤å…ƒç´ çš„æœ€å¤§ä¹˜ç§¯
  * @Author: EmoryHuang
  * @Date: 2021-09-15 15:36:03
  * @Method:
- * ±©Á¦±éÀú
- * Ò»´Î±éÀúµÃµ½×î´óÖµºÍ´Î´óÖµ
+ * æš´åŠ›éå†
+ * ä¸€æ¬¡éå†å¾—åˆ°æœ€å¤§å€¼å’Œæ¬¡å¤§å€¼
  */
 
 class Solution {
    public:
-    // ±©Á¦±éÀú
+    // æš´åŠ›éå†
     // int maxProduct(vector<int>& nums) {
     //     int n = nums.size(), ans = 0;
     //     for (int i = 0; i < n; i++) {
@@ -20,7 +20,7 @@ class Solution {
     //     return ans;
     // }
 
-    // Ò»´Î±éÀú
+    // ä¸€æ¬¡éå†
     int maxProduct(vector<int>& nums) {
         int max1 = 0, max2 = 0;
         for (int num : nums) {

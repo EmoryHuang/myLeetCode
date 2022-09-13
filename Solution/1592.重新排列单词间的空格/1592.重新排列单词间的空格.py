@@ -1,9 +1,9 @@
 '''
-Descroption: LeetCode 1592. �������е��ʼ�Ŀո�
+Descroption: LeetCode 1592. 重新排列单词间的空格
 Author: EmoryHuang
 Date: 2021-06-20 14:23:00
-����˼·:
-��¼�ո�͵��ʵĸ�����֮����
+解题思路:
+记录空格和单词的个数，之后补齐
 '''
 
 

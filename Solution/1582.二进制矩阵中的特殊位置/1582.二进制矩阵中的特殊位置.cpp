@@ -1,9 +1,9 @@
 /*
- * @Descroption: LeetCode 1582. �����ƾ����е�����λ��
+ * @Descroption: LeetCode 1582. 二进制矩阵中的特殊位置
  * @Author: EmoryHuang
  * @Date: 2021-06-20 16:06:00
- * @����˼·:
- * ��������������ÿ��ÿ��Ԫ��֮�ͣ��������Ԫ��֮���Ƿ�Ϊ 1
+ * @解题思路:
+ * 暴力方法，计算每行每列元素之和，检查行列元素之和是否为 1
  */
 
 class Solution {

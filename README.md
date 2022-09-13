@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-994/2744-blue)
-![](https://img.shields.io/badge/easy-373-brightgreen)
-![](https://img.shields.io/badge/medium-516-yellow)
-![](https://img.shields.io/badge/hard-105-red)
+![](https://img.shields.io/badge/Solved-1009/2773-blue)
+![](https://img.shields.io/badge/easy-372-brightgreen)
+![](https://img.shields.io/badge/medium-527-yellow)
+![](https://img.shields.io/badge/hard-110-red)
 
 
-🧡最近一次更新:  2022-08-19 13:35:48
+🧡最近一次更新:  2022-09-13 20:37:21
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -666,25 +666,25 @@
 |649|[Dota2 参议院](https://leetcode.cn/problems/dota2-senate)|<span style="color: #ffb800;">中等</span>|贪心、队列、字符串|To Do|
 |650|[只有两个键的键盘](https://leetcode.cn/problems/2-keys-keyboard)|<span style="color: #ffb800;">中等</span>|数学、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/650.只有两个键的键盘/650.只有两个键的键盘.cpp)|
 |651|4键键盘 🔒|<span style="color: #ffb800;">中等</span>|数学、动态规划|To Do|
-|652|[寻找重复的子树](https://leetcode.cn/problems/find-duplicate-subtrees)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、广度优先搜索、二叉树|To Do|
+|652|[寻找重复的子树](https://leetcode.cn/problems/find-duplicate-subtrees)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、哈希表、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/652.寻找重复的子树/652.寻找重复的子树.java)|
 |653|[两数之和 IV - 输入 BST](https://leetcode.cn/problems/two-sum-iv-input-is-a-bst)|<span style="color: #2db55d;">简单</span>|树、深度优先搜索、广度优先搜索、二叉搜索树、哈希表、双指针、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/653.两数之和IV-输入BST/653.两数之和IV-输入BST.cpp)|
 |654|[最大二叉树](https://leetcode.cn/problems/maximum-binary-tree)|<span style="color: #ffb800;">中等</span>|栈、树、数组、分治、二叉树、单调栈|To Do|
 |655|[输出二叉树](https://leetcode.cn/problems/print-binary-tree)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、广度优先搜索、二叉树|To Do|
 |656|金币路径 🔒|<span style="color: #ef4743;">困难</span>|数组、动态规划|To Do|
 |657|[机器人能否返回原点](https://leetcode.cn/problems/robot-return-to-origin)|<span style="color: #2db55d;">简单</span>|字符串、模拟|To Do|
-|658|[找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements)|<span style="color: #ffb800;">中等</span>|数组、双指针、二分查找、排序、堆（优先队列）|To Do|
+|658|[找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements)|<span style="color: #ffb800;">中等</span>|数组、双指针、二分查找、排序、堆（优先队列）|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/658.找到K个最接近的元素/658.找到K个最接近的元素.java)|
 |659|[分割数组为连续子序列](https://leetcode.cn/problems/split-array-into-consecutive-subsequences)|<span style="color: #ffb800;">中等</span>|贪心、数组、哈希表、堆（优先队列）|To Do|
 |660|移除 9 🔒|<span style="color: #ef4743;">困难</span>|数学|To Do|
 |661|[图片平滑器](https://leetcode.cn/problems/image-smoother)|<span style="color: #2db55d;">简单</span>|数组、矩阵|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/661.图片平滑器/661.图片平滑器.cpp)|
-|662|[二叉树最大宽度](https://leetcode.cn/problems/maximum-width-of-binary-tree)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、广度优先搜索、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/662.二叉树最大宽度/662.二叉树最大宽度.cpp)|
+|662|[二叉树最大宽度](https://leetcode.cn/problems/maximum-width-of-binary-tree)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、广度优先搜索、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/662.二叉树最大宽度/662.二叉树最大宽度.java)|
 |663|均匀树划分 🔒|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、二叉树|To Do|
 |664|[奇怪的打印机](https://leetcode.cn/problems/strange-printer)|<span style="color: #ef4743;">困难</span>|字符串、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/664.奇怪的打印机/664.奇怪的打印机.cpp)|
 |665|[非递减数列](https://leetcode.cn/problems/non-decreasing-array)|<span style="color: #ffb800;">中等</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/665.非递减数列/665.非递减数列.cpp)|
 |666|路径总和 IV 🔒|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、数组、二叉树|To Do|
-|667|[优美的排列 II](https://leetcode.cn/problems/beautiful-arrangement-ii)|<span style="color: #ffb800;">中等</span>|数组、数学|To Do|
+|667|[优美的排列 II](https://leetcode.cn/problems/beautiful-arrangement-ii)|<span style="color: #ffb800;">中等</span>|数组、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/667.优美的排列II/667.优美的排列II.java)|
 |668|[乘法表中第k小的数](https://leetcode.cn/problems/kth-smallest-number-in-multiplication-table)|<span style="color: #ef4743;">困难</span>|二分查找|To Do|
-|669|[修剪二叉搜索树](https://leetcode.cn/problems/trim-a-binary-search-tree)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、二叉搜索树、二叉树|To Do|
-|670|[最大交换](https://leetcode.cn/problems/maximum-swap)|<span style="color: #ffb800;">中等</span>|贪心、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/670.最大交换/670.最大交换.cpp)|
+|669|[修剪二叉搜索树](https://leetcode.cn/problems/trim-a-binary-search-tree)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、二叉搜索树、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/669.修剪二叉搜索树/669.修剪二叉搜索树.java)|
+|670|[最大交换](https://leetcode.cn/problems/maximum-swap)|<span style="color: #ffb800;">中等</span>|贪心、数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/670.最大交换/670.最大交换.java)|
 |671|[二叉树中第二小的节点](https://leetcode.cn/problems/second-minimum-node-in-a-binary-tree)|<span style="color: #2db55d;">简单</span>|树、深度优先搜索、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/671.二叉树中第二小的节点/671.二叉树中第二小的节点.cpp)|
 |672|[灯泡开关 Ⅱ](https://leetcode.cn/problems/bulb-switcher-ii)|<span style="color: #ffb800;">中等</span>|位运算、深度优先搜索、广度优先搜索、数学|To Do|
 |673|[最长递增子序列的个数](https://leetcode.cn/problems/number-of-longest-increasing-subsequence)|<span style="color: #ffb800;">中等</span>|树状数组、线段树、数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/673.最长递增子序列的个数/673.最长递增子序列的个数.cpp)|
@@ -701,7 +701,7 @@
 |684|[冗余连接](https://leetcode.cn/problems/redundant-connection)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、并查集、图|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/684.冗余连接/684.冗余连接.cpp)|
 |685|[冗余连接 II](https://leetcode.cn/problems/redundant-connection-ii)|<span style="color: #ef4743;">困难</span>|深度优先搜索、广度优先搜索、并查集、图|To Do|
 |686|[重复叠加字符串匹配](https://leetcode.cn/problems/repeated-string-match)|<span style="color: #ffb800;">中等</span>|字符串、字符串匹配|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/686.重复叠加字符串匹配/686.重复叠加字符串匹配.cpp)|
-|687|[最长同值路径](https://leetcode.cn/problems/longest-univalue-path)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、二叉树|To Do|
+|687|[最长同值路径](https://leetcode.cn/problems/longest-univalue-path)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/687.最长同值路径/687.最长同值路径.java)|
 |688|[“马”在棋盘上的概率](https://leetcode.cn/problems/knight-probability-in-chessboard)|<span style="color: #ffb800;">中等</span>|动态规划|To Do|
 |689|[三个无重叠子数组的最大和](https://leetcode.cn/problems/maximum-sum-of-3-non-overlapping-subarrays)|<span style="color: #ef4743;">困难</span>|数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/689.三个无重叠子数组的最大和/689.三个无重叠子数组的最大和.cpp)|
 |690|[员工的重要性](https://leetcode.cn/problems/employee-importance)|<span style="color: #2db55d;">简单</span>|深度优先搜索、广度优先搜索、哈希表|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/690.员工的重要性/690.员工的重要性.cpp)|
@@ -807,7 +807,7 @@
 |790|[多米诺和托米诺平铺](https://leetcode.cn/problems/domino-and-tromino-tiling)|<span style="color: #ffb800;">中等</span>|动态规划|To Do|
 |791|[自定义字符串排序](https://leetcode.cn/problems/custom-sort-string)|<span style="color: #ffb800;">中等</span>|哈希表、字符串、排序|To Do|
 |792|[匹配子序列的单词数](https://leetcode.cn/problems/number-of-matching-subsequences)|<span style="color: #ffb800;">中等</span>|字典树、哈希表、字符串、排序|To Do|
-|793|[阶乘函数后 K 个零](https://leetcode.cn/problems/preimage-size-of-factorial-zeroes-function)|<span style="color: #ef4743;">困难</span>|数学、二分查找|To Do|
+|793|[阶乘函数后 K 个零](https://leetcode.cn/problems/preimage-size-of-factorial-zeroes-function)|<span style="color: #ef4743;">困难</span>|数学、二分查找|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/793.阶乘函数后K个零/793.阶乘函数后K个零.java)|
 |794|[有效的井字游戏](https://leetcode.cn/problems/valid-tic-tac-toe-state)|<span style="color: #ffb800;">中等</span>|数组、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/794.有效的井字游戏/794.有效的井字游戏.cpp)|
 |795|[区间子数组个数](https://leetcode.cn/problems/number-of-subarrays-with-bounded-maximum)|<span style="color: #ffb800;">中等</span>|数组、双指针|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/795.区间子数组个数/795.区间子数组个数.cpp)|
 |796|[旋转字符串](https://leetcode.cn/problems/rotate-string)|<span style="color: #2db55d;">简单</span>|字符串、字符串匹配|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/796.旋转字符串/796.旋转字符串.cpp)|
@@ -842,7 +842,7 @@
 |825|[适龄的朋友](https://leetcode.cn/problems/friends-of-appropriate-ages)|<span style="color: #ffb800;">中等</span>|数组、双指针、二分查找、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/825.适龄的朋友/825.适龄的朋友.cpp)|
 |826|[安排工作以达到最大收益](https://leetcode.cn/problems/most-profit-assigning-work)|<span style="color: #ffb800;">中等</span>|贪心、数组、双指针、二分查找、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/826.安排工作以达到最大收益/826.安排工作以达到最大收益.cpp)|
 |827|[最大人工岛](https://leetcode.cn/problems/making-a-large-island)|<span style="color: #ef4743;">困难</span>|深度优先搜索、广度优先搜索、并查集、数组、矩阵|To Do|
-|828|[统计子串中的唯一字符](https://leetcode.cn/problems/count-unique-characters-of-all-substrings-of-a-given-string)|<span style="color: #ef4743;">困难</span>|字符串、动态规划|To Do|
+|828|[统计子串中的唯一字符](https://leetcode.cn/problems/count-unique-characters-of-all-substrings-of-a-given-string)|<span style="color: #ef4743;">困难</span>|哈希表、字符串、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/828.统计子串中的唯一字符/828.统计子串中的唯一字符.java)|
 |829|[连续整数求和](https://leetcode.cn/problems/consecutive-numbers-sum)|<span style="color: #ef4743;">困难</span>|数学、枚举|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/829.连续整数求和/829.连续整数求和.cpp)|
 |830|[较大分组的位置](https://leetcode.cn/problems/positions-of-large-groups)|<span style="color: #2db55d;">简单</span>|字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/830.较大分组的位置/830.较大分组的位置.cpp)|
 |831|[隐藏个人信息](https://leetcode.cn/problems/masking-personal-information)|<span style="color: #ffb800;">中等</span>|字符串|To Do|
@@ -871,7 +871,7 @@
 |854|[相似度为 K 的字符串](https://leetcode.cn/problems/k-similar-strings)|<span style="color: #ef4743;">困难</span>|广度优先搜索、字符串|To Do|
 |855|[考场就座](https://leetcode.cn/problems/exam-room)|<span style="color: #ffb800;">中等</span>|设计、有序集合|To Do|
 |856|[括号的分数](https://leetcode.cn/problems/score-of-parentheses)|<span style="color: #ffb800;">中等</span>|栈、字符串|To Do|
-|857|[雇佣 K 名工人的最低成本](https://leetcode.cn/problems/minimum-cost-to-hire-k-workers)|<span style="color: #ef4743;">困难</span>|贪心、数组、排序、堆（优先队列）|To Do|
+|857|[雇佣 K 名工人的最低成本](https://leetcode.cn/problems/minimum-cost-to-hire-k-workers)|<span style="color: #ef4743;">困难</span>|贪心、数组、排序、堆（优先队列）|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/857.雇佣K名工人的最低成本/857.雇佣K名工人的最低成本.java)|
 |858|[镜面反射](https://leetcode.cn/problems/mirror-reflection)|<span style="color: #ffb800;">中等</span>|几何、数学|To Do|
 |859|[亲密字符串](https://leetcode.cn/problems/buddy-strings)|<span style="color: #2db55d;">简单</span>|哈希表、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/859.亲密字符串/859.亲密字符串.cpp)|
 |860|[柠檬水找零](https://leetcode.cn/problems/lemonade-change)|<span style="color: #2db55d;">简单</span>|贪心、数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/860.柠檬水找零/860.柠檬水找零.cpp)|
@@ -960,7 +960,7 @@
 |943|[最短超级串](https://leetcode.cn/problems/find-the-shortest-superstring)|<span style="color: #ef4743;">困难</span>|位运算、数组、字符串、动态规划、状态压缩|To Do|
 |944|[删列造序](https://leetcode.cn/problems/delete-columns-to-make-sorted)|<span style="color: #2db55d;">简单</span>|数组、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/944.删列造序/944.删列造序.cpp)|
 |945|[使数组唯一的最小增量](https://leetcode.cn/problems/minimum-increment-to-make-array-unique)|<span style="color: #ffb800;">中等</span>|贪心、数组、计数、排序|To Do|
-|946|[验证栈序列](https://leetcode.cn/problems/validate-stack-sequences)|<span style="color: #ffb800;">中等</span>|栈、数组、模拟|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/946.验证栈序列/946.验证栈序列.cpp)|
+|946|[验证栈序列](https://leetcode.cn/problems/validate-stack-sequences)|<span style="color: #ffb800;">中等</span>|栈、数组、模拟|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/946.验证栈序列/946.验证栈序列.java)|
 |947|[移除最多的同行或同列石头](https://leetcode.cn/problems/most-stones-removed-with-same-row-or-column)|<span style="color: #ffb800;">中等</span>|深度优先搜索、并查集、图|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/947.移除最多的同行或同列石头/947.移除最多的同行或同列石头.cpp)|
 |948|[令牌放置](https://leetcode.cn/problems/bag-of-tokens)|<span style="color: #ffb800;">中等</span>|贪心、数组、双指针、排序|To Do|
 |949|[给定数字能组成的最大时间](https://leetcode.cn/problems/largest-time-for-given-digits)|<span style="color: #ffb800;">中等</span>|字符串、枚举|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/949.给定数字能组成的最大时间/949.给定数字能组成的最大时间.cpp)|
@@ -1012,7 +1012,7 @@
 |995|[K 连续位的最小翻转次数](https://leetcode.cn/problems/minimum-number-of-k-consecutive-bit-flips)|<span style="color: #ef4743;">困难</span>|位运算、数组、前缀和、滑动窗口|To Do|
 |996|[正方形数组的数目](https://leetcode.cn/problems/number-of-squareful-arrays)|<span style="color: #ef4743;">困难</span>|位运算、数组、数学、动态规划、回溯、状态压缩|To Do|
 |997|[找到小镇的法官](https://leetcode.cn/problems/find-the-town-judge)|<span style="color: #2db55d;">简单</span>|图、数组、哈希表|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/997.找到小镇的法官/997.找到小镇的法官.cpp)|
-|998|[最大二叉树 II](https://leetcode.cn/problems/maximum-binary-tree-ii)|<span style="color: #ffb800;">中等</span>|树、二叉树|To Do|
+|998|[最大二叉树 II](https://leetcode.cn/problems/maximum-binary-tree-ii)|<span style="color: #ffb800;">中等</span>|树、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/998.最大二叉树II/998.最大二叉树II.java)|
 |999|[可以被一步捕获的棋子数](https://leetcode.cn/problems/available-captures-for-rook)|<span style="color: #2db55d;">简单</span>|数组、矩阵、模拟|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/999.可以被一步捕获的棋子数/999.可以被一步捕获的棋子数.cpp)|
 |1000|[合并石头的最低成本](https://leetcode.cn/problems/minimum-cost-to-merge-stones)|<span style="color: #ef4743;">困难</span>|数组、动态规划|To Do|
 |1001|[网格照明](https://leetcode.cn/problems/grid-illumination)|<span style="color: #ef4743;">困难</span>|数组、哈希表|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1001.网格照明/1001.网格照明.cpp)|
@@ -1484,12 +1484,12 @@
 |1467|[两个盒子中球的颜色数相同的概率](https://leetcode.cn/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)|<span style="color: #ef4743;">困难</span>|数学、动态规划、回溯、组合数学、概率与统计|To Do|
 |1468|计算税后工资 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
 |1469|寻找所有的独生节点 🔒|<span style="color: #2db55d;">简单</span>|树、深度优先搜索、广度优先搜索、二叉树|To Do|
-|1470|[重新排列数组](https://leetcode.cn/problems/shuffle-the-array)|<span style="color: #2db55d;">简单</span>|数组|To Do|
+|1470|[重新排列数组](https://leetcode.cn/problems/shuffle-the-array)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1470.重新排列数组/1470.重新排列数组.java)|
 |1471|[数组中的 k 个最强值](https://leetcode.cn/problems/the-k-strongest-values-in-an-array)|<span style="color: #ffb800;">中等</span>|数组、双指针、排序|To Do|
 |1472|[设计浏览器历史记录](https://leetcode.cn/problems/design-browser-history)|<span style="color: #ffb800;">中等</span>|栈、设计、数组、链表、数据流、双向链表|To Do|
 |1473|[粉刷房子 III](https://leetcode.cn/problems/paint-house-iii)|<span style="color: #ef4743;">困难</span>|数组、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1473.粉刷房子III/1473.粉刷房子III.cpp)|
 |1474|删除链表 M 个节点之后的 N 个节点 🔒|<span style="color: #2db55d;">简单</span>|链表|To Do|
-|1475|[商品折扣后的最终价格](https://leetcode.cn/problems/final-prices-with-a-special-discount-in-a-shop)|<span style="color: #2db55d;">简单</span>|栈、数组、单调栈|To Do|
+|1475|[商品折扣后的最终价格](https://leetcode.cn/problems/final-prices-with-a-special-discount-in-a-shop)|<span style="color: #2db55d;">简单</span>|栈、数组、单调栈|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1475.商品折扣后的最终价格/1475.商品折扣后的最终价格.java)|
 |1476|[子矩形查询](https://leetcode.cn/problems/subrectangle-queries)|<span style="color: #ffb800;">中等</span>|设计、数组、矩阵|To Do|
 |1477|[找两个和为目标值且不重叠的子数组](https://leetcode.cn/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum)|<span style="color: #ffb800;">中等</span>|数组、哈希表、二分查找、动态规划、滑动窗口|To Do|
 |1478|[安排邮筒](https://leetcode.cn/problems/allocate-mailboxes)|<span style="color: #ef4743;">困难</span>|数组、数学、动态规划、排序|To Do|
@@ -1612,7 +1612,7 @@
 |1595|[连通两组点的最小成本](https://leetcode.cn/problems/minimum-cost-to-connect-two-groups-of-points)|<span style="color: #ef4743;">困难</span>|位运算、数组、动态规划、状态压缩、矩阵|To Do|
 |1596|每位顾客最经常订购的商品 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
 |1597|根据中缀表达式构造二叉表达式树 🔒|<span style="color: #ef4743;">困难</span>|栈、树、字符串、二叉树|To Do|
-|1598|[文件夹操作日志搜集器](https://leetcode.cn/problems/crawler-log-folder)|<span style="color: #2db55d;">简单</span>|栈、数组、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1598.文件夹操作日志搜集器/1598.文件夹操作日志搜集器.cpp)|
+|1598|[文件夹操作日志搜集器](https://leetcode.cn/problems/crawler-log-folder)|<span style="color: #2db55d;">简单</span>|栈、数组、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1598.文件夹操作日志搜集器/1598.文件夹操作日志搜集器.java)|
 |1599|[经营摩天轮的最大利润](https://leetcode.cn/problems/maximum-profit-of-operating-a-centennial-wheel)|<span style="color: #ffb800;">中等</span>|数组、模拟|To Do|
 |1600|[皇位继承顺序](https://leetcode.cn/problems/throne-inheritance)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、设计、哈希表|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1600.皇位继承顺序/1600.皇位继承顺序.cpp)|
 |1601|[最多可达成的换楼请求数目](https://leetcode.cn/problems/maximum-number-of-achievable-transfer-requests)|<span style="color: #ef4743;">困难</span>|位运算、数组、回溯、枚举|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1601.最多可达成的换楼请求数目/1601.最多可达成的换楼请求数目.cpp)|
@@ -1622,7 +1622,7 @@
 |1605|[给定行和列的和求可行矩阵](https://leetcode.cn/problems/find-valid-matrix-given-row-and-column-sums)|<span style="color: #ffb800;">中等</span>|贪心、数组、矩阵|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1605.给定行和列的和求可行矩阵/1605.给定行和列的和求可行矩阵.cpp)|
 |1606|[找到处理最多请求的服务器](https://leetcode.cn/problems/find-servers-that-handled-most-number-of-requests)|<span style="color: #ef4743;">困难</span>|贪心、数组、有序集合、堆（优先队列）|To Do|
 |1607|没有卖出的卖家 🔒|<span style="color: #2db55d;">简单</span>|数据库|To Do|
-|1608|[特殊数组的特征值](https://leetcode.cn/problems/special-array-with-x-elements-greater-than-or-equal-x)|<span style="color: #2db55d;">简单</span>|数组、二分查找、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1608.特殊数组的特征值/1608.特殊数组的特征值.cpp)|
+|1608|[特殊数组的特征值](https://leetcode.cn/problems/special-array-with-x-elements-greater-than-or-equal-x)|<span style="color: #2db55d;">简单</span>|数组、二分查找、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1608.特殊数组的特征值/1608.特殊数组的特征值.java)|
 |1609|[奇偶树](https://leetcode.cn/problems/even-odd-tree)|<span style="color: #ffb800;">中等</span>|树、广度优先搜索、二叉树|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1609.奇偶树/1609.奇偶树.cpp)|
 |1610|[可见点的最大数目](https://leetcode.cn/problems/maximum-number-of-visible-points)|<span style="color: #ef4743;">困难</span>|几何、数组、数学、排序、滑动窗口|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1610.可见点的最大数目/1610.可见点的最大数目.cpp)|
 |1611|[使整数变为 0 的最少操作次数](https://leetcode.cn/problems/minimum-one-bit-operations-to-make-integers-zero)|<span style="color: #ef4743;">困难</span>|位运算、记忆化搜索、动态规划|To Do|
@@ -2393,6 +2393,35 @@
 |2376|[统计特殊整数](https://leetcode.cn/problems/count-special-integers)|<span style="color: #ef4743;">困难</span>|数学、动态规划|To Do|
 |2377|害-未爬到中文名 🔒|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
 |2378|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2379|[得到 K 个黑块的最少涂色次数](https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks)|<span style="color: #2db55d;">简单</span>|字符串、滑动窗口|To Do|
+|2380|[二进制字符串重新安排顺序需要的时间](https://leetcode.cn/problems/time-needed-to-rearrange-a-binary-string)|<span style="color: #ffb800;">中等</span>|字符串、动态规划、模拟|To Do|
+|2381|[字母移位 II](https://leetcode.cn/problems/shifting-letters-ii)|<span style="color: #ffb800;">中等</span>|数组、字符串、前缀和|To Do|
+|2382|[删除操作后的最大子段和](https://leetcode.cn/problems/maximum-segment-sum-after-removals)|<span style="color: #ef4743;">困难</span>|并查集、数组、有序集合、前缀和|To Do|
+|2383|[赢得比赛需要的最少训练时长](https://leetcode.cn/problems/minimum-hours-of-training-to-win-a-competition)|<span style="color: #2db55d;">简单</span>|贪心、数组|To Do|
+|2384|[最大回文数字](https://leetcode.cn/problems/largest-palindromic-number)|<span style="color: #ffb800;">中等</span>|贪心、哈希表、字符串|To Do|
+|2385|[感染二叉树需要的总时间](https://leetcode.cn/problems/amount-of-time-for-binary-tree-to-be-infected)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、广度优先搜索、二叉树|To Do|
+|2386|[找出数组的第 K 大和](https://leetcode.cn/problems/find-the-k-sum-of-an-array)|<span style="color: #ef4743;">困难</span>|数组、排序、堆（优先队列）|To Do|
+|2387|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|数组、二分查找、矩阵|To Do|
+|2388|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
+|2389|[和有限的最长子序列](https://leetcode.cn/problems/longest-subsequence-with-limited-sum)|<span style="color: #2db55d;">简单</span>|贪心、数组、二分查找、前缀和、排序|To Do|
+|2390|[从字符串中移除星号](https://leetcode.cn/problems/removing-stars-from-a-string)|<span style="color: #ffb800;">中等</span>|栈、字符串、模拟|To Do|
+|2391|[收集垃圾的最少总时间](https://leetcode.cn/problems/minimum-amount-of-time-to-collect-garbage)|<span style="color: #ffb800;">中等</span>|数组、字符串、前缀和|To Do|
+|2392|[给定条件下构造矩阵](https://leetcode.cn/problems/build-a-matrix-with-conditions)|<span style="color: #ef4743;">困难</span>|图、拓扑排序、数组、矩阵|To Do|
+|2393|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|数组、数学、动态规划|To Do|
+|2394|害-未爬到中文名 🔒|<span style="color: #ffb800;">中等</span>|数据库|To Do|
+|2395|[和相等的子数组](https://leetcode.cn/problems/find-subarrays-with-equal-sum)|<span style="color: #2db55d;">简单</span>|数组、哈希表|To Do|
+|2396|[严格回文的数字](https://leetcode.cn/problems/strictly-palindromic-number)|<span style="color: #ffb800;">中等</span>|脑筋急转弯、数学、双指针|To Do|
+|2397|[被列覆盖的最多行数](https://leetcode.cn/problems/maximum-rows-covered-by-columns)|<span style="color: #ffb800;">中等</span>|位运算、数组、回溯、枚举、矩阵|To Do|
+|2398|[预算内的最多机器人数目](https://leetcode.cn/problems/maximum-number-of-robots-within-budget)|<span style="color: #ef4743;">困难</span>|队列、数组、二分查找、前缀和、滑动窗口、堆（优先队列）|To Do|
+|2399|[检查相同字母间的距离](https://leetcode.cn/problems/check-distances-between-same-letters)|<span style="color: #2db55d;">简单</span>|数组、哈希表、字符串|To Do|
+|2400|[恰好移动 k 步到达某一位置的方法数目](https://leetcode.cn/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps)|<span style="color: #ffb800;">中等</span>|数学、动态规划、组合数学|To Do|
+|2401|[最长优雅子数组](https://leetcode.cn/problems/longest-nice-subarray)|<span style="color: #ffb800;">中等</span>|位运算、数组、滑动窗口|To Do|
+|2402|[会议室 III](https://leetcode.cn/problems/meeting-rooms-iii)|<span style="color: #ef4743;">困难</span>|数组、排序、堆（优先队列）|To Do|
+|2403|害-未爬到中文名 🔒|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|2404|[出现最频繁的偶数元素](https://leetcode.cn/problems/most-frequent-even-element)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2405|[子字符串的最优划分](https://leetcode.cn/problems/optimal-partition-of-string)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2406|[将区间分为最少组数](https://leetcode.cn/problems/divide-intervals-into-minimum-number-of-groups)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2407|[最长递增子序列 II](https://leetcode.cn/problems/longest-increasing-subsequence-ii)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode.cn/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode.cn/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode.cn/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
@@ -2519,7 +2548,6 @@
 |剑指Offer58-I|[翻转单词顺序](https://leetcode.cn/problems/fan-zhuan-dan-ci-shun-xu-lcof)|<span style="color: #2db55d;">简单</span>|双指针、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/剑指Offer58-I.翻转单词顺序/剑指Offer58-I.翻转单词顺序.cpp)|
 |剑指Offer58-II|[左旋转字符串](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof)|<span style="color: #2db55d;">简单</span>|数学、双指针、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/剑指Offer58-II.左旋转字符串/剑指Offer58-II.左旋转字符串.cpp)|
 |剑指Offer59-I|[滑动窗口的最大值](https://leetcode.cn/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof)|<span style="color: #ef4743;">困难</span>|队列、滑动窗口、单调队列、堆（优先队列）|To Do|
-|剑指Offer59-II|[队列的最大值](https://leetcode.cn/problems/dui-lie-de-zui-da-zhi-lcof)|<span style="color: #ffb800;">中等</span>|设计、队列、单调队列|To Do|
 |剑指Offer60|[n个骰子的点数](https://leetcode.cn/problems/nge-tou-zi-de-dian-shu-lcof)|<span style="color: #ffb800;">中等</span>|数学、动态规划、概率与统计|To Do|
 |剑指Offer61|[扑克牌中的顺子](https://leetcode.cn/problems/bu-ke-pai-zhong-de-shun-zi-lcof)|<span style="color: #2db55d;">简单</span>|数组、排序|To Do|
 |剑指Offer62|[圆圈中最后剩下的数字](https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof)|<span style="color: #2db55d;">简单</span>|递归、数学|To Do|
@@ -2759,3 +2787,4 @@
 |面试题17.25|[单词矩阵](https://leetcode.cn/problems/word-rectangle-lcci)|<span style="color: #ef4743;">困难</span>|字典树、数组、字符串、回溯|To Do|
 |面试题17.26|[稀疏相似度](https://leetcode.cn/problems/sparse-similarity-lcci)|<span style="color: #ef4743;">困难</span>|数组、哈希表、排序|To Do|
 |面试题13|[机器人的运动范围](https://leetcode.cn/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof)|<span style="color: #ffb800;">中等</span>|深度优先搜索、广度优先搜索、动态规划|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/面试题13.机器人的运动范围/面试题13.机器人的运动范围.py)|
+|面试题59-II|[队列的最大值](https://leetcode.cn/problems/dui-lie-de-zui-da-zhi-lcof)|<span style="color: #ffb800;">中等</span>|设计、队列、单调队列|To Do|

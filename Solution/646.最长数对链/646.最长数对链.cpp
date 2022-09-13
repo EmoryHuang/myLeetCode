@@ -1,20 +1,20 @@
 /*
- * @Descroption: LeetCode 646. ×î³¤Êı¶ÔÁ´
+ * @Descroption: LeetCode 646. æœ€é•¿æ•°å¯¹é“¾
  * @Author: EmoryHuang
  * @Date: 2021-06-14 13:36:00
- * @½âÌâË¼Â·:
- * ·½·¨Ò»£ºÌ°ĞÄË¼Ïë£¬
- * ÒÔÊı¶ÔµÄµÚ¶ş¸öÖµ´ÓĞ¡µ½´óÅÅĞò
- * È»ºó±È½Ï pairs[i][0] ºÍ pre µÄ´óĞ¡
+ * @è§£é¢˜æ€è·¯:
+ * æ–¹æ³•ä¸€ï¼šè´ªå¿ƒæ€æƒ³ï¼Œ
+ * ä»¥æ•°å¯¹çš„ç¬¬äºŒä¸ªå€¼ä»å°åˆ°å¤§æ’åº
+ * ç„¶åæ¯”è¾ƒ pairs[i][0] å’Œ pre çš„å¤§å°
  *
- * ·½·¨¶ş£º¶¯Ì¬¹æ»®
- * dp[i]±íÊ¾ÒÔ pairs[i] ½áÎ²µÄ×î³¤Á´µÄ³¤¶È
- * ×´Ì¬×ªÒÆ·½³Ì£ºdp[i] = max(dp[i], dp[j] + 1)
+ * æ–¹æ³•äºŒï¼šåŠ¨æ€è§„åˆ’
+ * dp[i]è¡¨ç¤ºä»¥ pairs[i] ç»“å°¾çš„æœ€é•¿é“¾çš„é•¿åº¦
+ * çŠ¶æ€è½¬ç§»æ–¹ç¨‹ï¼šdp[i] = max(dp[i], dp[j] + 1)
  */
 
 class Solution {
    public:
-    // ·½·¨Ò»£ºÌ°ĞÄ
+    // æ–¹æ³•ä¸€ï¼šè´ªå¿ƒ
     // static bool cmp(vector<int> a, vector<int> b) { return a[1] < b[1]; }
     // int findLongestChain(vector<vector<int>>& pairs) {
     //     sort(pairs.begin(), pairs.end(), cmp);
@@ -28,12 +28,12 @@ class Solution {
     //     return ans;
     // }
 
-    // ·½·¨¶ş£º¶¯Ì¬¹æ»®
+    // æ–¹æ³•äºŒï¼šåŠ¨æ€è§„åˆ’
     static bool cmp(vector<int> a, vector<int> b) { return a[0] < b[0]; }
     int findLongestChain(vector<vector<int>>& pairs) {
         sort(pairs.begin(), pairs.end(), cmp);
         int n = pairs.size();
-        // dp[i]±íÊ¾ÒÔ pairs[i] ½áÎ²µÄ×î³¤Á´µÄ³¤¶È
+        // dp[i]è¡¨ç¤ºä»¥ pairs[i] ç»“å°¾çš„æœ€é•¿é“¾çš„é•¿åº¦
         vector<int> dp(n, 1);
         for (int i = 1; i < n; i++) {
             for (int j = 0; j < i; j++) {
