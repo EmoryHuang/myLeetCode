@@ -1,10 +1,10 @@
 /*
- * @Descroption: LeetCode 942. Ôö¼õ×Ö·û´®Æ¥Åä
+ * @Descroption: LeetCode 942. å¢žå‡å­—ç¬¦ä¸²åŒ¹é…
  * @Author: EmoryHuang
  * @Date: 2021-06-04 14:07:00
- * @½âÌâË¼Â·:
- * Î¬»¤µ±Ç°Î´Ê¹ÓÃµÄ×îÐ¡ºÍ×î´óµÄÊý£¬´Ó×óÏòÓÒÉ¨Ãè×Ö·û´®£¬
- * Èç¹ûÅöµ½ 'I'£¬¾ÍÈ¡³öµ±Ç°×îÐ¡µÄÊý£¬·ñÔòÈ¡³öµ±Ç°×î´óµÄÊý
+ * @è§£é¢˜æ€è·¯:
+ * ç»´æŠ¤å½“å‰æœªä½¿ç”¨çš„æœ€å°å’Œæœ€å¤§çš„æ•°ï¼Œä»Žå·¦å‘å³æ‰«æå­—ç¬¦ä¸²ï¼Œ
+ * å¦‚æžœç¢°åˆ° 'I'ï¼Œå°±å–å‡ºå½“å‰æœ€å°çš„æ•°ï¼Œå¦åˆ™å–å‡ºå½“å‰æœ€å¤§çš„æ•°
  */
 
 class Solution {

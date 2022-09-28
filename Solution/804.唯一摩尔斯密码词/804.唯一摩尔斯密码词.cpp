@@ -1,10 +1,10 @@
 /*
- * @Descroption: LeetCode 804. 唯一摩尔斯密码词
+ * @Descroption: LeetCode 804. 鍞竴鎽╁皵鏂瘑鐮佽瘝
  * @Author: EmoryHuang
  * @Date: 2021-07-26 14:45:48
  * @Method:
- * dfs回溯
- * 使用set记录不同摩尔斯密码词
+ * dfs鍥炴函
+ * 浣跨敤set璁板綍涓嶅悓鎽╁皵鏂瘑鐮佽瘝
  */
 
 class Solution {

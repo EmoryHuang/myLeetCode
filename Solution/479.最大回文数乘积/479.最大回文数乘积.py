@@ -1,9 +1,9 @@
 '''
-Descroption: LeetCode 479. 最大回文数乘积
+Descroption: LeetCode 479. 鏈�澶у洖鏂囨暟涔樼Н
 Author: EmoryHuang
 Date: 2022-04-16 08:42:17
 Method:
-打表
+鎵撹〃
 '''
 
 

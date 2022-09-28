@@ -1,9 +1,9 @@
 /*
- * @Descroption: LeetCode 908. ��С��ֵ I
+ * @Descroption: LeetCode 908. 最小差值 I
  * @Author: EmoryHuang
  * @Date: 2021-04-27 14:09:36
- * @����˼·:
- * ���⣬��Ҫ����������Ŀ��˼�����ϵ�����`-K <= x <= K`֮��
+ * @解题思路:
+ * 简单题，主要在于理解题目意思，加上的数在`-K <= x <= K`之间
  */
 
 class Solution {

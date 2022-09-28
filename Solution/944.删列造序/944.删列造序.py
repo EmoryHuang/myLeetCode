@@ -1,9 +1,9 @@
 '''
-Descroption: LeetCode 944. ɾ������
+Descroption: LeetCode 944. 删列造序
 Author: EmoryHuang
 Date: 2022-05-12 08:54:45
 Method:
-���⣬�����Ƚϵ�ǰ�к���һ��Ԫ�ؼ���
+简单题，遍历比较当前行和上一行元素即可
 '''
 
 

@@ -1,9 +1,9 @@
 /*
- * @Descroption: LeetCode 1672. ��пͻ����ʲ�����
+ * @Descroption: LeetCode 1672. 最富有客户的资产总量
  * @Author: EmoryHuang
  * @Date: 2021-05-19 20:23:31
- * @����˼·:
- * ���⣬����ά�����е����Ԫ�غ�
+ * @解题思路:
+ * 简单题，求解二维数组行的最大元素和
  */
 
 class Solution {

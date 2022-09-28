@@ -1,11 +1,11 @@
 '''
-Descroption: LeetCode 385. ÃÔÄãÓï·¨·ÖÎöÆ÷
+Descroption: LeetCode 385. è¿·ä½ è¯­æ³•åˆ†æå™¨
 Author: EmoryHuang
 Date: 2022-04-15 09:03:17
 Method:
 dfs
-Ê¹ÓÃ deep ¼ÇÂ¼µ±Ç°ËùÔÚÎ»ÖÃµÄÉî¶È£¬Ã¿´ÎÓöµ½×óÀ¨ºÅ£¬Éî¶È¼Ó 1£¬Óöµ½ÓÒÀ¨ºÅ£¬Éî¶È¼õ 1
-start ¼ÇÂ¼ÆğÊ¼Î»ÖÃ£¬°Ñ start µ½µ±Ç°Î»ÖÃÖ®¼äµÄ×Ö·û´®È¡³öÀ´µİ¹éµ÷ÓÃº¯Êı
+ä½¿ç”¨ deep è®°å½•å½“å‰æ‰€åœ¨ä½ç½®çš„æ·±åº¦ï¼Œæ¯æ¬¡é‡åˆ°å·¦æ‹¬å·ï¼Œæ·±åº¦åŠ  1ï¼Œé‡åˆ°å³æ‹¬å·ï¼Œæ·±åº¦å‡ 1
+start è®°å½•èµ·å§‹ä½ç½®ï¼ŒæŠŠ start åˆ°å½“å‰ä½ç½®ä¹‹é—´çš„å­—ç¬¦ä¸²å–å‡ºæ¥é€’å½’è°ƒç”¨å‡½æ•°
 '''
 
 # """
@@ -54,17 +54,17 @@ start ¼ÇÂ¼ÆğÊ¼Î»ÖÃ£¬°Ñ start µ½µ±Ç°Î»ÖÃÖ®¼äµÄ×Ö·û´®È¡³öÀ´µİ¹éµ÷ÓÃº¯Êı
 
 class Solution:
     def deserialize(self, s: str) -> NestedInteger:
-        # Èç¹ûÎª¿ÕÔòÖ±½Ó·µ»Ø
+        # å¦‚æœä¸ºç©ºåˆ™ç›´æ¥è¿”å›
         if not s:
             return NestedInteger()
-        # Èç¹ûÖ»ÓĞÒ»²ã
+        # å¦‚æœåªæœ‰ä¸€å±‚
         if s[0] != '[':
             return NestedInteger(int(s))
-        # Èç¹ûÎª [] Ôò·µ»Ø¿Õ
+        # å¦‚æœä¸º [] åˆ™è¿”å›ç©º
         if len(s) <= 2:
             return NestedInteger()
         ans = NestedInteger()
-        # deep ¼ÇÂ¼Éî¶È
+        # deep è®°å½•æ·±åº¦
         deep, start = 0, 1
         for i in range(1, len(s)):
             if deep == 0 and (s[i] == ',' or i == len(s) - 1):

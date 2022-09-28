@@ -1,15 +1,14 @@
 '''
-Descroption: LeetCode 1619. É¾³ıÄ³Ğ©ÔªËØºóµÄÊı×é¾ùÖµ
+Descroption: LeetCode 1619. åˆ é™¤æŸäº›å…ƒç´ åçš„æ•°ç»„å‡å€¼
 Author: EmoryHuang
-Date: 2021-09-22 20:59:38
+Date: 2022-09-14 09:12:23
 Method:
-¼òµ¥Ìâ£¬È¥µôÇ°ºó 5% ºó¼ÆËã¾ùÖµ
+ç®€å•é¢˜ï¼Œæ’åºåç›´æ¥æˆªå–
 '''
 
 
 class Solution:
     def trimMean(self, arr: List[int]) -> float:
-        arr.sort()
         n = len(arr)
-        d = n // 20
-        return sum(arr[d:(n - d)]) / (n - 2 * d)
+        arr.sort()
+        return sum(arr[int(0.05 * n):int(0.95 * n)]) / (n - 0.1 * n)

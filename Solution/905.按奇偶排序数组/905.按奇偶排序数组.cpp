@@ -1,9 +1,9 @@
 /*
- * @Descroption: LeetCode 905. ����ż��������
+ * @Descroption: LeetCode 905. 按奇偶排序数组
  * @Author: EmoryHuang
  * @Date: 2021-04-27 13:59:36
- * @����˼·:
- * ����һ�飬����ָ�룬���ý�����˼�룬��ż��Ԫ�طŵ�ǰ��
+ * @解题思路:
+ * 遍历一遍，设置指针，采用交换的思想，将偶数元素放到前面
  */
 
 class Solution {

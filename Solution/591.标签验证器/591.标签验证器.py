@@ -1,9 +1,9 @@
 '''
-Descroption: LeetCode 591. ±êÇ©ÑéÖ¤Æ÷
+Descroption: LeetCode 591. æ ‡ç­¾éªŒè¯å™¨
 Author: EmoryHuang
 Date: 2022-05-02 11:01:15
 Method:
-ÕıÔò±í´ïÊ½ÍµÀÁ
+æ­£åˆ™è¡¨è¾¾å¼å·æ‡’
 '''
 
 class Solution:

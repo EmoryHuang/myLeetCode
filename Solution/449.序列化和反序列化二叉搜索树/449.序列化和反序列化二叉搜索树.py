@@ -1,10 +1,10 @@
 '''
-Descroption: LeetCode 449. ĞòÁĞ»¯ºÍ·´ĞòÁĞ»¯¶ş²æËÑË÷Ê÷
+Descroption: LeetCode 449. åºåˆ—åŒ–å’Œååºåˆ—åŒ–äºŒå‰æœç´¢æ ‘
 Author: EmoryHuang
 Date: 2022-05-11 08:52:30
 Method:
-Ê¹ÓÃÏÈĞò±éÀúĞòÁĞ»¯
-¶ş²æËÑË÷ÊıÅÅĞòÖ®ºó¼´ÎªÖĞĞò±éÀúĞòÁĞ£¬·´ĞòÁĞ»¯ÊÇÍ¨¹ıÖĞĞò±éÀúĞòÁĞºÍÏÈĞò±éÀúĞòÁĞ¹¹½¨¶ş²æËÑË÷Ê÷
+ä½¿ç”¨å…ˆåºéå†åºåˆ—åŒ–
+äºŒå‰æœç´¢æ•°æ’åºä¹‹åå³ä¸ºä¸­åºéå†åºåˆ—ï¼Œååºåˆ—åŒ–æ˜¯é€šè¿‡ä¸­åºéå†åºåˆ—å’Œå…ˆåºéå†åºåˆ—æ„å»ºäºŒå‰æœç´¢æ ‘
 '''
 
 # Definition for a binary tree node.
@@ -20,7 +20,7 @@ class Codec:
         """Encodes a tree to a single string.
         """
 
-        # ÏÈĞò±éÀú
+        # å…ˆåºéå†
         def preorder(root):
             if root:
                 res.append(root.val)
@@ -36,9 +36,9 @@ class Codec:
         """
         if not data:
             return None
-        # ÏÈĞò±éÀúĞòÁĞ
+        # å…ˆåºéå†åºåˆ—
         pre_order = list(map(int, data.split(',')))
-        # ¶ş²æËÑË÷ÊıÅÅĞòÖ®ºó¼´ÎªÖĞĞò±éÀúĞòÁĞ
+        # äºŒå‰æœç´¢æ•°æ’åºä¹‹åå³ä¸ºä¸­åºéå†åºåˆ—
         in_order = sorted(pre_order)
 
         def build(pre_order, in_order):

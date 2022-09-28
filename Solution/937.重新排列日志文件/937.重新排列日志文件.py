@@ -1,9 +1,9 @@
 '''
-Descroption: LeetCode 937. ÖØĞÂÅÅÁĞÈÕÖ¾ÎÄ¼ş
+Descroption: LeetCode 937. é‡æ–°æ’åˆ—æ—¥å¿—æ–‡ä»¶
 Author: EmoryHuang
 Date: 2022-05-03 10:40:10
 Method:
-¼òµ¥ÅÅĞò
+ç®€å•æ’åº
 '''
 
 class Solution:
@@ -12,5 +12,5 @@ class Solution:
             a, b = log.split(' ', 1)
             return (0, b, a) if b[0].isalpha() else (1,)
 
-        logs.sort(key=trans)  # sort ÊÇÎÈ¶¨ÅÅĞò
+        logs.sort(key=trans)  # sort æ˜¯ç¨³å®šæ’åº
         return logs

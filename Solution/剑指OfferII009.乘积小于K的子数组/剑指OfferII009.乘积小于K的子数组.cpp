@@ -1,10 +1,10 @@
 /*
- * @Descroption: ½£Ö¸ Offer II 009. ³Ë»ýÐ¡ÓÚ K µÄ×ÓÊý×é
+ * @Descroption: LeetCode 713. ä¹˜ç§¯å°äºŽKçš„å­æ•°ç»„
  * @Author: EmoryHuang
- * @Date: 2021-08-10 20:19:11
+ * @Date: 2021-08-10 20:11:50
  * @Method:
- * »¬¶¯´°¿Ú
- * ±éÀúÊý×é£¬Èôµ±Ç°³Ë»ýÎ´³¬¹ý k£¬Ôò¼ÓÈë´°¿Ú£¬·ñÔòÒÆ¶¯×ó´°¿Ú
+ * æ»‘åŠ¨çª—å£
+ * éåŽ†æ•°ç»„ï¼Œè‹¥å½“å‰ä¹˜ç§¯æœªè¶…è¿‡ kï¼Œåˆ™åŠ å…¥çª—å£ï¼Œå¦åˆ™ç§»åŠ¨å·¦çª—å£
  */
 
 class Solution {

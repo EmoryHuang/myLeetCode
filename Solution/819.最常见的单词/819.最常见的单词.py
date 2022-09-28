@@ -1,9 +1,9 @@
 '''
-Descroption: LeetCode 819. ����ĵ���
+Descroption: LeetCode 819. 最常见的单词
 Author: EmoryHuang
 Date: 2021-07-28 17:20:25
 Method:
-���⣬��ϣ������
+简单题，哈希表计数
 '''
 
 

@@ -1,9 +1,9 @@
 /*
- * @Descroption: LeetCode 806. Ð´×Ö·û´®ÐèÒªµÄÐÐÊý
+ * @Descroption: LeetCode 806. å†™å­—ç¬¦ä¸²éœ€è¦çš„è¡Œæ•°
  * @Author: EmoryHuang
  * @Date: 2021-04-25 15:50:36
- * @½âÌâË¼Â·:
- * ¼òµ¥Ìâ£¬Èô`sum`´óÓÚ 100£¬ÔòÖÃ 0£¬ÖØÐÂ¼ÆÊý
+ * @è§£é¢˜æ€è·¯:
+ * ç®€å•é¢˜ï¼Œè‹¥`sum`å¤§äºŽ 100ï¼Œåˆ™ç½® 0ï¼Œé‡æ–°è®¡æ•°
  */
 
 class Solution {

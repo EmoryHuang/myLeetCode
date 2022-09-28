@@ -1,9 +1,9 @@
 /*
- * @Descroption: LeetCode 1305. Á½¿Ã¶þ²æËÑË÷Ê÷ÖÐµÄËùÓÐÔªËØ
+ * @Descroption: LeetCode 1305. ä¸¤æ£µäºŒå‰æœç´¢æ ‘ä¸­çš„æ‰€æœ‰å…ƒç´ 
  * @Author: EmoryHuang
  * @Date: 2021-07-19 19:29:20
- * @½âÌâË¼Â·:
- * ÅÅÐò + ±éÀú
+ * @è§£é¢˜æ€è·¯:
+ * æŽ’åº + éåŽ†
  */
 
 /**

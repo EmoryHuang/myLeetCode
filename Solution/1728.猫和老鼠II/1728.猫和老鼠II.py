@@ -1,11 +1,11 @@
 '''
-Descroption: LeetCode 1728. Ã¨ºÍÀÏÊó II
+Descroption: LeetCode 1728. çŒ«å’Œè€é¼  II
 Author: EmoryHuang
 Date: 2022-05-10 09:25:34
 Method:
 dfs
-ÒòÎªÈç¹ûÃ¨ÄÜÓ®£¬Ã¨¿Ï¶¨Ö±³åÊ³Îï»òÕß»î×½ÀÏÊó¡£ÀÏÊóÒ²Í¬Ñù¡£Ö»ÒªÓĞÒ»·½ÄÜÓ®¾Í²»»áÈÆÈ¦£¬Òò´Ë×î¶à¿Õ¸ñx2ÂÖ
-dfs Ä£Äâ£¬¸ø¶¨Ã¨ºÍÀÏÊóµÄÎ»ÖÃ£¬ÒÔ¼°µ±Ç°µÄÂÖÊı£¬·µ»ØÀÏÊóÊÇ·ñÄÜÓ®
+å› ä¸ºå¦‚æœçŒ«èƒ½èµ¢ï¼ŒçŒ«è‚¯å®šç›´å†²é£Ÿç‰©æˆ–è€…æ´»æ‰è€é¼ ã€‚è€é¼ ä¹ŸåŒæ ·ã€‚åªè¦æœ‰ä¸€æ–¹èƒ½èµ¢å°±ä¸ä¼šç»•åœˆï¼Œå› æ­¤æœ€å¤šç©ºæ ¼x2è½®
+dfs æ¨¡æ‹Ÿï¼Œç»™å®šçŒ«å’Œè€é¼ çš„ä½ç½®ï¼Œä»¥åŠå½“å‰çš„è½®æ•°ï¼Œè¿”å›è€é¼ æ˜¯å¦èƒ½èµ¢
 '''
 
 
@@ -31,7 +31,7 @@ class Solution:
                 return False
             if mouse == food:
                 return True
-            # µ±Ç°»ØºÏÅĞ¶Ï
+            # å½“å‰å›åˆåˆ¤æ–­
             if step % 2 == 0:
                 max_jump, cur_pos = mouseJump, mouse
                 is_cat = False
@@ -39,10 +39,10 @@ class Solution:
                 max_jump, cur_pos = catJump, cat
                 is_cat = True
 
-            # ÏòËÄÖÜÒÆ¶¯
+            # å‘å››å‘¨ç§»åŠ¨
             for dx, dy in {(0, 1), (1, 0), (-1, 0), (0, -1)}:
                 for jump in range(max_jump + 1):
-                    # Ã¨ÄÜÔ­µØ²»¶¯µ«ÀÏÊó²»ÄÜ
+                    # çŒ«èƒ½åŸåœ°ä¸åŠ¨ä½†è€é¼ ä¸èƒ½
                     if not jump and not is_cat:
                         continue
                     nx, ny = cur_pos[0] + jump * dx, cur_pos[1] + jump * dy

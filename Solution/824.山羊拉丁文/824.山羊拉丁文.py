@@ -1,9 +1,9 @@
 '''
-Descroption: LeetCode 824. É½ÑòÀ­¶¡ÎÄ
+Descroption: LeetCode 824. å±±ç¾Šæ‹‰ä¸æ–‡
 Author: EmoryHuang
 Date: 2021-09-18 19:04:30
 Method:
-±éÀúÃ¿¸öµ¥´Ê£¬°´¹æÔòÌí¼Ó
+éåŽ†æ¯ä¸ªå•è¯ï¼ŒæŒ‰è§„åˆ™æ·»åŠ 
 '''
 
 
