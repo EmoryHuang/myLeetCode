@@ -1,9 +1,9 @@
 /*
- * @Descroption: LeetCode 1668. ×î´óÖØ¸´×Ó×Ö·û´®
+ * @Descroption: LeetCode 1668. æœ€å¤§é‡å¤å­å­—ç¬¦ä¸²
  * @Author: EmoryHuang
  * @Date: 2021-05-19 20:28:31
- * @½âÌâË¼Â·:
- * ¼òµ¥Ìâ£¬Èç¹ûÕÒµ½word£¬Ôò²éÕÒwordµÄÖØ¸´
+ * @è§£é¢˜æ€è·¯:
+ * ç®€å•é¢˜ï¼Œå¦‚æžœæ‰¾åˆ°wordï¼Œåˆ™æŸ¥æ‰¾wordçš„é‡å¤
  */
 
 class Solution {

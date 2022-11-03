@@ -1,25 +1,29 @@
 '''
-Descroption: LeetCode 1620. 网络信号最好的坐标
+Descroption: LeetCode 1620. 缃戠粶淇″彿鏈�濂界殑鍧愭爣
 Author: EmoryHuang
-Date: 2021-11-05 20:07:33
+Date: 2022-11-02 09:20:30
 Method:
-遍历所有点，找到网络信号最好的坐标
+鏆村姏鏋氫妇
+鐢变簬鏁版嵁鑼冨洿杈冨皬锛屽彲浠ョ洿鎺ユ毚鍔涙灇涓炬瘡涓潗鏍囩殑淇″彿寮哄害
 '''
 
 
 class Solution:
+
     def bestCoordinate(self, towers: List[List[int]], radius: int) -> List[int]:
-        ans = [0, 0]
-        maxq = 0
-        # 遍历所有点
+
+        def t2q(i, j, x, y, q):
+            dis = math.sqrt((i - x)**2 + (j - y)**2)
+            if dis > radius:
+                return 0
+            else:
+                return q // (1 + dis)
+
+        ans, max_q = [0, 0], 0
         for i in range(51):
             for j in range(51):
-                cur = 0
-                for x, y, q in towers:
-                    d = sqrt((x - i)**2 + (y - j)**2)
-                    if d <= radius:
-                        cur += int(q / (1 + d))
-                if cur > maxq:
-                    maxq = cur
+                cur_q = sum([t2q(i, j, x, y, q) for x, y, q, in towers])
+                if cur_q > max_q:
+                    max_q = cur_q
                     ans = [i, j]
         return ans

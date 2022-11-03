@@ -1,9 +1,9 @@
 /*
- * @Descroption: LeetCode 1773. Í³¼ÆÆ¥Åä¼ìË÷¹æÔòµÄÎïÆ·ÊýÁ¿
+ * @Descroption: LeetCode 1773. ç»Ÿè®¡åŒ¹é…æ£€ç´¢è§„åˆ™çš„ç‰©å“æ•°é‡
  * @Author: EmoryHuang
  * @Date: 2021-11-05 19:49:44
  * @Method:
- * ¼òµ¥Ìâ£¬±éÀúÊý×é½øÐÐÆ¥Åä
+ * ç®€å•é¢˜ï¼ŒéåŽ†æ•°ç»„è¿›è¡ŒåŒ¹é…
  */
 
 class Solution {
