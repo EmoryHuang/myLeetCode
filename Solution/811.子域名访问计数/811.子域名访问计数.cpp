@@ -1,10 +1,10 @@
 /*
- * @Descroption: LeetCode 811. ���������ʼ���
+ * @Descroption: LeetCode 811. 子域名访问计数
  * @Author: EmoryHuang
  * @Date: 2021-05-22 14:08:00
- * @����˼·:
- * �������ǰ������֣�Ȼ��Ӻ���ǰ����
- * ʹ�ù�ϣ���洢ÿ�������ķ��ʴ���
+ * @解题思路:
+ * 首先提出前面的数字，然后从后往前遍历
+ * 使用哈希表存储每个域名的访问次数
  */
 
 class Solution {
@@ -14,10 +14,10 @@ class Solution {
         vector<string> ans;
         for (auto cpdomain : cpdomains) {
             int count = 0;
-            // ��ȡǰ�������
+            // 提取前面的数字
             for (int i = 0; cpdomain[i] != ' '; i++) 
                 count = count * 10 + (cpdomain[i] - '0');
-            // �Ӻ���ǰ������ÿ����'.',�ͽ�������ϣ��
+            // 从后往前遍历，每读到'.',就将其加入哈希表
             int j = cpdomain.size() - 1;
             for (; cpdomain[j] != ' '; j--)
                 if (cpdomain[j] == '.') 

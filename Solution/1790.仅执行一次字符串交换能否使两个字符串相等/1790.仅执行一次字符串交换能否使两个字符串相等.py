@@ -1,19 +1,23 @@
 '''
-Descroption: LeetCode 1790. ½öÖ´ĞĞÒ»´Î×Ö·û´®½»»»ÄÜ·ñÊ¹Á½¸ö×Ö·û´®ÏàµÈ
+Descroption: LeetCode 1790. ä»…æ‰§è¡Œä¸€æ¬¡å­—ç¬¦ä¸²äº¤æ¢èƒ½å¦ä½¿ä¸¤ä¸ªå­—ç¬¦ä¸²ç›¸ç­‰
 Author: EmoryHuang
-Date: 2021-08-05 20:05:03
+Date: 2022-10-11 09:09:25
 Method:
-¼òµ¥Ìâ£¬¼ÇÂ¼¶ÔÓ¦Î»ÖÃ²»ÏàÍ¬µÄÔªËØ¸öÊı
+è®¡æ•°
+éå†s1, s2, ä¸ç›¸ç­‰çš„å­—ç¬¦åªå¯èƒ½æœ‰0ä¸ªæˆ–2ä¸ª
+è‹¥ä¸ç›¸ç­‰å­—ç¬¦ä¸º2ä¸ªï¼Œå†åˆ¤æ–­å­—ç¬¦æ˜¯å¦ç›¸ç­‰
 '''
 
 
 class Solution:
+
     def areAlmostEqual(self, s1: str, s2: str) -> bool:
-        if s1 == s2: return True
-        if Counter(s1) != Counter(s2):
-            return False
         cnt = 0
-        for i in range(len(s1)):
-            if s1[i] != s2[i]:
+        a = b = None
+        for c1, c2 in zip(s1, s2):
+            if c1 != c2:
                 cnt += 1
-        return cnt == 2
+                if cnt > 2 or (cnt == 2 and (a != c2 or b != c1)):
+                    return False
+                a, b = c1, c2
+        return cnt != 1
