@@ -1,11 +1,11 @@
 '''
-Descroption: LeetCode 1669. ºÏ²¢Á½¸öÁ´±í
+Descroption: LeetCode 1669. åˆå¹¶ä¸¤ä¸ªé“¾è¡¨
 Author: EmoryHuang
 Date: 2021-07-24 13:34:07
-½âÌâË¼Â·:
-Á´±í»ù´¡Ìâ
-ÏÈÕÒµ½Á´±í1µÄµÚa-1¸ö½Úµã£¬ÕÒµ½Á´±í1µÄµÚb+1¸ö½Úµã
-ÔÙÕÒµ½Á´±í2µÄÎ²½Úµã£¬Ö®ºóÁ¬½Ó¼´¿É
+è§£é¢˜æ€è·¯:
+é“¾è¡¨åŸºç¡€é¢˜
+å…ˆæ‰¾åˆ°é“¾è¡¨1çš„ç¬¬a-1ä¸ªèŠ‚ç‚¹ï¼Œæ‰¾åˆ°é“¾è¡¨1çš„ç¬¬b+1ä¸ªèŠ‚ç‚¹
+å†æ‰¾åˆ°é“¾è¡¨2çš„å°¾èŠ‚ç‚¹ï¼Œä¹‹åŽè¿žæŽ¥å³å¯
 '''
 
 # Definition for singly-linked list.
@@ -17,18 +17,18 @@ Date: 2021-07-24 13:34:07
 class Solution:
     def mergeInBetween(self, list1: ListNode, a: int, b: int, list2: ListNode) -> ListNode:
         p = list1
-        # ÕÒµ½Á´±í1µÄµÚa-1¸ö½Úµã
+        # æ‰¾åˆ°é“¾è¡¨1çš„ç¬¬a-1ä¸ªèŠ‚ç‚¹
         for i in range(a - 1):
             p = p.next
-        # ÕÒµ½Á´±í1µÄµÚb+1¸ö½Úµã
+        # æ‰¾åˆ°é“¾è¡¨1çš„ç¬¬b+1ä¸ªèŠ‚ç‚¹
         q = p.next
         for i in range(a, b + 1):
             q = q.next
-        # ÕÒµ½Á´±í2µÄÎ²½Úµã
+        # æ‰¾åˆ°é“¾è¡¨2çš„å°¾èŠ‚ç‚¹
         tail = list2
         while tail.next:
             tail = tail.next
-        # Á¬½Ó
+        # è¿žæŽ¥
         p.next = list2
         tail.next = q
         return list1
