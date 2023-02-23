@@ -1,18 +1,18 @@
 '''
-Descroption: LeetCode 795. Çø¼ä×ÓÊı×é¸öÊı
+Descroption: LeetCode 795. åŒºé—´å­æ•°ç»„ä¸ªæ•°
 Author: EmoryHuang
 Date: 2021-08-15 12:24:59
 Method:
-¶¯Ì¬¹æ»®
-Ê¹ÓÃcount¼ÆËãÊı×éÖĞĞ¡ÓÚµÈÓÚxµÄ×ÓÊı×éµÄÊıÁ¿
-×îºóµÄ½á¹û¼´Îªcount(right) - count(left - 1)
+åŠ¨æ€è§„åˆ’
+ä½¿ç”¨countè®¡ç®—æ•°ç»„ä¸­å°äºç­‰äºxçš„å­æ•°ç»„çš„æ•°é‡
+æœ€åçš„ç»“æœå³ä¸ºcount(right) - count(left - 1)
 '''
 
 
 class Solution:
     def numSubarrayBoundedMax(self, nums: List[int], left: int, right: int) -> int:
         def count(x: int) -> int:
-            # ¼ÆËãÊı×éÖĞĞ¡ÓÚµÈÓÚxµÄ×ÓÊı×éµÄÊıÁ¿
+            # è®¡ç®—æ•°ç»„ä¸­å°äºç­‰äºxçš„å­æ•°ç»„çš„æ•°é‡
             ans = cur = 0
             for num in nums:
                 cur = cur + 1 if num <= x else 0

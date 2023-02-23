@@ -1,10 +1,10 @@
 '''
-Descroption: LeetCode 2032. ÖÁÉÙÔÚÁ½¸öÊý×éÖÐ³öÏÖµÄÖµ
+Descroption: LeetCode 2032. è‡³å°‘åœ¨ä¸¤ä¸ªæ•°ç»„ä¸­å‡ºçŽ°çš„å€¼
 Author: EmoryHuang
 Date: 2021-10-16 19:19:08
 Method:
-¹þÏ£±í
-Ê¹ÓÃ¹þÏ£±í¼ÇÂ¼3¸öÊý×éÖÐÊý×Ö³öÏÖµÄÊýÁ¿£¬½«³öÏÖ´ÎÊý´óÓÚ 2 µÄ¼ÓÈë ans
+å“ˆå¸Œè¡¨
+ä½¿ç”¨å“ˆå¸Œè¡¨è®°å½•3ä¸ªæ•°ç»„ä¸­æ•°å­—å‡ºçŽ°çš„æ•°é‡ï¼Œå°†å‡ºçŽ°æ¬¡æ•°å¤§äºŽ 2 çš„åŠ å…¥ ans
 '''
 
 

@@ -1,20 +1,12 @@
 '''
-Descroption: LeetCode 1758. Éú³É½»Ìæ¶ş½øÖÆ×Ö·û´®µÄ×îÉÙ²Ù×÷Êı
+Descroption: LeetCode 1758. ç”Ÿæˆäº¤æ›¿äºŒè¿›åˆ¶å­—ç¬¦ä¸²çš„æœ€å°‘æ“ä½œæ•°
 Author: EmoryHuang
-Date: 2021-08-15 12:40:43
+Date: 2022-11-29 09:15:33
 Method:
-±éÀú×Ö·û´®£¬ÅĞ¶Ïµ±Ç°×Ö·û´®ºÍ 0101...01 ÒÔ¼° 1010...10µÄ²îÒì
+å°†å­—ç¬¦ä¸²ä¸0101...å’Œ1010...æ¯”è¾ƒ
 '''
-
 
 class Solution:
     def minOperations(self, s: str) -> int:
-        cnt1, cnt2 = 0, 0
-        for i in range(len(s)):
-            if s[i] == str(i % 2):
-                # ÅĞ¶Ïµ±Ç°×Ö·û´®ºÍ 0101...01µÄ²îÒì
-                cnt1 += 1
-            else:
-                # ÅĞ¶Ïµ±Ç°×Ö·û´®ºÍ 1010...10µÄ²îÒì
-                cnt2 += 1
-        return min(cnt1, cnt2)
+        cnt = sum(int(c) != i % 2 for i, c in enumerate(s))
+        return min(cnt, len(s) - cnt)

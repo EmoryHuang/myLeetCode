@@ -1,15 +1,15 @@
 '''
-Descroption: LeetCode 1805. ×Ö·û´®ÖÐ²»Í¬ÕûÊýµÄÊýÄ¿
+Descroption: LeetCode 1805. å­—ç¬¦ä¸²ä¸­ä¸åŒæ•´æ•°çš„æ•°ç›®
 Author: EmoryHuang
 Date: 2021-07-14 20:45:41
-½âÌâË¼Â·:
-±éÀúÊý×é£¬ÈôÓöµ½Êý×Ö£¬Ôò¼ÇÂ¼
-½«²»Í¬µÄÊý×Ö·ÅÈëÊý×é
+è§£é¢˜æ€è·¯:
+éåŽ†æ•°ç»„ï¼Œè‹¥é‡åˆ°æ•°å­—ï¼Œåˆ™è®°å½•
+å°†ä¸åŒçš„æ•°å­—æ”¾å…¥æ•°ç»„
 '''
 
 
 class Solution:
-    # ·½·¨Ò»£º±©Á¦
+    # æ–¹æ³•ä¸€ï¼šæš´åŠ›
     # def numDifferentIntegers(self, word: str) -> int:
     #     nums = []
     #     num = ''
@@ -24,6 +24,6 @@ class Solution:
     #         nums.append(num)
     #     return len(nums)
 
-    # ·½·¨¶þ£ºÕýÔò
+    # æ–¹æ³•äºŒï¼šæ­£åˆ™
     def numDifferentIntegers(self, word: str) -> int:
         return len(set(int(each) for each in re.findall(r"([0-9]+)", word)))
