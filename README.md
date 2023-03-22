@@ -1,12 +1,12 @@
 # LeetCode 解题报告
 
-![](https://img.shields.io/badge/Solved-1106/2950-blue)
-![](https://img.shields.io/badge/easy-399-brightgreen)
-![](https://img.shields.io/badge/medium-570-yellow)
+![](https://img.shields.io/badge/Solved-1113/2975-blue)
+![](https://img.shields.io/badge/easy-402-brightgreen)
+![](https://img.shields.io/badge/medium-574-yellow)
 ![](https://img.shields.io/badge/hard-137-red)
 
 
-🧡最近一次更新:  2023-02-23 14:24:46
+🧡最近一次更新:  2023-03-22 14:53:59
 
 🧡题目后带有 🔒 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -1640,7 +1640,7 @@
 |1623|三人国家代表队 🔒|<span style="color: #2db55d;">简单</span>|数据库|To Do|
 |1624|[两个相同字符之间的最长子字符串](https://leetcode.cn/problems/largest-substring-between-two-equal-characters)|<span style="color: #2db55d;">简单</span>|哈希表、字符串|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1624.两个相同字符之间的最长子字符串/1624.两个相同字符之间的最长子字符串.java)|
 |1625|[执行操作后字典序最小的字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-applying-operations)|<span style="color: #ffb800;">中等</span>|广度优先搜索、字符串|To Do|
-|1626|[无矛盾的最佳球队](https://leetcode.cn/problems/best-team-with-no-conflicts)|<span style="color: #ffb800;">中等</span>|数组、动态规划、排序|To Do|
+|1626|[无矛盾的最佳球队](https://leetcode.cn/problems/best-team-with-no-conflicts)|<span style="color: #ffb800;">中等</span>|数组、动态规划、排序|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/1626.无矛盾的最佳球队/1626.无矛盾的最佳球队.py)|
 |1627|[带阈值的图连通性](https://leetcode.cn/problems/graph-connectivity-with-threshold)|<span style="color: #ef4743;">困难</span>|并查集、数组、数学|To Do|
 |1628|设计带解析函数的表达式树 🔒|<span style="color: #ffb800;">中等</span>|栈、树、设计、数学、二叉树|To Do|
 |1629|[按键持续时间最长的键](https://leetcode.cn/problems/slowest-key)|<span style="color: #2db55d;">简单</span>|数组、字符串|To Do|
@@ -2483,7 +2483,7 @@
 |2466|[统计构造好字符串的方案数](https://leetcode.cn/problems/count-ways-to-build-good-strings)|<span style="color: #ffb800;">中等</span>|动态规划|To Do|
 |2467|[树上最大得分和路径](https://leetcode.cn/problems/most-profitable-path-in-a-tree)|<span style="color: #ffb800;">中等</span>|树、深度优先搜索、广度优先搜索、图、数组|To Do|
 |2468|[根据限制分割消息](https://leetcode.cn/problems/split-message-based-on-limit)|<span style="color: #ef4743;">困难</span>|字符串、二分查找|To Do|
-|2469|[温度转换](https://leetcode.cn/problems/convert-the-temperature)|<span style="color: #2db55d;">简单</span>|数学|To Do|
+|2469|[温度转换](https://leetcode.cn/problems/convert-the-temperature)|<span style="color: #2db55d;">简单</span>|数学|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/2469.温度转换/2469.温度转换.py)|
 |2470|[最小公倍数为 K 的子数组数目](https://leetcode.cn/problems/number-of-subarrays-with-lcm-equal-to-k)|<span style="color: #ffb800;">中等</span>|数组、数学、数论|To Do|
 |2471|[逐层排序二叉树所需的最少操作数目](https://leetcode.cn/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level)|<span style="color: #ffb800;">中等</span>|树、广度优先搜索、二叉树|To Do|
 |2472|[不重叠回文子字符串的最大数目](https://leetcode.cn/problems/maximum-number-of-non-overlapping-palindrome-substrings)|<span style="color: #ef4743;">困难</span>|字符串、动态规划|To Do|
@@ -2588,6 +2588,31 @@
 |2571|[将整数减少到零需要的最少操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-an-integer-to-0)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2572|[无平方子集计数](https://leetcode.cn/problems/count-the-number-of-square-free-subsets)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |2573|[找出对应 LCP 矩阵的字符串](https://leetcode.cn/problems/find-the-string-with-lcp)|<span style="color: #ef4743;">困难</span>|暂无标签|To Do|
+|2574|[左右元素和的差值](https://leetcode.cn/problems/left-and-right-sum-differences)|<span style="color: #2db55d;">简单</span>|数组、前缀和|To Do|
+|2575|[找出字符串的可整除数组](https://leetcode.cn/problems/find-the-divisibility-array-of-a-string)|<span style="color: #ffb800;">中等</span>|数组、数学、字符串|To Do|
+|2576|[求出最多标记下标](https://leetcode.cn/problems/find-the-maximum-number-of-marked-indices)|<span style="color: #ffb800;">中等</span>|贪心、数组、双指针、二分查找、排序|To Do|
+|2577|[在网格图中访问一个格子的最少时间](https://leetcode.cn/problems/minimum-time-to-visit-a-cell-in-a-grid)|<span style="color: #ef4743;">困难</span>|广度优先搜索、图、数组、矩阵、最短路、堆（优先队列）|To Do|
+|2578|[最小和分割](https://leetcode.cn/problems/split-with-minimum-sum)|<span style="color: #2db55d;">简单</span>|贪心、数学、排序|To Do|
+|2579|[统计染色格子数](https://leetcode.cn/problems/count-total-number-of-colored-cells)|<span style="color: #ffb800;">中等</span>|数学|To Do|
+|2580|[统计将重叠区间合并成组的方案数](https://leetcode.cn/problems/count-ways-to-group-overlapping-ranges)|<span style="color: #ffb800;">中等</span>|数组、排序|To Do|
+|2581|[统计可能的树根数目](https://leetcode.cn/problems/count-number-of-possible-root-nodes)|<span style="color: #ef4743;">困难</span>|树、深度优先搜索、哈希表、动态规划|To Do|
+|2582|[递枕头](https://leetcode.cn/problems/pass-the-pillow)|<span style="color: #2db55d;">简单</span>|数学、模拟|To Do|
+|2583|[二叉树中的第 K 大层和](https://leetcode.cn/problems/kth-largest-sum-in-a-binary-tree)|<span style="color: #ffb800;">中等</span>|树、广度优先搜索、二分查找|To Do|
+|2584|[分割数组使乘积互质](https://leetcode.cn/problems/split-the-array-to-make-coprime-products)|<span style="color: #ef4743;">困难</span>|数组、哈希表、数学、数论|To Do|
+|2585|[获得分数的方法数](https://leetcode.cn/problems/number-of-ways-to-earn-points)|<span style="color: #ef4743;">困难</span>|数组、动态规划|To Do|
+|2586|[统计范围内的元音字符串数](https://leetcode.cn/problems/count-the-number-of-vowel-strings-in-range)|<span style="color: #2db55d;">简单</span>|数组、字符串|To Do|
+|2587|[重排数组以得到最大前缀分数](https://leetcode.cn/problems/rearrange-array-to-maximize-prefix-score)|<span style="color: #ffb800;">中等</span>|贪心、数组、前缀和、排序|To Do|
+|2588|[统计美丽子数组数目](https://leetcode.cn/problems/count-the-number-of-beautiful-subarrays)|<span style="color: #ffb800;">中等</span>|位运算、数组、哈希表、前缀和|To Do|
+|2589|[完成所有任务的最少时间](https://leetcode.cn/problems/minimum-time-to-complete-all-tasks)|<span style="color: #ef4743;">困难</span>|栈、贪心、数组、二分查找、排序|To Do|
+|2590|Design a Todo List 🔒|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2591|[将钱分给最多的儿童](https://leetcode.cn/problems/distribute-money-to-maximum-children)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2592|[最大化数组的伟大值](https://leetcode.cn/problems/maximize-greatness-of-an-array)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2593|[标记所有元素后数组的分数](https://leetcode.cn/problems/find-score-of-an-array-after-marking-all-elements)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2594|[修车的最少时间](https://leetcode.cn/problems/minimum-time-to-repair-cars)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2595|[奇偶位数](https://leetcode.cn/problems/number-of-even-and-odd-bits)|<span style="color: #2db55d;">简单</span>|暂无标签|To Do|
+|2596|[检查骑士巡视方案](https://leetcode.cn/problems/check-knight-tour-configuration)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2597|[美丽子集的数目](https://leetcode.cn/problems/the-number-of-beautiful-subsets)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
+|2598|[执行操作后的最大 MEX](https://leetcode.cn/problems/smallest-missing-non-negative-integer-after-operations)|<span style="color: #ffb800;">中等</span>|暂无标签|To Do|
 |LCP01|[猜数字](https://leetcode.cn/problems/guess-numbers)|<span style="color: #2db55d;">简单</span>|数组|[📝](https://github.com/EmoryHuang/myLeetCode/tree/master//Solution/LCP01.猜数字/LCP01.猜数字.cpp)|
 |LCP02|[分式化简](https://leetcode.cn/problems/deep-dark-fraction)|<span style="color: #2db55d;">简单</span>|数组、数学、数论、模拟|To Do|
 |LCP03|[机器人大冒险](https://leetcode.cn/problems/programmable-robot)|<span style="color: #ffb800;">中等</span>|数组、哈希表、模拟|To Do|
