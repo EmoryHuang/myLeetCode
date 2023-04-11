@@ -1,30 +1,31 @@
 '''
-Descroption: LeetCode 1019. Á´±íÖĞµÄÏÂÒ»¸ö¸ü´ó½Úµã
+Descroption: LeetCode 1019. é“¾è¡¨ä¸­çš„ä¸‹ä¸€ä¸ªæ›´å¤§èŠ‚ç‚¹
 Author: EmoryHuang
-Date: 2021-07-23 19:04:48
-½âÌâË¼Â·:
-Î¬»¤Ò»¸öµİ¼õÕ»£¬Õ»ÖĞ´æ´¢ÔªËØÏÂ±ê
-±éÀúÊı×é£¬ÈôÓöµ½±ÈÕ»¶¥ÔªËØ¸ü´óµÄÊı£¬¼´ÎªÓö¼ûµÄµÚÒ»¸ö¸ü´ó½Úµã
+Date: 2023-04-10 09:31:57
+Method:
+ç»´æŠ¤ä¸€ä¸ªé€’å‡æ ˆï¼Œæ ˆä¸­å­˜å‚¨å…ƒç´ ä¸‹æ ‡
+éå†æ•°ç»„ï¼Œè‹¥é‡åˆ°æ¯”æ ˆé¡¶å…ƒç´ æ›´å¤§çš„æ•°ï¼Œå³ä¸ºé‡è§çš„ç¬¬ä¸€ä¸ªæ›´å¤§èŠ‚ç‚¹
 '''
 
 
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+
 
 class Solution:
-    def nextLargerNodes(self, head: ListNode) -> List[int]:
+    def nextLargerNodes(self, head: Optional[ListNode]) -> List[int]:
         nums = []
         while head:
             nums.append(head.val)
             head = head.next
-        stack, ans = [], [0] * len(nums)
+        stack = []
+        ans = [0] * len(nums)
         for i, num in enumerate(nums):
-            # Î¬»¤Ò»¸öµİ¼õÕ»
             while stack and nums[stack[-1]] < num:
-                ans[stack[-1]] = num  # Óöµ½µÄµÚÒ»¸ö¸ü´óÖµ
+                ans[stack[-1]] = num
                 stack.pop()
             stack.append(i)
         return ans
