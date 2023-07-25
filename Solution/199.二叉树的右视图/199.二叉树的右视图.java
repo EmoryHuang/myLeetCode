@@ -1,7 +1,7 @@
 /*
- * @Descroption: LeetCode 1161. 最大层内元素和
+ * @Descroption: LeetCode 199. 二叉树的右视图
  * @Author: EmoryHuang
- * @Date: 2023-07-15 16:17:12
+ * @Date: 2023-07-15 16:08:44
  * @Method:
  * 二叉树层序遍历
  */
@@ -24,27 +24,26 @@ import java.util.*;
  * }
  */
 class Solution {
-    public int maxLevelSum(TreeNode root) {
-        int max = Integer.MIN_VALUE;
-        int layer = 0, ans = 0;
+    public List<Integer> rightSideView(TreeNode root) {
+        List<Integer> ans = new ArrayList<>();
+        if (root == null) {
+            return ans;
+        }
         Queue<TreeNode> q = new LinkedList<>();
         q.offer(root);
         while (!q.isEmpty()) {
-            int len = q.size(), sum = 0;
-            layer++;
+            int len = q.size();
             for (int i = 0; i < len; i++) {
                 TreeNode cur = q.poll();
-                sum += cur.val;
                 if (cur.left != null) {
                     q.offer(cur.left);
                 }
                 if (cur.right != null) {
                     q.offer(cur.right);
                 }
-            }
-            if (sum > max) {
-                max = sum;
-                ans = layer;
+                if (i == len - 1) {
+                    ans.add(cur.val);
+                }
             }
         }
         return ans;
