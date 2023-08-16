@@ -1,9 +1,9 @@
 /*
- * @Descroption: LeetCode 437. 路径总和 III
+ * @Description: LeetCode 437. 路径总和 III
  * @Author: EmoryHuang
- * @Date: 2023-07-15 10:58:50
- * @Method:
- * 在 dfs1 中对于每个当前节点，使用 dfs2 搜索以其为根的所有（往下的）路径
+ * @Date: 2023-08-11 14:20:52
+ * @解题思路:
+ * 2个dfs，分别对每个节点的子树计算路径和
  */
 
 import java.util.*;
@@ -27,28 +27,28 @@ class Solution {
     int ans = 0;
 
     public int pathSum(TreeNode root, int targetSum) {
-        dfs1(root, targetSum);
+        dfsNode(root, targetSum);
         return ans;
     }
 
-    void dfs1(TreeNode root, int targetSum) {
-        if (root == null) {
+    void dfsNode(TreeNode node, int targetSum) {
+        if (node == null) {
             return;
         }
-        dfs2(root, root.val, targetSum);
-        dfs1(root.left, targetSum);
-        dfs1(root.right, targetSum);
+        dfsSub(node, node.val, targetSum);
+        dfsNode(node.left, targetSum);
+        dfsNode(node.right, targetSum);
     }
 
-    void dfs2(TreeNode root, long val, int targetSum) {
+    void dfsSub(TreeNode node, long val, int targetSum) {
         if (val == targetSum) {
             ans++;
         }
-        if (root.left != null) {
-            dfs2(root.left, val + root.left.val, targetSum);
+        if (node.left != null) {
+            dfsSub(node.left, node.left.val + val, targetSum);
         }
-        if (root.right != null) {
-            dfs2(root.right, val + root.right.val, targetSum);
+        if (node.right != null) {
+            dfsSub(node.right, node.right.val + val, targetSum);
         }
     }
 }

@@ -1,8 +1,8 @@
 /*
- * @Descroption: LeetCode 236. 二叉树的最近公共祖先
+ * @Description: LeetCode 236. 二叉树的最近公共祖先
  * @Author: EmoryHuang
- * @Date: 2023-07-15 16:01:20
- * @Method:
+ * @Date: 2023-08-11 14:25:05
+ * @解题思路:
  * dfs
  * 当遇到节点 p 或 q 时返回
  * 当节点 p,q 在节点 root 的异侧时，节点 root 即为最近公共祖先
